@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<!--
+Prologue by HTML5 UP	html5up.net | @n33co
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
+<html lang="{{ DEFAULT_LANG }}">
+	<head>
+		<meta content="text/html; charset=utf-8" http-equiv="content-type">
+		<title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+		<link rel="alternate" type="application/rss+xml" href="{{ SITEURL }}/feeds/all.atom.xml" title="Profª. Karla Lima">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!--[if lte IE 8]><script src="{{ SITEURL }}/assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="{{ SITEURL }}/assets/css/main.css">
+		<!--[if lte IE 8]><link rel="stylesheet" href="{{ SITEURL }}/assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="{{ SITEURL }}/assets/css/ie9.css" /><![endif]-->
+	</head>
+	<body>
+		<!-- Header -->
+		<div id="header">
+			<div class="top">
+				<!-- Logo -->
+				<div id="logo"> <span class="image avatar48"><img src="{{ SITEURL }}/images/avatar.jpg"
+						alt=""></span>
+					<h1 id="title">{{ AUTHOR }}</h1>
+					<p>{{ INSTITUTION }}</p>
+				</div>
+				<!-- Nav -->
+				<nav id="nav">
+					<!--
+					Prologue's nav expects links in one of two formats:
+					1. Hash link (scrolls to a different section within the page)
+					<li><a href="#foobar" id="foobar-link" class="icon fa-whatever-icon-you-want skel-layers-ignoreHref"><span class="label">Foobar</span></a></li>
+					2. Standard link (sends the user to another page/site)
+					<li><a href="http://foobar.tld" id="foobar-link" class="icon fa-whatever-icon-you-want"><span class="label">Foobar</span></a></li>
+					-->
+					<ul>
+						<li><a href="#top" id="top-link" class="skel-layers-ignoreHref"><span
+									class="icon fa-home">Início</span></a></li>
+						{% for category, articles in categories %}
+						<li><a href="#{{ category.name }}" id="{{ category.name }}-link" class="skel-layers-ignoreHref"><span
+									class="icon fa-{{ category.name }}">{{ category.name }}</span></a></li>
+						{% endfor %}
+						<li><a href="#about" id="about-link" class="skel-layers-ignoreHref"><span
+									class="icon fa-user">About Me</span></a></li>
+						<li><a href="#contato" id="contato-link" class="skel-layers-ignoreHref"><span
+									class="icon fa-envelope">Contato</span></a></li>
+					</ul>
+				</nav>
+			</div>
+			<div class="bottom">
+				<!-- Social Icons -->
+				<ul class="icons">
+					{% for name, link in SOCIAL %}
+					<li><a href="{{ link }}" class="icon fa-{{ name }}"><span class="label">name</span></a></li>
+					{% endfor %}
+				</ul>
+			</div>
+		</div>
+		<!-- Main -->
+		<div id="main">
+			{% block content %}
+			{% endblock %}
+		</div>
+
+		<!-- Footer -->
+		<div id="footer">
+			<!-- Copyright -->
+			<ul class="copyright">
+				<li>© {{ AUTHOR }}. All rights reserved.</li>
+				<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+			</ul>
+		</div>
+		<!-- Scripts -->
+		<script src="{{ SITEURL }}/assets/js/jquery.min.js"></script>
+		<script src="{{ SITEURL }}/assets/js/jquery.scrolly.min.js"></script>
+		<script src="{{ SITEURL }}/assets/js/jquery.scrollzer.min.js"></script>
+		<script src="{{ SITEURL }}/assets/js/skel.min.js"></script>
+		<script src="{{ SITEURL }}/assets/js/util.js"></script>
+		<!--[if lte IE 8]><script src="{{ SITEURL }}/assets/js/ie/respond.min.js"></script><![endif]-->
+		<script src="{{ SITEURL }}/assets/js/main.js"></script>
+	</body>
+</html>

@@ -1,0 +1,53 @@
+{% extends "base_article.html" %}
+
+{% block title %}{{ article.title }} - {{ SITENAME }}{% endblock %}
+
+{% block head %}
+<style>
+	.sub-ul {
+		display: block;
+		padding: 0.5em 1.5em 0.5em 1.5em;
+		color: rgba(255, 255, 255, 0.5);
+		text-decoration: none;
+		font-size: 0.8em;
+		outline: 0;
+		border: 0;
+		-moz-transition: none;
+		-webkit-transition: none;
+		-ms-transition: none;
+		transition: none;
+	}
+	.sub-li {
+		color: white;
+	}
+</style>
+{% endblock %}
+
+{% block submenu %}
+<ul class="sub-ul">
+	<li class="sub-li"><a href="#inicio" id="inicio-link"><span="icon fa-text-file-o">{{ article.shorttitle }}</span></a></li>
+</ul>
+{% endblock %}
+
+{% block content %}
+<section id="inicio" class="one dark cover">
+	<div class="container">
+		<header>
+			<h2 alt="alt">{{ article.title }}</h2>
+		</header>
+		<div class"12u 12u$(mobile)">
+			<a href="#listas" class="button scrolly">Listas</a>
+			<a href="#notas" class="button scrolly">Notas</a>
+			<a href="#calendario" class="button scrolly">Calendário</a>
+			<a href="#ementa" class="button scrolly">Ementa</a>
+		</div>
+		<br />
+	</div>
+</section>
+<section>
+	<div class="container">
+		{{ article.content }}
+	</div>
+</section>
+
+{% endblock %}

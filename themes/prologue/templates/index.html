@@ -1,0 +1,86 @@
+{% extends "base.html" %}
+
+{% block content %}
+<!-- Intro -->
+<section id="top" class="one dark cover">
+	<div class="container">
+		<header>
+			<h2 class="alt">Olá! <strong>Bem vindo(a)</strong> a minha home
+				page!</h2>
+			<br>
+			<br>
+			<br>
+		</header>
+	</div>
+</section>
+
+<!-- Ensino -->
+<section id="Ensino" class="two">
+	<div class="container">
+		<header>
+			<h2>Ensino</h2>
+		</header>
+		<div class="row">
+			<div class="12u 12u$(mobile)">
+				{{ SEMESTRE }}<br />
+				{% for article in articles %}
+					{% if article.category|string() == "Ensino" %}
+						<a href="{{ article.url }}">{{ article.title }}</a><br />
+					{% endif %}
+				{% endfor %}
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- Pesquisa -->
+<section id="Pesquisa" class="three">
+	<div class="container">
+		<header>
+			<h2>Pesquisa</h2>
+		</header>
+		<div class="row">
+			<div class="6u 12u$(mobile)">
+				{% for article in articles %}
+					{% if article.category|string() == "Pesquisa" %}
+						<article class="item">
+							<a href="{{ article.url }}" target="_blank" class="image fit">
+								<img src="{{ SITEURL }}/{{ article.imagem }}" alt="">
+								<h4>{{ article.title }}</h4>
+							</a>
+						</article>
+					{% endif %}
+				{% endfor %}
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- About Me -->
+<section id="about" class="four">
+	<div class="container">
+		<header>
+			<h2>About Me</h2>
+		</header>
+		<p>Possui graduação em Bacharelado em Matemática (2008) e mestrado em Matemática (2011)
+			pelo Instituto de Matemática da Universidade Federal de Alagoas. Atualmente é doutoranda
+			em Matemática Aplicada pela Universidade Estadual de Campinas.</p>
+		<footer>
+			<a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4221037Z3" target="_blank" class="button scrolly">Lattes</a>
+		</footer>
+	</div>
+</section>
+
+<!-- Contact -->
+<section id="contato" class="five">
+	<div class="container">
+		<header>
+			<h2>Contato</h2>
+		</header>
+		<ul class="labeled-icons">
+			<li class="icon fa-home"> UFGD Campus 2 - FACET - Gabinete 15</li>
+			<li class="icon fa-envelope"> <a href="mailto:{{ EMAIL }}">{{ EMAIL }}</a></li>
+		</ul>
+	</div>
+</section>
+{% endblock %}
