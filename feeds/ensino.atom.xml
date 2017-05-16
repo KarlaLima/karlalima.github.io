@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2017-05-16T13:55:00-04:00</updated><entry><title>Cálculo Diferencial e Integral I</title><link href="http://karlalima.github.io/ensino/2017-1-calculo1.html" rel="alternate"></link><published>2017-05-16T13:55:00-04:00</published><updated>2017-05-16T13:55:00-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-05-16:/ensino/2017-1-calculo1.html</id><summary type="html">&lt;h2&gt;Aulas&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2017-05-16T13:56:59-04:00</updated><entry><title>Cálculo Diferencial e Integral I</title><link href="http://karlalima.github.io/ensino/2017-1-calculo1.html" rel="alternate"></link><published>2017-05-16T13:56:59-04:00</published><updated>2017-05-16T13:56:59-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-05-16:/ensino/2017-1-calculo1.html</id><summary type="html">&lt;h2&gt;Aulas&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Aula01:Funções.pdf"&gt;Funções&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula02:Funções_Trigonométricas.pdf"&gt;Funções Trigonométricas: seno e cosseno&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -8,16 +8,16 @@
 &lt;hr&gt;
 &lt;h2&gt;Calendário&lt;/h2&gt;
 &lt;p&gt;Provas:&lt;/p&gt;
-&lt;p&gt;| Engenharia de Energia    | 
-|--------------------------|
-| 1ª Avaliação: 22/06/17   | 
+&lt;p&gt;| 1ª Avaliação: 22/06/17   | 
 | 2ª Avaliação: 21/08/17   | 
 | PS: 28/08/17             | 
 | EF: 04/09/17             | &lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;Ementa&lt;/h2&gt;
 &lt;p&gt;Números Reais, Funções Reais de uma Variável. Limite e Continuidade. Cálculo Diferencial. Cálculo Integral. Aplicações.&lt;/p&gt;
-&lt;h3&gt;Bibliografia …&lt;/h3&gt;</summary><content type="html">&lt;h2&gt;Aulas&lt;/h2&gt;
+&lt;h3&gt;Bibliografia:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;STEWART. James. Cálculo …&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;h2&gt;Aulas&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Aula01:Funções.pdf"&gt;Funções&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula02:Funções_Trigonométricas.pdf"&gt;Funções Trigonométricas: seno e cosseno&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -26,9 +26,7 @@
 &lt;hr&gt;
 &lt;h2&gt;Calendário&lt;/h2&gt;
 &lt;p&gt;Provas:&lt;/p&gt;
-&lt;p&gt;| Engenharia de Energia    | 
-|--------------------------|
-| 1ª Avaliação: 22/06/17   | 
+&lt;p&gt;| 1ª Avaliação: 22/06/17   | 
 | 2ª Avaliação: 21/08/17   | 
 | PS: 28/08/17             | 
 | EF: 04/09/17             | &lt;/p&gt;
