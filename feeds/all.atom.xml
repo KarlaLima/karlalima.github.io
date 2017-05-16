@@ -1,5 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2017-05-12T20:40:03-04:00</updated><entry><title>Cálculo Diferencial e Integral III</title><link href="http://karlalima.github.io/ensino/2017-1-calculo3.html" rel="alternate"></link><published>2017-05-12T20:40:03-04:00</published><updated>2017-05-12T20:40:03-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-05-12:/ensino/2017-1-calculo3.html</id><summary type="html">&lt;h2&gt;Aulas&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2017-05-16T13:50:59-04:00</updated><entry><title>Edital de Seleção Monitoria 2017/1</title><link href="http://karlalima.github.io/monitoria/monitoria.html" rel="alternate"></link><published>2017-05-16T13:50:59-04:00</published><updated>2017-05-16T13:50:59-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-05-16:/monitoria/monitoria.html</id><summary type="html">&lt;h2&gt;Monitoria Cálculo III 2017/1&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Edital_Monitoria.pdf"&gt;Edital de Seleção&lt;/a&gt;  &lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Horários de atendimento&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Segunda&lt;/th&gt;
+&lt;th&gt;Terça&lt;/th&gt;
+&lt;th&gt;Quarta&lt;/th&gt;
+&lt;th&gt;Quinta&lt;/th&gt;
+&lt;th&gt;Sexta&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;11:00 - 13:00: Fernanda&lt;/td&gt;
+&lt;td&gt;15:00 - 17:00: Fernanda&lt;/td&gt;
+&lt;td&gt;07:20 - 09:00: Profª Karla&lt;/td&gt;
+&lt;td&gt;11:00 - 13:00: Luiz&lt;/td&gt;
+&lt;td&gt;11:00 - 13:00: Luiz&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:00 - 17:00: Fernanda&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;15:00 - 17 …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;h2&gt;Monitoria Cálculo III 2017/1&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Edital_Monitoria.pdf"&gt;Edital de Seleção&lt;/a&gt;  &lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Horários de atendimento&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Segunda&lt;/th&gt;
+&lt;th&gt;Terça&lt;/th&gt;
+&lt;th&gt;Quarta&lt;/th&gt;
+&lt;th&gt;Quinta&lt;/th&gt;
+&lt;th&gt;Sexta&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;11:00 - 13:00: Fernanda&lt;/td&gt;
+&lt;td&gt;15:00 - 17:00: Fernanda&lt;/td&gt;
+&lt;td&gt;07:20 - 09:00: Profª Karla&lt;/td&gt;
+&lt;td&gt;11:00 - 13:00: Luiz&lt;/td&gt;
+&lt;td&gt;11:00 - 13:00: Luiz&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:00 - 17:00: Fernanda&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;15:00 - 17:00: Profª Karla&lt;/td&gt;
+&lt;td&gt;15:00 - 17:00: Luiz&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;</content></entry><entry><title>Cálculo Diferencial e Integral I</title><link href="http://karlalima.github.io/ensino/2017-1-calculo1.html" rel="alternate"></link><published>2017-05-14T08:55:35-04:00</published><updated>2017-05-14T08:55:35-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-05-14:/ensino/2017-1-calculo1.html</id><summary type="html">&lt;h2&gt;Aulas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="{filename}/arquivos/Aula01:Funções.pdf"&gt;Funções&lt;/a&gt;&lt;br&gt;
+&lt;a href="{filename}/arquivos/Aula02:Funções_Trigonométricas.pdf"&gt;Funções Trigonométricas: seno e cosseno&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Lista_01.pdf"&gt;Lista 01:Derivadas Parciais&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Calendário&lt;/h2&gt;
+&lt;p&gt;Provas:&lt;/p&gt;
+&lt;p&gt;| Engenharia de Energia         | 
+|--------------------------|
+| 1ª Avaliação: 21/06/17   | 
+| 2ª Avaliação: 22/08/17   | 
+| PS: 29/08/17             | 
+| EF: 05/09/17             | &lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Ementa&lt;/h2&gt;
+&lt;p&gt;Funções de várias variáveis reais. Diferenciabilidade. Máximos e mínimos. Fórmula de Taylor.
+Multiplicadores de …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Aulas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="{filename}/arquivos/Aula01:Funções.pdf"&gt;Funções&lt;/a&gt;&lt;br&gt;
+&lt;a href="{filename}/arquivos/Aula02:Funções_Trigonométricas.pdf"&gt;Funções Trigonométricas: seno e cosseno&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Lista_01.pdf"&gt;Lista 01:Derivadas Parciais&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Calendário&lt;/h2&gt;
+&lt;p&gt;Provas:&lt;/p&gt;
+&lt;p&gt;| Engenharia de Energia         | 
+|--------------------------|
+| 1ª Avaliação: 21/06/17   | 
+| 2ª Avaliação: 22/08/17   | 
+| PS: 29/08/17             | 
+| EF: 05/09/17             | &lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Ementa&lt;/h2&gt;
+&lt;p&gt;Funções de várias variáveis reais. Diferenciabilidade. Máximos e mínimos. Fórmula de Taylor.
+Multiplicadores de Lagrange. Integral dupla. Integral tripla. Mudança de coordenadas. Integral de
+Linha. Teorema de Green&lt;/p&gt;
+&lt;h3&gt;Bibliografia:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;STEWART. James. Cálculo - Vol. 2 - 6 Ed. Editora: Cengage Learning&lt;/li&gt;
+&lt;li&gt;ANTON, H. Cálculo. Vol. 2, 8a. Edição. Editora Bookman, 2007.&lt;/li&gt;
+&lt;li&gt;GUIDORIZZI, H. L. Um Curso de Cálculo. Vols.2 e 3 5a ed. Rio de Janeiro: LTC, 2002.&lt;/li&gt;
+&lt;li&gt;FLEMMING, D. Cálculo B. São Paulo. Pearson Prentice Hall. 2007.&lt;/li&gt;
+&lt;/ol&gt;</content></entry><entry><title>Cálculo Diferencial e Integral III</title><link href="http://karlalima.github.io/ensino/2017-1-calculo3.html" rel="alternate"></link><published>2017-05-12T20:40:03-04:00</published><updated>2017-05-12T20:40:03-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-05-12:/ensino/2017-1-calculo3.html</id><summary type="html">&lt;h2&gt;Aulas&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Aula01:Varias_Variaveis.pdf"&gt;Funções de Várias Variáveis&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula02:Derivadas_Parciais.pdf"&gt;Derivadas Parciais&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -76,6 +176,4 @@ Linha. Teorema de Green&lt;/p&gt;
 &lt;li&gt;ANTON, H. Cálculo. Vol. 2, 8a. Edição. Editora Bookman, 2007.&lt;/li&gt;
 &lt;li&gt;GUIDORIZZI, H. L. Um Curso de Cálculo. Vols.2 e 3 5a ed. Rio de Janeiro: LTC, 2002.&lt;/li&gt;
 &lt;li&gt;FLEMMING, D. Cálculo B. São Paulo. Pearson Prentice Hall. 2007.&lt;/li&gt;
-&lt;/ol&gt;</content></entry><entry><title>Edital de Seleção Monitoria 2017/1</title><link href="http://karlalima.github.io/monitoria/monitoria.html" rel="alternate"></link><published>2017-05-05T19:27:24-04:00</published><updated>2017-05-05T19:27:24-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-05-05:/monitoria/monitoria.html</id><summary type="html">&lt;h2&gt;Monitoria Cálculo III 2017/1&lt;/h2&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Edital_Monitoria.pdf"&gt;Edital de Seleção&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Monitoria Cálculo III 2017/1&lt;/h2&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Edital_Monitoria.pdf"&gt;Edital de Seleção&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>Yang, H. M., Boldrini, J. L., Fassoni, A. C., de Lima, K. K. B., Freitas, L. F. S., Gomez, M. C., Andrade, V. R., Freitas, A. R. R., Abiotic Effects on Population Dynamics of Mosquitoes and Their Influence on Dengue Transmission. In: Cláudia P. Ferreira; Wesley A.C Godoy. (Org.). Ecological Modelling Applied to Entomology. 1ed.: Springer International Publishing, 2014, v. 1, p. 39-79.</title><link href="http://karlalima.github.io/http://www.springer.com/us/book/9783319068763" rel="alternate"></link><published>2017-05-01T16:17:51-04:00</published><updated>2017-05-01T16:17:51-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-05-01:/http://www.springer.com/us/book/9783319068763</id><summary type="html">&lt;p&gt;capítulo de livro&lt;/p&gt;</summary><content type="html">&lt;p&gt;capítulo de livro&lt;/p&gt;</content></entry></feed>
+&lt;/ol&gt;</content></entry><entry><title>Yang, H. M., Boldrini, J. L., Fassoni, A. C., de Lima, K. K. B., Freitas, L. F. S., Gomez, M. C., Andrade, V. R., Freitas, A. R. R., Abiotic Effects on Population Dynamics of Mosquitoes and Their Influence on Dengue Transmission. In: Cláudia P. Ferreira; Wesley A.C Godoy. (Org.). Ecological Modelling Applied to Entomology. 1ed.: Springer International Publishing, 2014, v. 1, p. 39-79.</title><link href="http://karlalima.github.io/http://www.springer.com/us/book/9783319068763" rel="alternate"></link><published>2017-05-01T16:17:51-04:00</published><updated>2017-05-01T16:17:51-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-05-01:/http://www.springer.com/us/book/9783319068763</id><summary type="html">&lt;p&gt;capítulo de livro&lt;/p&gt;</summary><content type="html">&lt;p&gt;capítulo de livro&lt;/p&gt;</content></entry></feed>
