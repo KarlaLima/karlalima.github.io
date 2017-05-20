@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2017-05-19T15:25:28-04:00</updated><entry><title>Cálculo Diferencial e Integral III</title><link href="http://karlalima.github.io/ensino/2017-1-calculo3.html" rel="alternate"></link><published>2017-05-19T15:25:28-04:00</published><updated>2017-05-19T15:25:28-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-05-19:/ensino/2017-1-calculo3.html</id><summary type="html">&lt;h2&gt;Aulas&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2017-05-19T21:12:56-04:00</updated><entry><title>Cálculo Diferencial e Integral I</title><link href="http://karlalima.github.io/ensino/2017-1-calculo1.html" rel="alternate"></link><published>2017-05-19T21:12:56-04:00</published><updated>2017-05-19T21:12:56-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-05-19:/ensino/2017-1-calculo1.html</id><summary type="html">&lt;h2&gt;Aulas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Aula01:Funções.pdf"&gt;Funções&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula02:Funções_Trigonométricas.pdf"&gt;Funções Trigonométricas: seno e cosseno&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula03:Grafico.pdf"&gt;Gráficos&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Lista01.pdf"&gt;Funções e Limite&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Calendário&lt;/h2&gt;
+&lt;p&gt;Provas:&lt;/p&gt;
+&lt;p&gt;| 1ª Avaliação: 22/06/17   | 
+| 2ª Avaliação: 21/08/17   | 
+| PS: 28/08/17             | 
+| EF: 04/09/17             | &lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Ementa&lt;/h2&gt;
+&lt;p&gt;Números Reais, Funções Reais de uma Variável. Limite e Continuidade. Cálculo Diferencial. Cálculo Integral. Aplicações.&lt;/p&gt;
+&lt;h3&gt;Bibliografia:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;STEWART …&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;h2&gt;Aulas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Aula01:Funções.pdf"&gt;Funções&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula02:Funções_Trigonométricas.pdf"&gt;Funções Trigonométricas: seno e cosseno&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula03:Grafico.pdf"&gt;Gráficos&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Lista01.pdf"&gt;Funções e Limite&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Calendário&lt;/h2&gt;
+&lt;p&gt;Provas:&lt;/p&gt;
+&lt;p&gt;| 1ª Avaliação: 22/06/17   | 
+| 2ª Avaliação: 21/08/17   | 
+| PS: 28/08/17             | 
+| EF: 04/09/17             | &lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Ementa&lt;/h2&gt;
+&lt;p&gt;Números Reais, Funções Reais de uma Variável. Limite e Continuidade. Cálculo Diferencial. Cálculo Integral. Aplicações.&lt;/p&gt;
+&lt;h3&gt;Bibliografia:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;STEWART. James. Cálculo - Vol. 1 - 6 Ed. Editora: Cengage Learning&lt;/li&gt;
+&lt;li&gt;ANTON, H. Cálculo. Vol. 1, 8a. Edição. Editora Bookman, 2007.&lt;/li&gt;
+&lt;li&gt;FLEMMING, D. Cálculo A. São Paulo. Pearson Prentice Hall. 2007.&lt;/li&gt;
+&lt;/ol&gt;</content></entry><entry><title>Cálculo Diferencial e Integral III</title><link href="http://karlalima.github.io/ensino/2017-1-calculo3.html" rel="alternate"></link><published>2017-05-19T15:25:28-04:00</published><updated>2017-05-19T15:25:28-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-05-19:/ensino/2017-1-calculo3.html</id><summary type="html">&lt;h2&gt;Aulas&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Aula01:Varias_Variaveis.pdf"&gt;Funções de Várias Variáveis&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula02:Derivadas_Parciais.pdf"&gt;Derivadas Parciais&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula03:Regra_Cadeia.pdf"&gt;Regra da Cadeia&lt;/a&gt;&lt;br&gt;
@@ -79,45 +120,4 @@ Linha. Teorema de Green&lt;/p&gt;
 &lt;li&gt;ANTON, H. Cálculo. Vol. 2, 8a. Edição. Editora Bookman, 2007.&lt;/li&gt;
 &lt;li&gt;GUIDORIZZI, H. L. Um Curso de Cálculo. Vols.2 e 3 5a ed. Rio de Janeiro: LTC, 2002.&lt;/li&gt;
 &lt;li&gt;FLEMMING, D. Cálculo B. São Paulo. Pearson Prentice Hall. 2007.&lt;/li&gt;
-&lt;/ol&gt;</content></entry><entry><title>Cálculo Diferencial e Integral I</title><link href="http://karlalima.github.io/ensino/2017-1-calculo1.html" rel="alternate"></link><published>2017-05-16T14:08:49-04:00</published><updated>2017-05-16T14:08:49-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-05-16:/ensino/2017-1-calculo1.html</id><summary type="html">&lt;h2&gt;Aulas&lt;/h2&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Aula01:Funções.pdf"&gt;Funções&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Aula02:Funções_Trigonométricas.pdf"&gt;Funções Trigonométricas: seno e cosseno&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Aula03:Grafico.pdf"&gt;Gráficos&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;Listas&lt;/h2&gt;
-&lt;p&gt;Em breve&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;Calendário&lt;/h2&gt;
-&lt;p&gt;Provas:&lt;/p&gt;
-&lt;p&gt;| 1ª Avaliação: 22/06/17   | 
-| 2ª Avaliação: 21/08/17   | 
-| PS: 28/08/17             | 
-| EF: 04/09/17             | &lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;Ementa&lt;/h2&gt;
-&lt;p&gt;Números Reais, Funções Reais de uma Variável. Limite e Continuidade. Cálculo Diferencial. Cálculo Integral. Aplicações.&lt;/p&gt;
-&lt;h3&gt;Bibliografia:&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;STEWART. James …&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;h2&gt;Aulas&lt;/h2&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Aula01:Funções.pdf"&gt;Funções&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Aula02:Funções_Trigonométricas.pdf"&gt;Funções Trigonométricas: seno e cosseno&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Aula03:Grafico.pdf"&gt;Gráficos&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;Listas&lt;/h2&gt;
-&lt;p&gt;Em breve&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;Calendário&lt;/h2&gt;
-&lt;p&gt;Provas:&lt;/p&gt;
-&lt;p&gt;| 1ª Avaliação: 22/06/17   | 
-| 2ª Avaliação: 21/08/17   | 
-| PS: 28/08/17             | 
-| EF: 04/09/17             | &lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;Ementa&lt;/h2&gt;
-&lt;p&gt;Números Reais, Funções Reais de uma Variável. Limite e Continuidade. Cálculo Diferencial. Cálculo Integral. Aplicações.&lt;/p&gt;
-&lt;h3&gt;Bibliografia:&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;STEWART. James. Cálculo - Vol. 1 - 6 Ed. Editora: Cengage Learning&lt;/li&gt;
-&lt;li&gt;ANTON, H. Cálculo. Vol. 1, 8a. Edição. Editora Bookman, 2007.&lt;/li&gt;
-&lt;li&gt;FLEMMING, D. Cálculo A. São Paulo. Pearson Prentice Hall. 2007.&lt;/li&gt;
 &lt;/ol&gt;</content></entry></feed>
