@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2017-05-21T17:01:53-04:00</updated><entry><title>Cálculo Diferencial e Integral III</title><link href="http://karlalima.github.io/ensino/2017-1-calculo3.html" rel="alternate"></link><published>2017-05-21T17:01:53-04:00</published><updated>2017-05-21T17:01:53-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-05-21:/ensino/2017-1-calculo3.html</id><summary type="html">&lt;h2&gt;Aulas&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2017-05-22T15:46:58-04:00</updated><entry><title>Cálculo Diferencial e Integral III</title><link href="http://karlalima.github.io/ensino/2017-1-calculo3.html" rel="alternate"></link><published>2017-05-22T15:46:58-04:00</published><updated>2017-05-22T15:46:58-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-05-22:/ensino/2017-1-calculo3.html</id><summary type="html">&lt;h2&gt;Aulas&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Aula01:Varias_Variaveis.pdf"&gt;Funções de Várias Variáveis&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula02:Derivadas_Parciais.pdf"&gt;Derivadas Parciais&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula03:Regra_Cadeia.pdf"&gt;Regra da Cadeia&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Aula04:Derivadas_Direcionais.pdf"&gt;Derivadas Direcionais&lt;/a&gt;&lt;/p&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula04:Derivadas_Direcionais.pdf"&gt;Derivadas Direcionais&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula05:Maximo_Minimo.pdf"&gt;Máximos e Mínimos&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;Listas&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Lista_01.pdf"&gt;Lista 01:Derivadas Parciais&lt;/a&gt;&lt;br&gt;
@@ -23,11 +24,12 @@
 &lt;tr&gt;
 &lt;td&gt;1ª Avaliação: 21/06/17&lt;/td&gt;
 &lt;td&gt;1ª Avaliação: 22/06/17&lt;/td&gt;
-&lt;td&gt;1ª Avaliação: 21/06/17 …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;h2&gt;Aulas&lt;/h2&gt;
+&lt;td&gt;1ª Avaliação …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;h2&gt;Aulas&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Aula01:Varias_Variaveis.pdf"&gt;Funções de Várias Variáveis&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula02:Derivadas_Parciais.pdf"&gt;Derivadas Parciais&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula03:Regra_Cadeia.pdf"&gt;Regra da Cadeia&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Aula04:Derivadas_Direcionais.pdf"&gt;Derivadas Direcionais&lt;/a&gt;&lt;/p&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula04:Derivadas_Direcionais.pdf"&gt;Derivadas Direcionais&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula05:Maximo_Minimo.pdf"&gt;Máximos e Mínimos&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;Listas&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Lista_01.pdf"&gt;Lista 01:Derivadas Parciais&lt;/a&gt;&lt;br&gt;
