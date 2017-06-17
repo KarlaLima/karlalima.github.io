@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2017-06-11T08:29:20-04:00</updated><entry><title>Cálculo Diferencial e Integral I</title><link href="http://karlalima.github.io/ensino/2017-1-calculo1.html" rel="alternate"></link><published>2017-06-11T08:29:20-04:00</published><updated>2017-06-11T08:29:20-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-06-11:/ensino/2017-1-calculo1.html</id><summary type="html">&lt;h2&gt;Aulas&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2017-06-17T08:13:49-04:00</updated><entry><title>Cálculo Diferencial e Integral I</title><link href="http://karlalima.github.io/ensino/2017-1-calculo1.html" rel="alternate"></link><published>2017-06-17T08:13:49-04:00</published><updated>2017-06-17T08:13:49-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-06-17:/ensino/2017-1-calculo1.html</id><summary type="html">&lt;h2&gt;Aulas&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Aula01:Funções.pdf"&gt;Funções&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula02:Funções_Trigonométricas.pdf"&gt;Funções Trigonométricas: seno e cosseno&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula03:Grafico.pdf"&gt;Gráficos&lt;/a&gt;&lt;br&gt;
@@ -10,7 +10,8 @@
 &lt;a href="http://karlalima.github.io/arquivos/Lista02.pdf"&gt;Limites&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Lista03.pdf"&gt;Limite e Continuidade&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Lista04.pdf"&gt;Derivadas&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Lista05.pdf"&gt;A Regra da Cadeia&lt;/a&gt;&lt;/p&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Lista05.pdf"&gt;A Regra da Cadeia&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Lista06.pdf"&gt;Derivada de Logarítmos e Exponenciais&lt;/a&gt; &lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;Calendário&lt;/h2&gt;
 &lt;p&gt;Provas:&lt;/p&gt;
@@ -20,7 +21,7 @@
 | EF: 04/09/17             | &lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;Ementa&lt;/h2&gt;
-&lt;p&gt;Números Reais, Funções Reais de uma …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Aulas&lt;/h2&gt;
+&lt;p&gt;Números …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Aulas&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Aula01:Funções.pdf"&gt;Funções&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula02:Funções_Trigonométricas.pdf"&gt;Funções Trigonométricas: seno e cosseno&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula03:Grafico.pdf"&gt;Gráficos&lt;/a&gt;&lt;br&gt;
@@ -31,7 +32,8 @@
 &lt;a href="http://karlalima.github.io/arquivos/Lista02.pdf"&gt;Limites&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Lista03.pdf"&gt;Limite e Continuidade&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Lista04.pdf"&gt;Derivadas&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Lista05.pdf"&gt;A Regra da Cadeia&lt;/a&gt;&lt;/p&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Lista05.pdf"&gt;A Regra da Cadeia&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Lista06.pdf"&gt;Derivada de Logarítmos e Exponenciais&lt;/a&gt; &lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;Calendário&lt;/h2&gt;
 &lt;p&gt;Provas:&lt;/p&gt;
