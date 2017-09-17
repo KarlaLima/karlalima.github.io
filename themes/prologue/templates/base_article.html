@@ -40,10 +40,10 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 						{% for category, articles in categories %}
 						<li><a href="{{ SITEURL }}/#{{ category.name }}" id="{{ category.name }}-link" class="skel-layers-ignoreHref"><span
 									class="icon fa-{{ category.name }}">{{ category.name }}</span></a></li>
-						{% if category.name|string() == "Ensino" %}
+						<!-- {% if category.name|string() == "Ensino" %}
 							{% block submenu %}
 							{% endblock %}
-						{% endif %}
+						{% endif %} -->
 						{% endfor %}
 						<li><a href="{{ SITEURL }}/#about" id="about-link" class="skel-layers-ignoreHref"><span
 									class="icon fa-user">About Me</span></a></li>

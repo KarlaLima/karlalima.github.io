@@ -14,6 +14,25 @@
 	</div>
 </section>
 
+<!-- Monitoria -->
+<section id="Monitoria" class="three">
+	<div class="container">
+		<header>
+			<h2>Monitoria</h2>
+		</header>
+		<div class="row">
+			<div class="12u 12u$(mobile)">
+				{{ SEMESTRE }}<br />
+				{% for article in articles %}
+					{% if article.category|string() == "Monitoria" %}
+						<a href="{{ article.url }}">{{ article.title }}</a><br />
+					{% endif %}
+				{% endfor %}
+			</div>
+		</div>
+	</div>
+</section>
+
 <!-- Ensino -->
 <section id="Ensino" class="two">
 	<div class="container">
