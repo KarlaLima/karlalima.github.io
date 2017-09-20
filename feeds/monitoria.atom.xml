@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Monitoria</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/monitoria.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2017-09-17T19:25:32-04:00</updated><entry><title>Monitoria Cálculo II</title><link href="http://karlalima.github.io/monitoria/monitoria.html" rel="alternate"></link><published>2017-09-17T19:25:32-04:00</published><updated>2017-09-17T19:25:32-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-09-17:/monitoria/monitoria.html</id><summary type="html">&lt;h2&gt;Horários de atendimento&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Monitoria</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/monitoria.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2017-09-20T14:24:17-04:00</updated><entry><title>Monitoria Cálculo II</title><link href="http://karlalima.github.io/monitoria/monitoria.html" rel="alternate"></link><published>2017-09-20T14:24:17-04:00</published><updated>2017-09-20T14:24:17-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-09-20:/monitoria/monitoria.html</id><summary type="html">&lt;h2&gt;Seleção&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/edital.pdf"&gt;Edital de Seleção&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Horários de atendimento&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -27,7 +29,9 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;hr&gt;</summary><content type="html">&lt;h2&gt;Horários de atendimento&lt;/h2&gt;
+&lt;hr&gt;</summary><content type="html">&lt;h2&gt;Seleção&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/edital.pdf"&gt;Edital de Seleção&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Horários de atendimento&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
