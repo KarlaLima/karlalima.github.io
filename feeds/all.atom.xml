@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2017-09-22T16:13:20-04:00</updated><entry><title>Tópicos de Análise I</title><link href="http://karlalima.github.io/ensino/analise.html" rel="alternate"></link><published>2017-09-22T16:13:20-04:00</published><updated>2017-09-22T16:13:20-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-09-22:/ensino/analise.html</id><summary type="html">&lt;h2&gt;Listas&lt;/h2&gt;
-&lt;h2&gt;&lt;a href="http://karlalima.github.io/arquivos/conjuntos.pdf"&gt;Conjuntos&lt;/a&gt;&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2017-09-22T16:16:27-04:00</updated><entry><title>Tópicos de Análise I</title><link href="http://karlalima.github.io/ensino/analise.html" rel="alternate"></link><published>2017-09-22T16:16:27-04:00</published><updated>2017-09-22T16:16:27-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-09-22:/ensino/analise.html</id><summary type="html">&lt;h2&gt;Listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/conjuntos.pdf"&gt;Conjuntos&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2&gt;Calendário&lt;/h2&gt;
 &lt;p&gt;Provas:&lt;/p&gt;
 &lt;p&gt;| 1ª Avaliação:    | 
@@ -13,7 +14,8 @@
 Séries de números reais. Topologia na reta. Limites de Funções.&lt;/p&gt;
 &lt;h3&gt;Bibliografia:&lt;/h3&gt;
 &lt;p&gt;LIMA, E.L. Curso de Análise, volume 1. 2.ed. Rio de Janeiro. Impa, 2009. AVILA, G …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Listas&lt;/h2&gt;
-&lt;h2&gt;&lt;a href="http://karlalima.github.io/arquivos/conjuntos.pdf"&gt;Conjuntos&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/conjuntos.pdf"&gt;Conjuntos&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2&gt;Calendário&lt;/h2&gt;
 &lt;p&gt;Provas:&lt;/p&gt;
 &lt;p&gt;| 1ª Avaliação:    | 
