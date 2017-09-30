@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2017-09-24T09:09:18-04:00</updated><entry><title>Tópicos de Análise I</title><link href="http://karlalima.github.io/ensino/analise.html" rel="alternate"></link><published>2017-09-24T09:09:18-04:00</published><updated>2017-09-24T09:09:18-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-09-24:/ensino/analise.html</id><summary type="html">&lt;h2&gt;Listas&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2017-09-29T19:59:59-04:00</updated><entry><title>Cálculo Diferencial e Integral II</title><link href="http://karlalima.github.io/ensino/2017-2-calculo2.html" rel="alternate"></link><published>2017-09-29T19:59:59-04:00</published><updated>2017-09-29T19:59:59-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-09-29:/ensino/2017-2-calculo2.html</id><summary type="html">&lt;h2&gt;Listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Lista01.pdf"&gt;A Regra da Substituição&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Lista02.pdf"&gt;Integração por partes&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Calendário&lt;/h2&gt;
+&lt;p&gt;Provas:&lt;/p&gt;
+&lt;p&gt;| 1ª Avaliação:    | 
+| 2ª Avaliação:    | 
+| PS:              | 
+| EF:              | &lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Ementa&lt;/h2&gt;
+&lt;p&gt;Técnicas de Integração. Integrais impróprias. Seqüências e séries infinitas.
+Fórmula de Taylor. Série de potências. Equações diferenciais de 1ª ordem e
+aplicações. Equações diferenciais lineares. Equações diferenciais lineares de
+2ª ordem e aplicações …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Lista01.pdf"&gt;A Regra da Substituição&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Lista02.pdf"&gt;Integração por partes&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Calendário&lt;/h2&gt;
+&lt;p&gt;Provas:&lt;/p&gt;
+&lt;p&gt;| 1ª Avaliação:    | 
+| 2ª Avaliação:    | 
+| PS:              | 
+| EF:              | &lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Ementa&lt;/h2&gt;
+&lt;p&gt;Técnicas de Integração. Integrais impróprias. Seqüências e séries infinitas.
+Fórmula de Taylor. Série de potências. Equações diferenciais de 1ª ordem e
+aplicações. Equações diferenciais lineares. Equações diferenciais lineares de
+2ª ordem e aplicações&lt;/p&gt;
+&lt;h3&gt;Bibliografia:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;STEWART, James. Cálculo. São Paulo: Cengage Learning, 2014. v.1.&lt;/li&gt;
+&lt;li&gt;STEWART, James. Cálculo. 7. ed. São Paulo, SP: Cengage Learning, 2013. v.2.&lt;/li&gt;
+&lt;li&gt;ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo. 10. ed. Porto Alegre, RS: Bookman, 2014. v.1.&lt;/li&gt;
+&lt;li&gt;ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo . 8. ed. Porto Alegre, RS: Bookman, 2007. v.2.&lt;/li&gt;
+&lt;li&gt;BOYCE, W.E.; DI PRIMA, R.C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 8a ed. Rio de Janeiro. LTC. 2006.&lt;/li&gt;
+&lt;/ol&gt;</content></entry><entry><title>Tópicos de Análise I</title><link href="http://karlalima.github.io/ensino/analise.html" rel="alternate"></link><published>2017-09-24T09:09:18-04:00</published><updated>2017-09-24T09:09:18-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-09-24:/ensino/analise.html</id><summary type="html">&lt;h2&gt;Listas&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/conjuntos.pdf"&gt;Conjuntos&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;Calendário&lt;/h2&gt;
@@ -30,46 +68,7 @@ Séries de números reais. Topologia na reta. Limites de Funções.&lt;/p&gt;
 &lt;p&gt;LIMA, E.L. Curso de Análise, volume 1. 2.ed. Rio de Janeiro. Impa, 2009. AVILA, G. S. S; Análise
 Matemática para Licenciatura 3. ed. São Paulo: Edgard Blucher, (2006).
 LIMA, E.L. Análise Real, Volume 1. 12ed. Rio de Janeiro, IMPA, 2016.
-Munkres, James R. Topology. Prentice Hall, 2000.&lt;/p&gt;</content></entry><entry><title>Cálculo Diferencial e Integral II</title><link href="http://karlalima.github.io/ensino/2017-2-calculo2.html" rel="alternate"></link><published>2017-09-22T15:32:44-04:00</published><updated>2017-09-22T15:32:44-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-09-22:/ensino/2017-2-calculo2.html</id><summary type="html">&lt;h2&gt;Listas&lt;/h2&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Lista01.pdf"&gt;A Regra da Substituição&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;Calendário&lt;/h2&gt;
-&lt;p&gt;Provas:&lt;/p&gt;
-&lt;p&gt;| 1ª Avaliação:    | 
-| 2ª Avaliação:    | 
-| PS:              | 
-| EF:              | &lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;Ementa&lt;/h2&gt;
-&lt;p&gt;Técnicas de Integração. Integrais impróprias. Seqüências e séries infinitas.
-Fórmula de Taylor. Série de potências. Equações diferenciais de 1ª ordem e
-aplicações. Equações diferenciais lineares. Equações diferenciais lineares de
-2ª ordem e aplicações&lt;/p&gt;
-&lt;h3&gt;Bibliografia:&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;STEWART, James …&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;h2&gt;Listas&lt;/h2&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Lista01.pdf"&gt;A Regra da Substituição&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;Calendário&lt;/h2&gt;
-&lt;p&gt;Provas:&lt;/p&gt;
-&lt;p&gt;| 1ª Avaliação:    | 
-| 2ª Avaliação:    | 
-| PS:              | 
-| EF:              | &lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;Ementa&lt;/h2&gt;
-&lt;p&gt;Técnicas de Integração. Integrais impróprias. Seqüências e séries infinitas.
-Fórmula de Taylor. Série de potências. Equações diferenciais de 1ª ordem e
-aplicações. Equações diferenciais lineares. Equações diferenciais lineares de
-2ª ordem e aplicações&lt;/p&gt;
-&lt;h3&gt;Bibliografia:&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;STEWART, James. Cálculo. São Paulo: Cengage Learning, 2014. v.1.&lt;/li&gt;
-&lt;li&gt;STEWART, James. Cálculo. 7. ed. São Paulo, SP: Cengage Learning, 2013. v.2.&lt;/li&gt;
-&lt;li&gt;ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo. 10. ed. Porto Alegre, RS: Bookman, 2014. v.1.&lt;/li&gt;
-&lt;li&gt;ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo . 8. ed. Porto Alegre, RS: Bookman, 2007. v.2.&lt;/li&gt;
-&lt;li&gt;BOYCE, W.E.; DI PRIMA, R.C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 8a ed. Rio de Janeiro. LTC. 2006.&lt;/li&gt;
-&lt;/ol&gt;</content></entry><entry><title>Cálculo Vetorial e Equações Diferenciais</title><link href="http://karlalima.github.io/ensino/2017-2-calculo-vetorial.html" rel="alternate"></link><published>2017-09-17T19:24:13-04:00</published><updated>2017-09-17T19:24:13-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-09-17:/ensino/2017-2-calculo-vetorial.html</id><summary type="html">&lt;h2&gt;Listas&lt;/h2&gt;
+Munkres, James R. Topology. Prentice Hall, 2000.&lt;/p&gt;</content></entry><entry><title>Cálculo Vetorial e Equações Diferenciais</title><link href="http://karlalima.github.io/ensino/2017-2-calculo-vetorial.html" rel="alternate"></link><published>2017-09-17T19:24:13-04:00</published><updated>2017-09-17T19:24:13-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-09-17:/ensino/2017-2-calculo-vetorial.html</id><summary type="html">&lt;h2&gt;Listas&lt;/h2&gt;
 &lt;p&gt;em breve...&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;Calendário&lt;/h2&gt;
