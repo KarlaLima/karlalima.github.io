@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2017-10-21T20:38:18-03:00</updated><entry><title>Tópicos de Análise I</title><link href="http://karlalima.github.io/ensino/analise.html" rel="alternate"></link><published>2017-10-21T20:38:18-03:00</published><updated>2017-10-21T20:38:18-03:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-10-21:/ensino/analise.html</id><summary type="html">&lt;h2&gt;Listas&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2017-10-23T06:50:49-03:00</updated><entry><title>Cálculo Vetorial e Equações Diferenciais</title><link href="http://karlalima.github.io/ensino/2017-2-calculo-vetorial.html" rel="alternate"></link><published>2017-10-23T06:50:49-03:00</published><updated>2017-10-23T06:50:49-03:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-10-23:/ensino/2017-2-calculo-vetorial.html</id><summary type="html">&lt;h2&gt;Listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Lista01_Vet.pdf"&gt;Integral de Linha&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Lista02_Vet.pdf"&gt;Integral de Linha e Campos Conservativos&lt;/a&gt; &lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Calendário&lt;/h2&gt;
+&lt;p&gt;Provas:&lt;/p&gt;
+&lt;p&gt;| 1ª Avaliação:    | 
+| 2ª Avaliação:    | 
+| PS:              | 
+| EF:              | &lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Ementa&lt;/h2&gt;
+&lt;p&gt;Função Vetorial: Parametrização de curvas. Operadores Vetoriais: Campos
+escalares e vetoriais.  Rotacional. Divergente. Campos vetoriais conservativos.
+Área de Superfícies. Integrais de Superfície.  Fluxo. Teorema de Stokes.
+Teorema de Gauss. Definição e …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Lista01_Vet.pdf"&gt;Integral de Linha&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Lista02_Vet.pdf"&gt;Integral de Linha e Campos Conservativos&lt;/a&gt; &lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Calendário&lt;/h2&gt;
+&lt;p&gt;Provas:&lt;/p&gt;
+&lt;p&gt;| 1ª Avaliação:    | 
+| 2ª Avaliação:    | 
+| PS:              | 
+| EF:              | &lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Ementa&lt;/h2&gt;
+&lt;p&gt;Função Vetorial: Parametrização de curvas. Operadores Vetoriais: Campos
+escalares e vetoriais.  Rotacional. Divergente. Campos vetoriais conservativos.
+Área de Superfícies. Integrais de Superfície.  Fluxo. Teorema de Stokes.
+Teorema de Gauss. Definição e classificação das equações diferenciais.
+Equações diferenciais exatas e homogêneas. Equações diferenciais de primeira e
+segunda ordem.  Aplicações.&lt;/p&gt;
+&lt;h3&gt;Bibliografia:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;BOYCE, W. E.; DI PRIMA, R. C. . Equações diferenciais elementares (...). 8a ed. Rio de Janeiro. LTC. 2006.&lt;/li&gt;
+&lt;li&gt;BOULOS, Paulo, Introdução ao Cálculo, volume III. Ed. Edgard Blucher Ltda.&lt;/li&gt;
+&lt;li&gt;STEWART, James, Cálculo, Volume II, Editora Thomson.&lt;/li&gt;
+&lt;li&gt;GUIDORIZZI, H., Um Curso de Cálculo, Livros Técnicos e Científicos Editora. S.A.&lt;/li&gt;
+&lt;li&gt;LEITHOLD, O Cálculo com Geometria Analítica, volumes I e II. Editora Harba.&lt;/li&gt;
+&lt;li&gt;STEWART, James, Cálculo, Volume II, Editora Thomson.&lt;/li&gt;
+&lt;li&gt;BRONSON, R. Moderna Introdução às Equações Diferenciais, Série Schaum, São Paulo, 1977.&lt;/li&gt;
+&lt;li&gt;ZILL, D. G. Equações Diferenciais com aplicações em modelagem, 9a Edição, Cengage Learning, 2011.&lt;/li&gt;
+&lt;li&gt;ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Calculo . 8. ed. Porto Alegre, RS: Bookman, 2007. v.2.&lt;/li&gt;
+&lt;/ol&gt;</content></entry><entry><title>Tópicos de Análise I</title><link href="http://karlalima.github.io/ensino/analise.html" rel="alternate"></link><published>2017-10-21T20:38:18-03:00</published><updated>2017-10-21T20:38:18-03:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-10-21:/ensino/analise.html</id><summary type="html">&lt;h2&gt;Listas&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/conjuntos.pdf"&gt;Conjuntos&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Naturais_Finitos.pdf"&gt;Naturais e Conjuntos Finitos&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Enumeraveis_Reais.pdf"&gt;Enumerabilidade e Números Reais&lt;/a&gt;&lt;/p&gt;
@@ -123,47 +167,4 @@ aplicações. Equações diferenciais lineares. Equações diferenciais lineares
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;hr&gt;</content></entry><entry><title>Cálculo Vetorial e Equações Diferenciais</title><link href="http://karlalima.github.io/ensino/2017-2-calculo-vetorial.html" rel="alternate"></link><published>2017-09-29T20:21:33-04:00</published><updated>2017-09-29T20:21:33-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-09-29:/ensino/2017-2-calculo-vetorial.html</id><summary type="html">&lt;h2&gt;Listas&lt;/h2&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Lista01_Vet.pdf"&gt;Integral de Linha&lt;/a&gt;  &lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;Calendário&lt;/h2&gt;
-&lt;p&gt;Provas:&lt;/p&gt;
-&lt;p&gt;| 1ª Avaliação:    | 
-| 2ª Avaliação:    | 
-| PS:              | 
-| EF:              | &lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;Ementa&lt;/h2&gt;
-&lt;p&gt;Função Vetorial: Parametrização de curvas. Operadores Vetoriais: Campos
-escalares e vetoriais.  Rotacional. Divergente. Campos vetoriais conservativos.
-Área de Superfícies. Integrais de Superfície.  Fluxo. Teorema de Stokes.
-Teorema de Gauss. Definição e classificação das equações diferenciais.
-Equações diferenciais …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Listas&lt;/h2&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Lista01_Vet.pdf"&gt;Integral de Linha&lt;/a&gt;  &lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;Calendário&lt;/h2&gt;
-&lt;p&gt;Provas:&lt;/p&gt;
-&lt;p&gt;| 1ª Avaliação:    | 
-| 2ª Avaliação:    | 
-| PS:              | 
-| EF:              | &lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;Ementa&lt;/h2&gt;
-&lt;p&gt;Função Vetorial: Parametrização de curvas. Operadores Vetoriais: Campos
-escalares e vetoriais.  Rotacional. Divergente. Campos vetoriais conservativos.
-Área de Superfícies. Integrais de Superfície.  Fluxo. Teorema de Stokes.
-Teorema de Gauss. Definição e classificação das equações diferenciais.
-Equações diferenciais exatas e homogêneas. Equações diferenciais de primeira e
-segunda ordem.  Aplicações.&lt;/p&gt;
-&lt;h3&gt;Bibliografia:&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;BOYCE, W. E.; DI PRIMA, R. C. . Equações diferenciais elementares (...). 8a ed. Rio de Janeiro. LTC. 2006.&lt;/li&gt;
-&lt;li&gt;BOULOS, Paulo, Introdução ao Cálculo, volume III. Ed. Edgard Blucher Ltda.&lt;/li&gt;
-&lt;li&gt;STEWART, James, Cálculo, Volume II, Editora Thomson.&lt;/li&gt;
-&lt;li&gt;GUIDORIZZI, H., Um Curso de Cálculo, Livros Técnicos e Científicos Editora. S.A.&lt;/li&gt;
-&lt;li&gt;LEITHOLD, O Cálculo com Geometria Analítica, volumes I e II. Editora Harba.&lt;/li&gt;
-&lt;li&gt;STEWART, James, Cálculo, Volume II, Editora Thomson.&lt;/li&gt;
-&lt;li&gt;BRONSON, R. Moderna Introdução às Equações Diferenciais, Série Schaum, São Paulo, 1977.&lt;/li&gt;
-&lt;li&gt;ZILL, D. G. Equações Diferenciais com aplicações em modelagem, 9a Edição, Cengage Learning, 2011.&lt;/li&gt;
-&lt;li&gt;ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Calculo . 8. ed. Porto Alegre, RS: Bookman, 2007. v.2.&lt;/li&gt;
-&lt;/ol&gt;</content></entry><entry><title>Yang, H. M., Boldrini, J. L., Fassoni, A. C., de Lima, K. K. B., Freitas, L. F. S., Gomez, M. C., Andrade, V. R., Freitas, A. R. R., Abiotic Effects on Population Dynamics of Mosquitoes and Their Influence on Dengue Transmission. In: Cláudia P. Ferreira; Wesley A.C Godoy. (Org.). Ecological Modelling Applied to Entomology. 1ed.: Springer International Publishing, 2014, v. 1, p. 39-79.</title><link href="http://karlalima.github.io/http://www.springer.com/us/book/9783319068763" rel="alternate"></link><published>2017-05-01T16:17:51-04:00</published><updated>2017-05-01T16:17:51-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-05-01:/http://www.springer.com/us/book/9783319068763</id><summary type="html">&lt;p&gt;capítulo de livro&lt;/p&gt;</summary><content type="html">&lt;p&gt;capítulo de livro&lt;/p&gt;</content></entry></feed>
+&lt;hr&gt;</content></entry><entry><title>Yang, H. M., Boldrini, J. L., Fassoni, A. C., de Lima, K. K. B., Freitas, L. F. S., Gomez, M. C., Andrade, V. R., Freitas, A. R. R., Abiotic Effects on Population Dynamics of Mosquitoes and Their Influence on Dengue Transmission. In: Cláudia P. Ferreira; Wesley A.C Godoy. (Org.). Ecological Modelling Applied to Entomology. 1ed.: Springer International Publishing, 2014, v. 1, p. 39-79.</title><link href="http://karlalima.github.io/http://www.springer.com/us/book/9783319068763" rel="alternate"></link><published>2017-05-01T16:17:51-04:00</published><updated>2017-05-01T16:17:51-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-05-01:/http://www.springer.com/us/book/9783319068763</id><summary type="html">&lt;p&gt;capítulo de livro&lt;/p&gt;</summary><content type="html">&lt;p&gt;capítulo de livro&lt;/p&gt;</content></entry></feed>
