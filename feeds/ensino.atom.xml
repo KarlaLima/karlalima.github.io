@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2017-11-12T09:47:11-03:00</updated><entry><title>Cálculo Diferencial e Integral II</title><link href="http://karlalima.github.io/ensino/2017-2-calculo2.html" rel="alternate"></link><published>2017-11-12T09:47:11-03:00</published><updated>2017-11-12T09:47:11-03:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-11-12:/ensino/2017-2-calculo2.html</id><summary type="html">&lt;h2&gt;Listas&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2017-11-16T07:43:15-03:00</updated><entry><title>Cálculo Diferencial e Integral II</title><link href="http://karlalima.github.io/ensino/2017-2-calculo2.html" rel="alternate"></link><published>2017-11-16T07:43:15-03:00</published><updated>2017-11-16T07:43:15-03:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2017-11-16:/ensino/2017-2-calculo2.html</id><summary type="html">&lt;h2&gt;Listas&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Lista01.pdf"&gt;A Regra da Substituição&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Lista02.pdf"&gt;Integração por partes&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Lista03.pdf"&gt;Integrais Impróprias&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Lista04.pdf"&gt;Frações Parciais&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Lista05.pdf"&gt;Equações Separáveis&lt;/a&gt;&lt;/p&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Lista05.pdf"&gt;Introdução às Equações Diferenciais&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Lista06.pdf"&gt;Equações Separáveis&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;Calendário&lt;/h2&gt;
 &lt;p&gt;Provas:&lt;/p&gt;
@@ -15,13 +16,13 @@
 &lt;hr&gt;
 &lt;h2&gt;Ementa&lt;/h2&gt;
 &lt;p&gt;Técnicas de Integração. Integrais impróprias. Seqüências e séries infinitas.
-Fórmula de Taylor. Série de potências. Equações diferenciais de 1ª ordem e
-aplicações …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Listas&lt;/h2&gt;
+Fórmula de Taylor. Série de potências. Equações diferenciais de …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Listas&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Lista01.pdf"&gt;A Regra da Substituição&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Lista02.pdf"&gt;Integração por partes&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Lista03.pdf"&gt;Integrais Impróprias&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Lista04.pdf"&gt;Frações Parciais&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Lista05.pdf"&gt;Equações Separáveis&lt;/a&gt;&lt;/p&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Lista05.pdf"&gt;Introdução às Equações Diferenciais&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Lista06.pdf"&gt;Equações Separáveis&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;Calendário&lt;/h2&gt;
 &lt;p&gt;Provas:&lt;/p&gt;
