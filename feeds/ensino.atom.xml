@@ -1,35 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2018-02-18T09:05:11-04:00</updated><entry><title>Cálculo Vetorial e Equações Diferenciais</title><link href="http://karlalima.github.io/ensino/2017-2-calculo-vetorial.html" rel="alternate"></link><published>2018-02-18T09:05:11-04:00</published><updated>2018-02-18T09:05:11-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2018-02-18:/ensino/2017-2-calculo-vetorial.html</id><summary type="html">&lt;h2&gt;Listas&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2018-02-20T06:41:31-04:00</updated><entry><title>Cálculo Vetorial e Equações Diferenciais</title><link href="http://karlalima.github.io/ensino/2017-2-calculo-vetorial.html" rel="alternate"></link><published>2018-02-20T06:41:31-04:00</published><updated>2018-02-20T06:41:31-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2018-02-20:/ensino/2017-2-calculo-vetorial.html</id><summary type="html">&lt;h2&gt;Listas&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Lista01_Vet.pdf"&gt;Integral de Linha&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Lista02_Vet.pdf"&gt;Integral de Linha e Campos Conservativos&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Teste_1.pdf"&gt;Teste 1&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Lista03_Vet.pdf"&gt;Integral de Superfície&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Lista04_Vet.pdf"&gt;Os Teoremas de Gauss, Green e Stokes&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Lista05_Vet.pdf"&gt;Equações Diferenciais Ordinárias(Corrigido)&lt;/a&gt;  &lt;/p&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Lista05_Vet.pdf"&gt;Equações Diferenciais Ordinárias(Corrigido)&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Teste_2.pdf"&gt;Teste 2&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;Calendário&lt;/h2&gt;
 &lt;p&gt;Provas:&lt;/p&gt;
 &lt;p&gt;| 1ª Avaliação: 12/12/2017| 
-| 2ª Avaliação:    | 
-| PS:              | 
-| EF:              | &lt;/p&gt;
+| 2ª Avaliação: 20/02/2018| 
+| PS: 27/02/2018          | 
+| EF: 06/03/2018          | &lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;Ementa&lt;/h2&gt;
-&lt;p&gt;Função Vetorial: Parametrização de curvas. Operadores Vetoriais: Campos
-escalares e vetoriais.  Rotacional …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Listas&lt;/h2&gt;
+&lt;p&gt;Função …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Listas&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Lista01_Vet.pdf"&gt;Integral de Linha&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Lista02_Vet.pdf"&gt;Integral de Linha e Campos Conservativos&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Teste_1.pdf"&gt;Teste 1&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Lista03_Vet.pdf"&gt;Integral de Superfície&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Lista04_Vet.pdf"&gt;Os Teoremas de Gauss, Green e Stokes&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Lista05_Vet.pdf"&gt;Equações Diferenciais Ordinárias(Corrigido)&lt;/a&gt;  &lt;/p&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Lista05_Vet.pdf"&gt;Equações Diferenciais Ordinárias(Corrigido)&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Teste_2.pdf"&gt;Teste 2&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;Calendário&lt;/h2&gt;
 &lt;p&gt;Provas:&lt;/p&gt;
 &lt;p&gt;| 1ª Avaliação: 12/12/2017| 
-| 2ª Avaliação:    | 
-| PS:              | 
-| EF:              | &lt;/p&gt;
+| 2ª Avaliação: 20/02/2018| 
+| PS: 27/02/2018          | 
+| EF: 06/03/2018          | &lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;Ementa&lt;/h2&gt;
 &lt;p&gt;Função Vetorial: Parametrização de curvas. Operadores Vetoriais: Campos
