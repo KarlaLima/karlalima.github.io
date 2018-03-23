@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2018-03-22T20:15:36-04:00</updated><entry><title>Fundamentos da Matemática I</title><link href="http://karlalima.github.io/ensino/fundamentosi.html" rel="alternate"></link><published>2018-03-22T20:15:36-04:00</published><updated>2018-03-22T20:15:36-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2018-03-22:/ensino/fundamentosi.html</id><summary type="html">&lt;h2&gt;Listas&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2018-03-22T20:18:15-04:00</updated><entry><title>Fundamentos da Matemática I</title><link href="http://karlalima.github.io/ensino/fundamentosi.html" rel="alternate"></link><published>2018-03-22T20:18:15-04:00</published><updated>2018-03-22T20:18:15-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2018-03-22:/ensino/fundamentosi.html</id><summary type="html">&lt;h2&gt;Listas&lt;/h2&gt;
 &lt;p&gt;&lt;a href="{filename}/arquivos/Lista01.pdf"&gt;Revisão de Conjuntos e uma introdução à lógica&lt;/a&gt;  &lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;Calendário&lt;/h2&gt;
 &lt;p&gt;Provas:&lt;/p&gt;
-&lt;p&gt;| 1ª Avaliação: 18/04/2018 - Parte 1; 16/05/2018 - Parte 2   | 
-| 2ª Avaliação: 13/06/2018 - Parte 1; 11/07/2018 - Parte 2   | 
-| PS: 18/07/2018             | 
-| EF: 25/07/2018             | &lt;/p&gt;
+&lt;p&gt;| 1ª Avaliação: 18/04/2018 - Parte 1; 16/05/2018 - Parte 2   |&lt;br&gt;
+| 2ª Avaliação: 13/06/2018 - Parte 1; 11/07/2018 - Parte 2   |&lt;br&gt;
+| PS: 18/07/2018             |&lt;br&gt;
+| EF: 25/07/2018             |  &lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;Ementa&lt;/h2&gt;
 &lt;p&gt;Números, equações (polinomiais, modulares, exponenciais e …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Listas&lt;/h2&gt;
@@ -15,10 +15,10 @@
 &lt;hr&gt;
 &lt;h2&gt;Calendário&lt;/h2&gt;
 &lt;p&gt;Provas:&lt;/p&gt;
-&lt;p&gt;| 1ª Avaliação: 18/04/2018 - Parte 1; 16/05/2018 - Parte 2   | 
-| 2ª Avaliação: 13/06/2018 - Parte 1; 11/07/2018 - Parte 2   | 
-| PS: 18/07/2018             | 
-| EF: 25/07/2018             | &lt;/p&gt;
+&lt;p&gt;| 1ª Avaliação: 18/04/2018 - Parte 1; 16/05/2018 - Parte 2   |&lt;br&gt;
+| 2ª Avaliação: 13/06/2018 - Parte 1; 11/07/2018 - Parte 2   |&lt;br&gt;
+| PS: 18/07/2018             |&lt;br&gt;
+| EF: 25/07/2018             |  &lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;Ementa&lt;/h2&gt;
 &lt;p&gt;Números, equações (polinomiais, modulares, exponenciais e logarítmicas), funções (polinomiais,
