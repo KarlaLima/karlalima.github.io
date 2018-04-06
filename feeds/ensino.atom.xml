@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2018-03-24T12:12:11-04:00</updated><entry><title>Análise I</title><link href="http://karlalima.github.io/ensino/analisei.html" rel="alternate"></link><published>2018-03-24T12:12:11-04:00</published><updated>2018-03-24T12:12:11-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2018-03-24:/ensino/analisei.html</id><summary type="html">&lt;h2&gt;Listas&lt;/h2&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/ListaI.pdf"&gt;Introdução à Lógica&lt;/a&gt;  &lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2018-04-06T13:12:26-04:00</updated><entry><title>Análise I</title><link href="http://karlalima.github.io/ensino/analisei.html" rel="alternate"></link><published>2018-04-06T13:12:26-04:00</published><updated>2018-04-06T13:12:26-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2018-04-06:/ensino/analisei.html</id><summary type="html">&lt;h2&gt;Listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/ListaI.pdf"&gt;Introdução à Lógica&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/ListaII.pdf"&gt;Conjuntos Finitos e Infinitos; Enumeráveis e Não Enumeráveis&lt;/a&gt;  &lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;Calendário&lt;/h2&gt;
 &lt;p&gt;Provas:&lt;br&gt;
@@ -10,8 +11,9 @@
 | EF: 26/07/2018             |  &lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;Ementa&lt;/h2&gt;
-&lt;p&gt;Conjuntos Finitos. Conjuntos Enumeráveis. Conjuntos Não Enumeráveis. Números reais. Sequências e …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Listas&lt;/h2&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/ListaI.pdf"&gt;Introdução à Lógica&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Conjuntos Finitos. Conjuntos …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/ListaI.pdf"&gt;Introdução à Lógica&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/ListaII.pdf"&gt;Conjuntos Finitos e Infinitos; Enumeráveis e Não Enumeráveis&lt;/a&gt;  &lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;Calendário&lt;/h2&gt;
 &lt;p&gt;Provas:&lt;br&gt;
