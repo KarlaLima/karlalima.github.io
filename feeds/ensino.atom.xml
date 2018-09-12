@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2018-08-08T09:33:56-04:00</updated><entry><title>Análise II</title><link href="http://karlalima.github.io/ensino/analiseii.html" rel="alternate"></link><published>2018-08-08T09:33:56-04:00</published><updated>2018-08-08T09:33:56-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2018-08-08:/ensino/analiseii.html</id><summary type="html">&lt;h3&gt;Listas e Trabalhos&lt;/h3&gt;
-&lt;p&gt;Em breve&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2018-09-12T07:27:50-04:00</updated><entry><title>Análise II</title><link href="http://karlalima.github.io/ensino/analiseii.html" rel="alternate"></link><published>2018-09-12T07:27:50-04:00</published><updated>2018-09-12T07:27:50-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2018-09-12:/ensino/analiseii.html</id><summary type="html">&lt;h3&gt;Listas e Trabalhos&lt;/h3&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Trabalho_10_08.pdf"&gt;P1: Trabalho I&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Trabalho_17_08.pdf"&gt;P1: Trabalho II&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Trabalho_31_08.pdf"&gt;P1: Trabalho III&lt;/a&gt;  &lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Avisos&lt;/h3&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Analise_II.pdf"&gt;Programação do curso&lt;/a&gt;  &lt;/p&gt;
@@ -10,8 +12,10 @@
 &lt;hr&gt;
 &lt;h3&gt;Bibliografia:&lt;/h3&gt;
 &lt;p&gt;1 - AVILA, G. S. S; Análise Matemática para Licenciatura 3. ed. São Paulo: Edgard Blucher, (2006).&lt;br&gt;
-2 - LIMA, E.L. Análise Real, Volume 1 …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Listas e Trabalhos&lt;/h3&gt;
-&lt;p&gt;Em breve&lt;/p&gt;
+2 …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Listas e Trabalhos&lt;/h3&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Trabalho_10_08.pdf"&gt;P1: Trabalho I&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Trabalho_17_08.pdf"&gt;P1: Trabalho II&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Trabalho_31_08.pdf"&gt;P1: Trabalho III&lt;/a&gt;  &lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Avisos&lt;/h3&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Analise_II.pdf"&gt;Programação do curso&lt;/a&gt;  &lt;/p&gt;
