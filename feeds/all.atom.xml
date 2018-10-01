@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2018-09-20T17:16:00-04:00</updated><entry><title>Análise II</title><link href="http://karlalima.github.io/ensino/analiseii.html" rel="alternate"></link><published>2018-09-20T17:16:00-04:00</published><updated>2018-09-20T17:16:00-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2018-09-20:/ensino/analiseii.html</id><summary type="html">&lt;h3&gt;Listas e Trabalhos&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2018-10-01T07:44:41-04:00</updated><entry><title>Análise II</title><link href="http://karlalima.github.io/ensino/analiseii.html" rel="alternate"></link><published>2018-10-01T07:44:41-04:00</published><updated>2018-10-01T07:44:41-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2018-10-01:/ensino/analiseii.html</id><summary type="html">&lt;h3&gt;Listas e Trabalhos&lt;/h3&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Trabalho_10_08.pdf"&gt;P1: Trabalho I&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Trabalho_17_08.pdf"&gt;P1: Trabalho II&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Trabalho_31_08.pdf"&gt;P1: Trabalho III&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Trabalho_15_09.pdf"&gt;P2: Trabalho I&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Trabalho_09_21.pdf"&gt;P2: Trabalho II&lt;/a&gt;&lt;/p&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Trabalho_09_21.pdf"&gt;P2: Trabalho II&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Trabalho_09_28.pdf"&gt;P2: Trabalho III&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Avisos&lt;/h3&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Analise_II.pdf"&gt;Programação do curso&lt;/a&gt;  &lt;/p&gt;
@@ -13,12 +14,13 @@
 &lt;p&gt;Funções Contínuas. Derivadas. Integral de Riemann. Caracterização das funções integráveis. Sequências e Séries de Funções&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Bibliografia:&lt;/h3&gt;
-&lt;p&gt;1 - AVILA, G. S. S; Análise Matemática para Licenciatura 3. ed …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Listas e Trabalhos&lt;/h3&gt;
+&lt;p&gt;1 - AVILA, G. S. S; Análise Matemática para …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Listas e Trabalhos&lt;/h3&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Trabalho_10_08.pdf"&gt;P1: Trabalho I&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Trabalho_17_08.pdf"&gt;P1: Trabalho II&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Trabalho_31_08.pdf"&gt;P1: Trabalho III&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Trabalho_15_09.pdf"&gt;P2: Trabalho I&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Trabalho_09_21.pdf"&gt;P2: Trabalho II&lt;/a&gt;&lt;/p&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Trabalho_09_21.pdf"&gt;P2: Trabalho II&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Trabalho_09_28.pdf"&gt;P2: Trabalho III&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Avisos&lt;/h3&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Analise_II.pdf"&gt;Programação do curso&lt;/a&gt;  &lt;/p&gt;
