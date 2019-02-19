@@ -1,35 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2018-10-06T20:39:07-04:00</updated><entry><title>Análise II</title><link href="http://karlalima.github.io/ensino/analiseii.html" rel="alternate"></link><published>2018-10-06T20:39:07-04:00</published><updated>2018-10-06T20:39:07-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2018-10-06:/ensino/analiseii.html</id><summary type="html">&lt;h3&gt;Listas e Trabalhos&lt;/h3&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Trabalho_10_08.pdf"&gt;P1: Trabalho I&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Trabalho_17_08.pdf"&gt;P1: Trabalho II&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Trabalho_31_08.pdf"&gt;P1: Trabalho III&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Trabalho_15_09.pdf"&gt;P2: Trabalho I&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Trabalho_09_21.pdf"&gt;P2: Trabalho II&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Trabalho_09_28.pdf"&gt;P2: Trabalho III&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Trabalho_10_05.pdf"&gt;P2: Trabalho IV&lt;/a&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2019-02-19T14:00:49-04:00</updated><entry><title>Análise I</title><link href="http://karlalima.github.io/ensino/analisei.html" rel="alternate"></link><published>2019-02-19T14:00:49-04:00</published><updated>2019-02-19T14:00:49-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2019-02-19:/ensino/analisei.html</id><summary type="html">&lt;h3&gt;Listas e Trabalhos&lt;/h3&gt;
 &lt;hr&gt;
 &lt;h3&gt;Avisos&lt;/h3&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Analise_II.pdf"&gt;Programação do curso&lt;/a&gt;  &lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Ementa&lt;/h3&gt;
-&lt;p&gt;Funções Contínuas. Derivadas. Integral de Riemann. Caracterização das funções integráveis. Sequências e Séries de Funções&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Bibliografia:&lt;/h3&gt;
-&lt;p&gt;1 - AVILA, G. S. S …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Listas e Trabalhos&lt;/h3&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Trabalho_10_08.pdf"&gt;P1: Trabalho I&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Trabalho_17_08.pdf"&gt;P1: Trabalho II&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Trabalho_31_08.pdf"&gt;P1: Trabalho III&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Trabalho_15_09.pdf"&gt;P2: Trabalho I&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Trabalho_09_21.pdf"&gt;P2: Trabalho II&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Trabalho_09_28.pdf"&gt;P2: Trabalho III&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Trabalho_10_05.pdf"&gt;P2: Trabalho IV&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Avisos&lt;/h3&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Analise_II.pdf"&gt;Programação do curso&lt;/a&gt;  &lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Ementa&lt;/h3&gt;
 &lt;p&gt;Funções Contínuas. Derivadas. Integral de Riemann. Caracterização das funções integráveis. Sequências e Séries de Funções&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Bibliografia:&lt;/h3&gt;
 &lt;p&gt;1 - AVILA, G. S. S; Análise Matemática para Licenciatura 3. ed. São Paulo: Edgard Blucher, (2006).&lt;br&gt;
-2 - LIMA, E.L. Análise Real, Volume 1. 12ed. Rio de Janeiro, IMPA, 2016.  &lt;/p&gt;</content></entry></feed>
+2 - LIMA, E.L. Análise Real, Volume 1. 12ed. Rio de Janeiro, IMPA …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Listas e Trabalhos&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h3&gt;Avisos&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h3&gt;Ementa&lt;/h3&gt;
+&lt;p&gt;Funções Contínuas. Derivadas. Integral de Riemann. Caracterização das funções integráveis. Sequências e Séries de Funções&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Bibliografia:&lt;/h3&gt;
+&lt;p&gt;1 - AVILA, G. S. S; Análise Matemática para Licenciatura 3. ed. São Paulo: Edgard Blucher, (2006).&lt;br&gt;
+2 - LIMA, E.L. Análise Real, Volume 1. 12ed. Rio de Janeiro, IMPA, 2016.  &lt;/p&gt;</content></entry><entry><title>Cálculo III</title><link href="http://karlalima.github.io/ensino/calculoiii.html" rel="alternate"></link><published>2019-02-19T13:59:14-04:00</published><updated>2019-02-19T13:59:14-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2019-02-19:/ensino/calculoiii.html</id><summary type="html">&lt;h3&gt;Listas e Trabalhos&lt;/h3&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Lista_01.pdf"&gt;Lista 01&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Lista_02.pdf"&gt;Lista 02&lt;/a&gt;  &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Avisos&lt;/h3&gt;
+&lt;p&gt;P1 – 03/04/2019&lt;br&gt;
+P2 – 27/05/2019&lt;br&gt;
+T - 19/06/2019&lt;br&gt;
+PS – 26/07/2019&lt;br&gt;
+EF – 10/07/2019  &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Ementa&lt;/h3&gt;
+&lt;p&gt;Funções de várias variáveis reais. Diferenciabilidade. Máximos e mínimos. Fórmula de Taylor.
+Multiplicadores de Lagrange. Integral dupla. Integral tripla. Mudança de …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Listas e Trabalhos&lt;/h3&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Lista_01.pdf"&gt;Lista 01&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Lista_02.pdf"&gt;Lista 02&lt;/a&gt;  &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Avisos&lt;/h3&gt;
+&lt;p&gt;P1 – 03/04/2019&lt;br&gt;
+P2 – 27/05/2019&lt;br&gt;
+T - 19/06/2019&lt;br&gt;
+PS – 26/07/2019&lt;br&gt;
+EF – 10/07/2019  &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Ementa&lt;/h3&gt;
+&lt;p&gt;Funções de várias variáveis reais. Diferenciabilidade. Máximos e mínimos. Fórmula de Taylor.
+Multiplicadores de Lagrange. Integral dupla. Integral tripla. Mudança de coordenadas. Integral de
+Linha. Teorema de Green.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Bibliografia:&lt;/h3&gt;
+&lt;p&gt;1 - STEWART. James. Cálculo – Vol. 2 – 6 Ed. Editora: Cengage Learning&lt;br&gt;
+2 - ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo . 8. ed. Porto Alegre, RS: Bookman, 2007. v.2.&lt;/p&gt;</content></entry></feed>
