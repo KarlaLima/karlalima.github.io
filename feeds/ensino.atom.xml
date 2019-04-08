@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2019-04-03T20:08:44-04:00</updated><entry><title>Cálculo III</title><link href="http://karlalima.github.io/ensino/calculoiii.html" rel="alternate"></link><published>2019-04-03T20:08:44-04:00</published><updated>2019-04-03T20:08:44-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2019-04-03:/ensino/calculoiii.html</id><summary type="html">&lt;h3&gt;Listas e Notas de aula&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2019-04-08T10:33:15-04:00</updated><entry><title>Cálculo III</title><link href="http://karlalima.github.io/ensino/calculoiii.html" rel="alternate"></link><published>2019-04-08T10:33:15-04:00</published><updated>2019-04-08T10:33:15-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2019-04-08:/ensino/calculoiii.html</id><summary type="html">&lt;h3&gt;Listas e Notas de aula&lt;/h3&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Lista_01.pdf"&gt;Lista 01&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Lista_02.pdf"&gt;Lista 02&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Lista_03.pdf"&gt;Lista 03 - Gabarito&lt;/a&gt;&lt;br&gt;
@@ -9,14 +9,15 @@
 &lt;a href="http://karlalima.github.io/arquivos/Aula_06.pdf"&gt;Aula 06&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula_07.pdf"&gt;Aula 07&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula_08.pdf"&gt;Aula 08&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Aula_09.pdf"&gt;Aula 09&lt;/a&gt;  &lt;/p&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula_09.pdf"&gt;Aula 09&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula_10.pdf"&gt;Aula 10&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula_11.pdf"&gt;Aula 11&lt;/a&gt;  &lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Avisos&lt;/h3&gt;
 &lt;p&gt;P1 – 03/04/2019&lt;br&gt;
 P2 – 27/05/2019&lt;br&gt;
 T - 19/06/2019&lt;br&gt;
-PS – 26/06/2019&lt;br&gt;
-EF – 03/07/2019 …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Listas e Notas de aula&lt;/h3&gt;
+PS – 26/06/2019 …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Listas e Notas de aula&lt;/h3&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Lista_01.pdf"&gt;Lista 01&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Lista_02.pdf"&gt;Lista 02&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Lista_03.pdf"&gt;Lista 03 - Gabarito&lt;/a&gt;&lt;br&gt;
@@ -26,7 +27,9 @@ EF – 03/07/2019 …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Listas e
 &lt;a href="http://karlalima.github.io/arquivos/Aula_06.pdf"&gt;Aula 06&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula_07.pdf"&gt;Aula 07&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula_08.pdf"&gt;Aula 08&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Aula_09.pdf"&gt;Aula 09&lt;/a&gt;  &lt;/p&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula_09.pdf"&gt;Aula 09&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula_10.pdf"&gt;Aula 10&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula_11.pdf"&gt;Aula 11&lt;/a&gt;  &lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Avisos&lt;/h3&gt;
 &lt;p&gt;P1 – 03/04/2019&lt;br&gt;
