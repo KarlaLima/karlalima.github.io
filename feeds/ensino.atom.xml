@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2019-06-05T13:45:41-04:00</updated><entry><title>Cálculo III</title><link href="http://karlalima.github.io/ensino/calculoiii.html" rel="alternate"></link><published>2019-06-05T13:45:41-04:00</published><updated>2019-06-05T13:45:41-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2019-06-05:/ensino/calculoiii.html</id><summary type="html">&lt;h3&gt;Listas e Notas de aula&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2019-06-09T07:47:29-04:00</updated><entry><title>Cálculo III</title><link href="http://karlalima.github.io/ensino/calculoiii.html" rel="alternate"></link><published>2019-06-09T07:47:29-04:00</published><updated>2019-06-09T07:47:29-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2019-06-09:/ensino/calculoiii.html</id><summary type="html">&lt;h3&gt;Listas e Notas de aula&lt;/h3&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Lista_01.pdf"&gt;Lista 01&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Lista_02.pdf"&gt;Lista 02&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Lista_03.pdf"&gt;Lista 03 - Gabarito&lt;/a&gt;&lt;br&gt;
@@ -41,7 +41,8 @@
 &lt;a href="http://karlalima.github.io/arquivos/Aula_19.pdf"&gt;Aula 19&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula_20.pdf"&gt;Aula 20&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula_21.pdf"&gt;Aula 21&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/P1_Gabarito.pdf"&gt;Gabarito P1&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/P1_Gabarito.pdf"&gt;Gabarito P1&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Gabarito_P2.pdf"&gt;Gabarito P2&lt;/a&gt;  &lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Avisos&lt;/h3&gt;
 &lt;p&gt;P1 – 03/04/2019&lt;br&gt;
