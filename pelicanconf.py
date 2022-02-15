@@ -7,7 +7,7 @@ SITENAME = u'Prof\xaa. Karla Lima'
 SITEURL = ''
 INSTITUTION = 'FACET - UFGD'
 EMAIL = 'karlalima@ufgd.edu.br'
-SEMESTRE = '2017.2'
+SEMESTRE = '2021.2'
 
 PATH = 'content'
 
@@ -28,7 +28,7 @@ TAG_SAVE_AS = ''
 ARCHIVE_SAVE_AS = ''
 DIRECT_TEMPLATES = ['index']
 
-DEFAULT_LANG = u'pt'
+DEFAULT_LANG = u'pt-BR'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
