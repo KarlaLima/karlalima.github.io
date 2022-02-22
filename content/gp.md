@@ -4,7 +4,8 @@ category: Ensino
 
 ### Notas de aula e Listas
 
-[Aulas 01]({static}/arquivos/Aula_01_GP.pdf)
+[Aula 01]({static}/arquivos/Aula_01_GP.pdf)  
+[Aula 02]({static}/arquivos/Aula_02_GP.pdf)
 
 ---
 
