@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2022-02-23T08:41:56-04:00</updated><entry><title>Cálculo II</title><link href="http://karlalima.github.io/ensino/calculoii.html" rel="alternate"></link><published>2022-02-23T08:41:56-04:00</published><updated>2022-02-23T08:41:56-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2022-02-23:/ensino/calculoii.html</id><summary type="html">&lt;h3&gt;Notas de aula e Listas&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2022-03-03T15:02:16-04:00</updated><entry><title>Cálculo II</title><link href="http://karlalima.github.io/ensino/calculoii.html" rel="alternate"></link><published>2022-03-03T15:02:16-04:00</published><updated>2022-03-03T15:02:16-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2022-03-03:/ensino/calculoii.html</id><summary type="html">&lt;h3&gt;Notas de aula e Listas&lt;/h3&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/P1:Calculo_II.pdf"&gt;Lista P1 (Atualiza toda semana)&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula_01_C.pdf"&gt;Aula 01&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Aula_02_C.pdf"&gt;Aula 02&lt;/a&gt;&lt;/p&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula_02_C.pdf"&gt;Aula 02&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula_03_C.pdf"&gt;Aula 01&lt;/a&gt; &lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Avisos&lt;/h3&gt;
 &lt;p&gt;P1 – 18/04/2022&lt;br&gt;
@@ -12,10 +13,11 @@ EF – 20/06/2022&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Ementa&lt;/h3&gt;
 &lt;p&gt;Técnicas de integração. Integrais impróprias. Seqüências e séries infinitas. Fórmula
-de Taylor. Série de potências. Equações diferenciais de …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Notas de aula e Listas&lt;/h3&gt;
+de Taylor. Série de potências. Equações …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Notas de aula e Listas&lt;/h3&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/P1:Calculo_II.pdf"&gt;Lista P1 (Atualiza toda semana)&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula_01_C.pdf"&gt;Aula 01&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Aula_02_C.pdf"&gt;Aula 02&lt;/a&gt;&lt;/p&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula_02_C.pdf"&gt;Aula 02&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula_03_C.pdf"&gt;Aula 01&lt;/a&gt; &lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Avisos&lt;/h3&gt;
 &lt;p&gt;P1 – 18/04/2022&lt;br&gt;
