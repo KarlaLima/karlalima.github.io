@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2022-03-03T15:06:00-04:00</updated><entry><title>Cálculo II</title><link href="http://karlalima.github.io/ensino/calculoii.html" rel="alternate"></link><published>2022-03-03T15:06:00-04:00</published><updated>2022-03-03T15:06:00-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2022-03-03:/ensino/calculoii.html</id><summary type="html">&lt;h3&gt;Notas de aula e Listas&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2022-03-09T10:54:40-04:00</updated><entry><title>Geometria Plana</title><link href="http://karlalima.github.io/ensino/gp.html" rel="alternate"></link><published>2022-03-09T10:54:40-04:00</published><updated>2022-03-09T10:54:40-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2022-03-09:/ensino/gp.html</id><summary type="html">&lt;h3&gt;Notas de aula e Listas&lt;/h3&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Aula_01_GP.pdf"&gt;Aula 01&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula_02_GP.pdf"&gt;Aula 02&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula_03_GP.pdf"&gt;Aula 03&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Avisos&lt;/h3&gt;
+&lt;p&gt;P1 – 29/03/2022&lt;br&gt;
+P2 – 03/05/2022&lt;br&gt;
+P3 – 07/06/2022&lt;br&gt;
+PS – 14/06/2022&lt;br&gt;
+EF – 21/06/2022&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Ementa&lt;/h3&gt;
+&lt;p&gt;Tratamento axiomático da geometria euclidiana plana: retas, segmentos de retas e ângulos.
+Congruência de triângulos. Paralelismo e …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Notas de aula e Listas&lt;/h3&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Aula_01_GP.pdf"&gt;Aula 01&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula_02_GP.pdf"&gt;Aula 02&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula_03_GP.pdf"&gt;Aula 03&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Avisos&lt;/h3&gt;
+&lt;p&gt;P1 – 29/03/2022&lt;br&gt;
+P2 – 03/05/2022&lt;br&gt;
+P3 – 07/06/2022&lt;br&gt;
+PS – 14/06/2022&lt;br&gt;
+EF – 21/06/2022&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Ementa&lt;/h3&gt;
+&lt;p&gt;Tratamento axiomático da geometria euclidiana plana: retas, segmentos de retas e ângulos.
+Congruência de triângulos. Paralelismo e perpendicularidade. Quadriláteros notáveis. Pontos notáveis
+do triângulo. Circunferência e seus elementos: ângulos e arcos. Proporcionalidade e semelhança.
+Relações métricas no triângulo. Áreas de figuras planas. Utilização de recursos computacionais para
+Geometria Plana.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Bibliografia:&lt;/h3&gt;
+&lt;p&gt;1 - BARBOSA, J. L. M., Geometria euclidiana plana. Rio de Janeiro: Sociedade Brasileira de
+Matemática, 2001.&lt;br&gt;
+2 - Machado, P., Fundamentos de Geometria Plana. Belo Horizonte: CAED-UFMG, 2012. Disponível &lt;a href="https://www.ime.usp.br/~afisher/ps/MAT0230/Fundamentos_de_geometria_planaMachado.pdf"&gt;AQUI&lt;/a&gt;&lt;/p&gt;</content><category term="Ensino"></category></entry><entry><title>Cálculo II</title><link href="http://karlalima.github.io/ensino/calculoii.html" rel="alternate"></link><published>2022-03-03T15:06:00-04:00</published><updated>2022-03-03T15:06:00-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2022-03-03:/ensino/calculoii.html</id><summary type="html">&lt;h3&gt;Notas de aula e Listas&lt;/h3&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/P1:Calculo_II.pdf"&gt;Lista P1 (Atualiza toda semana)&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula_01_C.pdf"&gt;Aula 01&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula_02_C.pdf"&gt;Aula 02&lt;/a&gt;&lt;br&gt;
@@ -34,38 +70,4 @@ diferenciais lineares. Equações diferenciais lineares de 2ª ordem e aplicaç�
 &lt;p&gt;1 - STEWART. James. Cálculo – Vol. 1 – 6 Ed. Editora: Cengage Learning&lt;br&gt;
 2 - STEWART. James. Cálculo – Vol. 2 – 6 Ed. Editora: Cengage Learning&lt;br&gt;
 3 - ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo . 8. ed. Porto Alegre, RS: Bookman, 2007. v.1.&lt;br&gt;
-4 - ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo . 8. ed. Porto Alegre, RS: Bookman, 2007. v.2.&lt;/p&gt;</content><category term="Ensino"></category></entry><entry><title>Geometria Plana</title><link href="http://karlalima.github.io/ensino/gp.html" rel="alternate"></link><published>2022-02-22T15:24:33-04:00</published><updated>2022-02-22T15:24:33-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2022-02-22:/ensino/gp.html</id><summary type="html">&lt;h3&gt;Notas de aula e Listas&lt;/h3&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Aula_01_GP.pdf"&gt;Aula 01&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Aula_02_GP.pdf"&gt;Aula 02&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Avisos&lt;/h3&gt;
-&lt;p&gt;P1 – 29/03/2022&lt;br&gt;
-P2 – 03/05/2022&lt;br&gt;
-P3 – 07/06/2022&lt;br&gt;
-PS – 14/06/2022&lt;br&gt;
-EF – 21/06/2022&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Ementa&lt;/h3&gt;
-&lt;p&gt;Tratamento axiomático da geometria euclidiana plana: retas, segmentos de retas e ângulos.
-Congruência de triângulos. Paralelismo e perpendicularidade. Quadriláteros …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Notas de aula e Listas&lt;/h3&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Aula_01_GP.pdf"&gt;Aula 01&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Aula_02_GP.pdf"&gt;Aula 02&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Avisos&lt;/h3&gt;
-&lt;p&gt;P1 – 29/03/2022&lt;br&gt;
-P2 – 03/05/2022&lt;br&gt;
-P3 – 07/06/2022&lt;br&gt;
-PS – 14/06/2022&lt;br&gt;
-EF – 21/06/2022&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Ementa&lt;/h3&gt;
-&lt;p&gt;Tratamento axiomático da geometria euclidiana plana: retas, segmentos de retas e ângulos.
-Congruência de triângulos. Paralelismo e perpendicularidade. Quadriláteros notáveis. Pontos notáveis
-do triângulo. Circunferência e seus elementos: ângulos e arcos. Proporcionalidade e semelhança.
-Relações métricas no triângulo. Áreas de figuras planas. Utilização de recursos computacionais para
-Geometria Plana.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Bibliografia:&lt;/h3&gt;
-&lt;p&gt;1 - BARBOSA, J. L. M., Geometria euclidiana plana. Rio de Janeiro: Sociedade Brasileira de
-Matemática, 2001.&lt;br&gt;
-2 - Machado, P., Fundamentos de Geometria Plana. Belo Horizonte: CAED-UFMG, 2012. Disponível &lt;a href="https://www.ime.usp.br/~afisher/ps/MAT0230/Fundamentos_de_geometria_planaMachado.pdf"&gt;AQUI&lt;/a&gt;&lt;/p&gt;</content><category term="Ensino"></category></entry><entry><title>Yang, H. M., Boldrini, J. L., Fassoni, A. C., de Lima, K. K. B., Freitas, L. F. S., Gomez, M. C., Andrade, V. R., Freitas, A. R. R., Abiotic Effects on Population Dynamics of Mosquitoes and Their Influence on Dengue Transmission. In: Cláudia P. Ferreira; Wesley A.C Godoy. (Org.). Ecological Modelling Applied to Entomology. 1ed.: Springer International Publishing, 2014, v. 1, p. 39-79.</title><link href="http://www.springer.com/us/book/9783319068763" rel="alternate"></link><published>2018-08-08T09:28:40-04:00</published><updated>2018-08-08T09:28:40-04:00</updated><author><name>Karla Lima</name></author><id>tag:www.springer.com,2018-08-08:/us/book/9783319068763</id><content type="html">&lt;p&gt;capítulo de livro&lt;/p&gt;</content><category term="Pesquisa"></category></entry></feed>
+4 - ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo . 8. ed. Porto Alegre, RS: Bookman, 2007. v.2.&lt;/p&gt;</content><category term="Ensino"></category></entry><entry><title>Yang, H. M., Boldrini, J. L., Fassoni, A. C., de Lima, K. K. B., Freitas, L. F. S., Gomez, M. C., Andrade, V. R., Freitas, A. R. R., Abiotic Effects on Population Dynamics of Mosquitoes and Their Influence on Dengue Transmission. In: Cláudia P. Ferreira; Wesley A.C Godoy. (Org.). Ecological Modelling Applied to Entomology. 1ed.: Springer International Publishing, 2014, v. 1, p. 39-79.</title><link href="http://www.springer.com/us/book/9783319068763" rel="alternate"></link><published>2018-08-08T09:28:40-04:00</published><updated>2018-08-08T09:28:40-04:00</updated><author><name>Karla Lima</name></author><id>tag:www.springer.com,2018-08-08:/us/book/9783319068763</id><content type="html">&lt;p&gt;capítulo de livro&lt;/p&gt;</content><category term="Pesquisa"></category></entry></feed>
