@@ -3,9 +3,11 @@ shorttitle: Geometria Plana
 category: Ensino
 
 ### Notas de aula e Listas
-
+[Lista P1 (Atualiza toda semana)]({static}/arquivos/P1:GP.pdf)  
 [Aula 01]({static}/arquivos/Aula_01_GP.pdf)  
-[Aula 02]({static}/arquivos/Aula_02_GP.pdf)
+[Aula 02]({static}/arquivos/Aula_02_GP.pdf)  
+[Aula 03]({static}/arquivos/Aula_03_GP.pdf)  
+[Aula 04]({static}/arquivos/Aula_04_GP.pdf)  
 
 ---
 
