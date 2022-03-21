@@ -8,6 +8,7 @@ category: Ensino
 [Aula 02]({static}/arquivos/Aula_02_GP.pdf)  
 [Aula 03]({static}/arquivos/Aula_03_GP.pdf)  
 [Aula 04]({static}/arquivos/Aula_04_GP.pdf)  
+[Aula 05]({static}/arquivos/Aula_05_GP.pdf)  
 
 ---
 
