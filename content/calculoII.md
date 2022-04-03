@@ -12,7 +12,8 @@ category: Ensino
 [Aula 05]({static}/arquivos/Aula_05_C.pdf)  
 [Aula 06]({static}/arquivos/Aula_06_C.pdf)  
 [Aula 07 - Física]({static}/arquivos/Aula_07_C.pdf)  
-[Aula 08]({static}/arquivos/Aula_08_C.pdf) 
+[Aula 08]({static}/arquivos/Aula_08_C.pdf)   
+[Aula 09]({static}/arquivos/Aula_09_C.pdf)
 
 
 ---
