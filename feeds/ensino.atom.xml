@@ -1,5 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2022-04-03T09:12:02-04:00</updated><entry><title>Cálculo II</title><link href="http://karlalima.github.io/ensino/calculoii.html" rel="alternate"></link><published>2022-04-03T09:12:02-04:00</published><updated>2022-04-03T09:12:02-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2022-04-03:/ensino/calculoii.html</id><summary type="html">&lt;h3&gt;Notas de aula e Listas&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2022-04-12T06:21:24-04:00</updated><entry><title>Geometria Plana</title><link href="http://karlalima.github.io/ensino/gp.html" rel="alternate"></link><published>2022-04-12T06:21:24-04:00</published><updated>2022-04-12T06:21:24-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2022-04-12:/ensino/gp.html</id><summary type="html">&lt;h3&gt;Notas de aula e Listas&lt;/h3&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/P1:GP.pdf"&gt;Lista P1 (Finalizada)&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula_01_GP.pdf"&gt;Aula 01&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula_02_GP.pdf"&gt;Aula 02&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula_03_GP.pdf"&gt;Aula 03&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula_04_GP.pdf"&gt;Aula 04&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula_05_GP.pdf"&gt;Aula 05&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula_06_GP.pdf"&gt;Aula 06&lt;/a&gt;  &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Avisos&lt;/h3&gt;
+&lt;p&gt;P1 – 29/03/2022&lt;br&gt;
+P2 – 03/05/2022&lt;br&gt;
+P3 – 07/06/2022&lt;br&gt;
+PS – 14/06/2022&lt;br&gt;
+EF – 21/06/2022&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Ementa&lt;/h3&gt;
+&lt;p&gt;Tratamento axiomático da geometria euclidiana plana: retas, segmentos …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Notas de aula e Listas&lt;/h3&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/P1:GP.pdf"&gt;Lista P1 (Finalizada)&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula_01_GP.pdf"&gt;Aula 01&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula_02_GP.pdf"&gt;Aula 02&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula_03_GP.pdf"&gt;Aula 03&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula_04_GP.pdf"&gt;Aula 04&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula_05_GP.pdf"&gt;Aula 05&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Aula_06_GP.pdf"&gt;Aula 06&lt;/a&gt;  &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Avisos&lt;/h3&gt;
+&lt;p&gt;P1 – 29/03/2022&lt;br&gt;
+P2 – 03/05/2022&lt;br&gt;
+P3 – 07/06/2022&lt;br&gt;
+PS – 14/06/2022&lt;br&gt;
+EF – 21/06/2022&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Ementa&lt;/h3&gt;
+&lt;p&gt;Tratamento axiomático da geometria euclidiana plana: retas, segmentos de retas e ângulos.
+Congruência de triângulos. Paralelismo e perpendicularidade. Quadriláteros notáveis. Pontos notáveis
+do triângulo. Circunferência e seus elementos: ângulos e arcos. Proporcionalidade e semelhança.
+Relações métricas no triângulo. Áreas de figuras planas. Utilização de recursos computacionais para
+Geometria Plana.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Bibliografia:&lt;/h3&gt;
+&lt;p&gt;1 - BARBOSA, J. L. M., Geometria euclidiana plana. Rio de Janeiro: Sociedade Brasileira de
+Matemática, 2001.&lt;br&gt;
+2 - Machado, P., Fundamentos de Geometria Plana. Belo Horizonte: CAED-UFMG, 2012. Disponível &lt;a href="https://www.ime.usp.br/~afisher/ps/MAT0230/Fundamentos_de_geometria_planaMachado.pdf"&gt;AQUI&lt;/a&gt;&lt;/p&gt;</content><category term="Ensino"></category></entry><entry><title>Cálculo II</title><link href="http://karlalima.github.io/ensino/calculoii.html" rel="alternate"></link><published>2022-04-03T09:12:02-04:00</published><updated>2022-04-03T09:12:02-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2022-04-03:/ensino/calculoii.html</id><summary type="html">&lt;h3&gt;Notas de aula e Listas&lt;/h3&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/P1:Calculo_II.pdf"&gt;Lista P1 (Atualiza toda semana)&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula_01_C.pdf"&gt;Aula 01&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula_02_C.pdf"&gt;Aula 02&lt;/a&gt;&lt;br&gt;
@@ -45,45 +88,4 @@ diferenciais lineares. Equações diferenciais lineares de 2ª ordem e aplicaç�
 &lt;p&gt;1 - STEWART. James. Cálculo – Vol. 1 – 6 Ed. Editora: Cengage Learning&lt;br&gt;
 2 - STEWART. James. Cálculo – Vol. 2 – 6 Ed. Editora: Cengage Learning&lt;br&gt;
 3 - ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo . 8. ed. Porto Alegre, RS: Bookman, 2007. v.1.&lt;br&gt;
-4 - ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo . 8. ed. Porto Alegre, RS: Bookman, 2007. v.2.&lt;/p&gt;</content><category term="Ensino"></category></entry><entry><title>Geometria Plana</title><link href="http://karlalima.github.io/ensino/gp.html" rel="alternate"></link><published>2022-03-21T20:02:06-04:00</published><updated>2022-03-21T20:02:06-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2022-03-21:/ensino/gp.html</id><summary type="html">&lt;h3&gt;Notas de aula e Listas&lt;/h3&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/P1:GP.pdf"&gt;Lista P1 (Finalizada)&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Aula_01_GP.pdf"&gt;Aula 01&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Aula_02_GP.pdf"&gt;Aula 02&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Aula_03_GP.pdf"&gt;Aula 03&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Aula_04_GP.pdf"&gt;Aula 04&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Aula_05_GP.pdf"&gt;Aula 05&lt;/a&gt;  &lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Avisos&lt;/h3&gt;
-&lt;p&gt;P1 – 29/03/2022&lt;br&gt;
-P2 – 03/05/2022&lt;br&gt;
-P3 – 07/06/2022&lt;br&gt;
-PS – 14/06/2022&lt;br&gt;
-EF – 21/06/2022&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Ementa&lt;/h3&gt;
-&lt;p&gt;Tratamento axiomático da geometria euclidiana plana: retas, segmentos de retas …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Notas de aula e Listas&lt;/h3&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/P1:GP.pdf"&gt;Lista P1 (Finalizada)&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Aula_01_GP.pdf"&gt;Aula 01&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Aula_02_GP.pdf"&gt;Aula 02&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Aula_03_GP.pdf"&gt;Aula 03&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Aula_04_GP.pdf"&gt;Aula 04&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Aula_05_GP.pdf"&gt;Aula 05&lt;/a&gt;  &lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Avisos&lt;/h3&gt;
-&lt;p&gt;P1 – 29/03/2022&lt;br&gt;
-P2 – 03/05/2022&lt;br&gt;
-P3 – 07/06/2022&lt;br&gt;
-PS – 14/06/2022&lt;br&gt;
-EF – 21/06/2022&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Ementa&lt;/h3&gt;
-&lt;p&gt;Tratamento axiomático da geometria euclidiana plana: retas, segmentos de retas e ângulos.
-Congruência de triângulos. Paralelismo e perpendicularidade. Quadriláteros notáveis. Pontos notáveis
-do triângulo. Circunferência e seus elementos: ângulos e arcos. Proporcionalidade e semelhança.
-Relações métricas no triângulo. Áreas de figuras planas. Utilização de recursos computacionais para
-Geometria Plana.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Bibliografia:&lt;/h3&gt;
-&lt;p&gt;1 - BARBOSA, J. L. M., Geometria euclidiana plana. Rio de Janeiro: Sociedade Brasileira de
-Matemática, 2001.&lt;br&gt;
-2 - Machado, P., Fundamentos de Geometria Plana. Belo Horizonte: CAED-UFMG, 2012. Disponível &lt;a href="https://www.ime.usp.br/~afisher/ps/MAT0230/Fundamentos_de_geometria_planaMachado.pdf"&gt;AQUI&lt;/a&gt;&lt;/p&gt;</content><category term="Ensino"></category></entry></feed>
+4 - ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo . 8. ed. Porto Alegre, RS: Bookman, 2007. v.2.&lt;/p&gt;</content><category term="Ensino"></category></entry></feed>
