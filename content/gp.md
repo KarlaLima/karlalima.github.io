@@ -4,6 +4,7 @@ category: Ensino
 
 ### Notas de aula e Listas
 [Lista P1 (Finalizada)]({static}/arquivos/P1:GP.pdf)  
+[Lista P2 (Atualiza toda semana)]({static}/arquivos/P2:GP.pdf)  
 [Aula 01]({static}/arquivos/Aula_01_GP.pdf)  
 [Aula 02]({static}/arquivos/Aula_02_GP.pdf)  
 [Aula 03]({static}/arquivos/Aula_03_GP.pdf)  
