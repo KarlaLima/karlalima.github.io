@@ -13,7 +13,7 @@ category: Ensino
 [Aulas 06 e 07]({static}/arquivos/Aula_06_07_GP.pdf)  
 
 ---
-### Notas de aula e Listas
+### Provas e Gabaritos
 [P1]({static}/arquivos/P1_GP.pdf)  
 [Gabarito P1]({static}/arquivos/P1_Gabarito_GP.pdf)  
 
