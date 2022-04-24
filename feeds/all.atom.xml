@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2022-04-20T15:55:18-04:00</updated><entry><title>Geometria Plana</title><link href="http://karlalima.github.io/ensino/gp.html" rel="alternate"></link><published>2022-04-20T15:55:18-04:00</published><updated>2022-04-20T15:55:18-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2022-04-20:/ensino/gp.html</id><summary type="html">&lt;h3&gt;Notas de aula e Listas&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2022-04-24T06:25:33-04:00</updated><entry><title>Geometria Plana</title><link href="http://karlalima.github.io/ensino/gp.html" rel="alternate"></link><published>2022-04-24T06:25:33-04:00</published><updated>2022-04-24T06:25:33-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2022-04-24:/ensino/gp.html</id><summary type="html">&lt;h3&gt;Notas de aula e Listas&lt;/h3&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/P1:GP.pdf"&gt;Lista P1 (Finalizada)&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/P2:GP.pdf"&gt;Lista P2 (Atualiza toda semana)&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula_01_GP.pdf"&gt;Aula 01&lt;/a&gt;&lt;br&gt;
@@ -9,14 +9,14 @@
 &lt;a href="http://karlalima.github.io/arquivos/Aula_05_GP.pdf"&gt;Aula 05&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula_06_07_GP.pdf"&gt;Aulas 06 e 07&lt;/a&gt;  &lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;Notas de aula e Listas&lt;/h3&gt;
+&lt;h3&gt;Provas e Gabaritos&lt;/h3&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/P1_GP.pdf"&gt;P1&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/P1_Gabarito_GP.pdf"&gt;Gabarito P1&lt;/a&gt;  &lt;/p&gt;
 &lt;h3&gt;Avisos&lt;/h3&gt;
 &lt;p&gt;P1 – 29/03/2022&lt;br&gt;
 P2 – 03/05/2022&lt;br&gt;
 P3 – 07/06/2022&lt;br&gt;
-PS – 14 …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Notas de aula e Listas&lt;/h3&gt;
+PS – 14/06/2022 …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Notas de aula e Listas&lt;/h3&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/P1:GP.pdf"&gt;Lista P1 (Finalizada)&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/P2:GP.pdf"&gt;Lista P2 (Atualiza toda semana)&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula_01_GP.pdf"&gt;Aula 01&lt;/a&gt;&lt;br&gt;
@@ -26,7 +26,7 @@ PS – 14 …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Notas de aula e 
 &lt;a href="http://karlalima.github.io/arquivos/Aula_05_GP.pdf"&gt;Aula 05&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula_06_07_GP.pdf"&gt;Aulas 06 e 07&lt;/a&gt;  &lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;Notas de aula e Listas&lt;/h3&gt;
+&lt;h3&gt;Provas e Gabaritos&lt;/h3&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/P1_GP.pdf"&gt;P1&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/P1_Gabarito_GP.pdf"&gt;Gabarito P1&lt;/a&gt;  &lt;/p&gt;
 &lt;h3&gt;Avisos&lt;/h3&gt;
