@@ -4,7 +4,8 @@ category: Ensino
 
 ### Notas de aula e Listas
 
-[Lista P1 (Atualiza toda semana)]({static}/arquivos/P1:Calculo_II.pdf)  
+[Lista P1 (Finalizada)]({static}/arquivos/P1:Calculo_II.pdf)  
+[Lista P1 (Atualiza toda semana)]({static}/arquivos/Listas_CII_P2.pdf)  
 [Aula 01]({static}/arquivos/Aula_01_C.pdf)  
 [Aula 02]({static}/arquivos/Aula_02_C.pdf)  
 [Aula 03]({static}/arquivos/Aula_03_C.pdf)  
