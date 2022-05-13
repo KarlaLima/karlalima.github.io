@@ -14,6 +14,7 @@ category: Ensino
 [Aulas 06 e 07 - Retas Paralelas]({static}/arquivos/Aula_06_07_GP.pdf)  
 [Aula 08 - Polígonos]({static}/arquivos/Aula_08_Poligonos.pdf)  
 [Aula 08 - Quadriláteros]({static}/arquivos/Aula_08_Quadrilateros.pdf)  
+[Aula 09 - Áreas]({static}/arquivos/Aula_09_GP.pdf)  
 
 ---
 ### Provas e Gabaritos
