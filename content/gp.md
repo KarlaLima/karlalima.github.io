@@ -15,6 +15,7 @@ category: Ensino
 [Aula 08 - Polígonos]({static}/arquivos/Aula_08_Poligonos.pdf)  
 [Aula 08 - Quadriláteros]({static}/arquivos/Aula_08_Quadrilateros.pdf)  
 [Aula 09 - Áreas]({static}/arquivos/Aula_09_GP.pdf)  
+[Aula 10 - Semelhança]({static}/arquivos/Aula_10_Semelhanca.pdf)  
 
 ---
 ### Provas e Gabaritos
