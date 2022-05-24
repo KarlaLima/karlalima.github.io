@@ -16,6 +16,8 @@ category: Ensino
 [Aula 08 - Quadriláteros]({static}/arquivos/Aula_08_Quadrilateros.pdf)  
 [Aula 09 - Áreas]({static}/arquivos/Aula_09_GP.pdf)  
 [Aula 10 - Semelhança]({static}/arquivos/Aula_10_Semelhanca.pdf)  
+[Aula 11 - Relações Métricas]({static}/arquivosAula_11_Semelhanca_TR.pdf)  
+[Aula 11 - Circunferência]({static}/arquivos/Aula_GP_11_Circunferencia.pdf)  
 
 ---
 ### Provas e Gabaritos
