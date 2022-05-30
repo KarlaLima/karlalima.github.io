@@ -18,6 +18,7 @@ category: Ensino
 [Aula 10 - Semelhança]({static}/arquivos/Aula_10_Semelhanca.pdf)  
 [Aula 11 - Relações Métricas]({static}/arquivos/Aula_11_Semelhanca_TR.pdf)  
 [Aula 11 - Circunferência]({static}/arquivos/Aula_GP_11_Circunferencia.pdf)  
+[Aula 12 - Circunferência]({static}/arquivos/Aula_GP_12_Circunferencia.pdf)  
 
 ---
 ### Provas e Gabaritos
