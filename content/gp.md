@@ -5,7 +5,7 @@ category: Ensino
 ### Notas de aula e Listas
 [Lista P1 (Finalizada)]({static}/arquivos/P1:GP.pdf)  
 [Lista P2 (Finalizada)]({static}/arquivos/P2:GP.pdf)  
-[Lista P3 (Atualiza toda semana)]({static}/arquivos/Listas_GP_P3.pdf)  
+[Lista P3 (Finalizada)]({static}/arquivos/Listas_GP_P3.pdf)  
 [Aula 01]({static}/arquivos/Aula_01_GP.pdf)  
 [Aula 02]({static}/arquivos/Aula_02_GP.pdf)  
 [Aula 03]({static}/arquivos/Aula_03_GP.pdf)  
@@ -18,7 +18,7 @@ category: Ensino
 [Aula 10 - Semelhança]({static}/arquivos/Aula_10_Semelhanca.pdf)  
 [Aula 11 - Relações Métricas]({static}/arquivos/Aula_11_Semelhanca_TR.pdf)  
 [Aula 11 - Circunferência]({static}/arquivos/Aula_GP_11_Circunferencia.pdf)  
-[Aula 12 - Circunferência]({static}/arquivos/Aula_GP_12_Circunferencia.pdf)  
+[Aula 12 - Circunferência]({static}/arquivos/Aula_12_Circunferencia.pdf)  
 
 ---
 ### Provas e Gabaritos
