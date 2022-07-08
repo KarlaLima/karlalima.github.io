@@ -1,0 +1,32 @@
+title: Fundamentos da Matemática II
+shorttitle: Fundamentos II
+category: Ensino
+
+### Listas
+
+[Lista P1 (ATUALIZA TODA SEGUNDA)]({static}/arquivos/Listas_P1:_Fundamentos_II.pdf)  
+
+
+
+
+---
+
+### Avisos
+
+P1 – 01/09/2022  
+P2 – 27/10/2022  
+PS – 03/11/2022  
+EF – 10/11/2022
+
+---
+
+### Ementa
+
+Trigonometria no círculo, equações e inequações trigonométricas, funções trigonométricas e funções
+trigonométricas inversas.
+
+---
+
+### Bibliografia:
+1 - Molter, A. and Nachtigall, C. and Zahn, M., Trigonometria e Números Complexos: com aplicações, Editora Blucher, 2020.  
+2 - Iezzi, G., Fundamentos de matemática elementar, 3: trigonometria, Atual, 2004.

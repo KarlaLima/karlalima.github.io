@@ -4,27 +4,19 @@ category: Ensino
 
 ### Notas de aula e Listas
 
-[Lista P1 (Finalizada)]({static}/arquivos/P1:Calculo_II.pdf)  
-[Lista P2 (Finalizada)]({static}/arquivos/Listas_CII_P2.pdf)  
-[Aula 01]({static}/arquivos/Aula_01_C.pdf)  
-[Aula 02]({static}/arquivos/Aula_02_C.pdf)  
-[Aula 03]({static}/arquivos/Aula_03_C.pdf)  
-[Aula 04]({static}/arquivos/Aula_04_C.pdf)  
-[Aula 05]({static}/arquivos/Aula_05_C.pdf)  
-[Aula 06]({static}/arquivos/Aula_06_C.pdf)  
-[Aula 07 - Física]({static}/arquivos/Aula_07_C.pdf)  
-[Aula 08]({static}/arquivos/Aula_08_C.pdf)   
-[Aula 09]({static}/arquivos/Aula_09_C.pdf)
+[Lista P1 (ATUALIZA TODA SEGUNDA)]({static}/arquivos/Lista_P1:Calculo_II.pdf)  
+[Técnicas de Integração: Substituição]({static}/arquivos/Semana_1:Substituicao.pdf)  
+
 
 
 ---
 
 ### Avisos
 
-P1 – 18/04/2022  
-P2 – 06/06/2022  
-PS – 13/06/2022  
-EF – 20/06/2022
+P1 – 29/08/2022  
+P2 – 24/10/2022  
+PS – 31/10/2022  
+EF – 07/11/2022
 
 ---
 
