@@ -5,6 +5,7 @@ category: Ensino
 ### Notas de Aula
 
 [Aula 01: Números Naturais e Inteiros]({static}/arquivos/Modelagem_Matematica:Aula_01.pdf)  
+[Aula 02: Modelagem Matemática]({static}/arquivos/Modelagem_Matematica:Aula_02.pdf)  
 
 
 

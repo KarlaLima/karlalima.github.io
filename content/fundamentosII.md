@@ -4,8 +4,11 @@ category: Ensino
 
 ### Listas
 
-[Lista P1 (ATUALIZA TODA SEGUNDA)]({static}/arquivos/Listas_P1:_Fundamentos_II.pdf)  
+[Lista P1 (ATUALIZA TODA SEMANA)]({static}/arquivos/Listas_P1:_Fundamentos_II.pdf)  
+[Lista Complementar - Iezzi (ATUALIZA TODA SEMANA)]({static}/arquivos/Exercicios_Iezzi.pdf)  
 
+### Complemento Bibliográfico
+[Aula 02: Trigonometria Básica]({static}/arquivos/Fundamentos_II:Aula_02.pdf)  
 
 
 
