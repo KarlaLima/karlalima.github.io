@@ -7,7 +7,7 @@ category: Ensino
 [Aula 01: Números Naturais e Inteiros]({static}/arquivos/Modelagem_Matematica:Aula_01.pdf)  
 [Aula 02: Modelagem Matemática]({static}/arquivos/Modelagem_Matematica:Aula_02.pdf)  
 [Aula 03: Aritmética Modular]({static}/arquivos/Modelagem_Matematica:Aula_03.pdf)  
-[Aula 03, Aula 03: MODELAGEM MATEMÁTICA: O QUE É? POR QUE? COMO? ]({static}/arquivos/Artigo_Aula_03.pdf)  
+[Aula 03, Artigo: MODELAGEM MATEMÁTICA: O QUE É? POR QUE? COMO? ]({static}/arquivos/Artigo_Aula_03.pdf)  
 
 
 
