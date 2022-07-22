@@ -4,8 +4,11 @@ category: Ensino
 
 ### Listas
 
-[Lista P1 (ATUALIZA TODA SEMANA)]({static}/arquivos/Listas_P1:_Fundamentos_II.pdf)  
-[Lista Complementar - Iezzi (ATUALIZA TODA SEMANA)]({static}/arquivos/Exercicios_Iezzi.pdf)  
+[Lista P1 (ATUALIZA TODA QUINTA-FEIRA)]({static}/arquivos/Listas_P1:_Fundamentos_II.pdf)  
+[Lista Complementar - Iezzi (Ângulos e Arcos)]({static}/arquivos/Exercicios_Iezzi.pdf)  
+[Lista Complementar - Iezzi (Trigonometria no Triângulo Retângulo)]({static}/arquivos/Exercicios_Iezzi_Trigonometria_no_Triangulo.pdf)  
+
+
 
 ### Complemento Bibliográfico
 [Aula 02: Trigonometria Básica]({static}/arquivos/Fundamentos_II:Aula_02.pdf)  
