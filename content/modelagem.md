@@ -9,7 +9,7 @@ category: Ensino
 [Aula 03: Aritmética Modular]({static}/arquivos/Modelagem_Matematica:Aula_03.pdf)  
 [Aula 03, Artigo: MODELAGEM MATEMÁTICA: O QUE É? POR QUE? COMO? ]({static}/arquivos/Artigo_Aula_03.pdf)  
 [Aula 06, Artigo: Uma proposta de ensino do sistema binário na educação básica ]({static}/arquivos/Artigo_Aula_06.pdf)  
-[Aula 06: Trabalho 01]({static}/arquivos/Modelagem_Matematica:Aula_06_Trabalho_1.pdf)  
+[Aula 06: Trabalho 01]({static}/arquivos/Aula_06_Trabalho_1.pdf)  
 
 
 
