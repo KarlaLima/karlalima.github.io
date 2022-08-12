@@ -10,6 +10,7 @@ category: Ensino
 [Aula 03, Artigo: MODELAGEM MATEMÁTICA: O QUE É? POR QUE? COMO? ]({static}/arquivos/Artigo_Aula_03.pdf)  
 [Aula 06, Artigo: Uma proposta de ensino do sistema binário na educação básica ]({static}/arquivos/Artigo_Aula_06.pdf)  
 [Aula 06: Trabalho 01]({static}/arquivos/Aula_06_Trabalho_1.pdf)  
+[Trabalho 01: Relatório]({static}/arquivos/Trabalho_1_Relatorio.pdf)  
 
 
 
@@ -21,8 +22,9 @@ category: Ensino
 
 ### Avisos
 
-P1 – 02/09/2022  
+
 T1 – 05/08/2022  
+P1 – 02/09/2022  
 P2 – 07/10/2022  
 T2 – 21/10/2022  
 PS – 04/11/2022  

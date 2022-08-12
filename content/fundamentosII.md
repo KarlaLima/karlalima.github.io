@@ -9,6 +9,7 @@ category: Ensino
 [Lista Complementar - Iezzi (Trigonometria no Triângulo Retângulo)]({static}/arquivos/Exercicios_Iezzi_Trigonometria_no_Triangulo.pdf)  
 [Lista Complementar - Iezzi (Razões Especiais)]({static}/arquivos/Exercicios_Iezzi_Razoes_Especiais.pdf)  
 [Lista Complementar - Iezzi (Ciclo Trigonométrico)]({static}/arquivos/Exercicios_Iezzi_Ciclo.pdf)  
+[Lista Complementar - Iezzi (Seno e Cosseno)]({static}/arquivos/Exercicios_Iezzi_Seno_Cosseno.pdf)  
 
 
 
