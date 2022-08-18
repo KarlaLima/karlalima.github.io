@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2022-08-12T14:08:52-04:00</updated><entry><title>Fundamentos da Matemática II</title><link href="http://karlalima.github.io/ensino/fundamentosii.html" rel="alternate"></link><published>2022-08-12T14:08:52-04:00</published><updated>2022-08-12T14:08:52-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2022-08-12:/ensino/fundamentosii.html</id><summary type="html">&lt;h3&gt;Listas&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2022-08-18T13:21:32-04:00</updated><entry><title>Cálculo II</title><link href="http://karlalima.github.io/ensino/calculoii.html" rel="alternate"></link><published>2022-08-18T13:21:32-04:00</published><updated>2022-08-18T13:21:32-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2022-08-18:/ensino/calculoii.html</id><summary type="html">&lt;h3&gt;Notas de aula e Listas&lt;/h3&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Lista_P1:Calculo_II.pdf"&gt;Lista P1 (Finalizada)&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Lista_P2:Calculo_II.pdf"&gt;Lista P2 (ATUALIZA TODA SEMANA)&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Semana_1:Substituicao.pdf"&gt;Técnicas de Integração: Substituição&lt;/a&gt;  &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Avisos&lt;/h3&gt;
+&lt;p&gt;P1 – 29/08/2022&lt;br&gt;
+P2 – 24/10/2022&lt;br&gt;
+PS – 31/10/2022&lt;br&gt;
+EF – 07/11/2022&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Ementa&lt;/h3&gt;
+&lt;p&gt;Técnicas de integração. Integrais impróprias. Seqüências e séries infinitas. Fórmula
+de Taylor. Série de potências …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Notas de aula e Listas&lt;/h3&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Lista_P1:Calculo_II.pdf"&gt;Lista P1 (Finalizada)&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Lista_P2:Calculo_II.pdf"&gt;Lista P2 (ATUALIZA TODA SEMANA)&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Semana_1:Substituicao.pdf"&gt;Técnicas de Integração: Substituição&lt;/a&gt;  &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Avisos&lt;/h3&gt;
+&lt;p&gt;P1 – 29/08/2022&lt;br&gt;
+P2 – 24/10/2022&lt;br&gt;
+PS – 31/10/2022&lt;br&gt;
+EF – 07/11/2022&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Ementa&lt;/h3&gt;
+&lt;p&gt;Técnicas de integração. Integrais impróprias. Seqüências e séries infinitas. Fórmula
+de Taylor. Série de potências. Equações diferenciais de 1ª ordem e aplicações. Equações
+diferenciais lineares. Equações diferenciais lineares de 2ª ordem e aplicações.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Bibliografia:&lt;/h3&gt;
+&lt;p&gt;1 - STEWART. James. Cálculo – Vol. 1 – 6 Ed. Editora: Cengage Learning&lt;br&gt;
+2 - STEWART. James. Cálculo – Vol. 2 – 6 Ed. Editora: Cengage Learning&lt;br&gt;
+3 - ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo . 8. ed. Porto Alegre, RS: Bookman, 2007. v.1.&lt;br&gt;
+4 - ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo . 8. ed. Porto Alegre, RS: Bookman, 2007. v.2.&lt;/p&gt;</content><category term="Ensino"></category></entry><entry><title>Fundamentos da Matemática II</title><link href="http://karlalima.github.io/ensino/fundamentosii.html" rel="alternate"></link><published>2022-08-12T14:08:52-04:00</published><updated>2022-08-12T14:08:52-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2022-08-12:/ensino/fundamentosii.html</id><summary type="html">&lt;h3&gt;Listas&lt;/h3&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Listas_P1:_Fundamentos_II.pdf"&gt;Lista P1 (ATUALIZA TODA QUINTA-FEIRA)&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Exercicios_Iezzi.pdf"&gt;Lista Complementar - Iezzi (Ângulos e Arcos)&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Exercicios_Iezzi_Trigonometria_no_Triangulo.pdf"&gt;Lista Complementar - Iezzi (Trigonometria no Triângulo Retângulo)&lt;/a&gt;&lt;br&gt;
@@ -66,35 +99,4 @@ EF – 11/11/2022&lt;/p&gt;
 &lt;p&gt;1 - Bassanezi, R. C. Ensino-Aprendizagem com Modelagem Matemática. Editora Contexto, 2004.&lt;br&gt;
 2- MALHEIROS, Ana Paula dos S.; MEYER, João Frederico da Costa de A.; CALDEIRA, Ademir D. Modelagem em Educação Matemática. Grupo Autêntica, 2011. 9788551301357. Disponível em: https://app.minhabiblioteca.com.br/#/books/9788551301357/.&lt;br&gt;
 3 - Biembegut, M. S. Modelagem Matemática &amp;amp; Implicações no Ensino-Aprendizagem de Matemática.
-Editora FURB, 1999.&lt;/p&gt;</content><category term="Ensino"></category></entry><entry><title>Cálculo II</title><link href="http://karlalima.github.io/ensino/calculoii.html" rel="alternate"></link><published>2022-07-05T07:14:08-04:00</published><updated>2022-07-05T07:14:08-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2022-07-05:/ensino/calculoii.html</id><summary type="html">&lt;h3&gt;Notas de aula e Listas&lt;/h3&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Lista_P1:Calculo_II.pdf"&gt;Lista P1 (ATUALIZA TODA SEGUNDA)&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Semana_1:Substituicao.pdf"&gt;Técnicas de Integração: Substituição&lt;/a&gt;  &lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Avisos&lt;/h3&gt;
-&lt;p&gt;P1 – 29/08/2022&lt;br&gt;
-P2 – 24/10/2022&lt;br&gt;
-PS – 31/10/2022&lt;br&gt;
-EF – 07/11/2022&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Ementa&lt;/h3&gt;
-&lt;p&gt;Técnicas de integração. Integrais impróprias. Seqüências e séries infinitas. Fórmula
-de Taylor. Série de potências. Equações diferenciais de …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Notas de aula e Listas&lt;/h3&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Lista_P1:Calculo_II.pdf"&gt;Lista P1 (ATUALIZA TODA SEGUNDA)&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Semana_1:Substituicao.pdf"&gt;Técnicas de Integração: Substituição&lt;/a&gt;  &lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Avisos&lt;/h3&gt;
-&lt;p&gt;P1 – 29/08/2022&lt;br&gt;
-P2 – 24/10/2022&lt;br&gt;
-PS – 31/10/2022&lt;br&gt;
-EF – 07/11/2022&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Ementa&lt;/h3&gt;
-&lt;p&gt;Técnicas de integração. Integrais impróprias. Seqüências e séries infinitas. Fórmula
-de Taylor. Série de potências. Equações diferenciais de 1ª ordem e aplicações. Equações
-diferenciais lineares. Equações diferenciais lineares de 2ª ordem e aplicações.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Bibliografia:&lt;/h3&gt;
-&lt;p&gt;1 - STEWART. James. Cálculo – Vol. 1 – 6 Ed. Editora: Cengage Learning&lt;br&gt;
-2 - STEWART. James. Cálculo – Vol. 2 – 6 Ed. Editora: Cengage Learning&lt;br&gt;
-3 - ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo . 8. ed. Porto Alegre, RS: Bookman, 2007. v.1.&lt;br&gt;
-4 - ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo . 8. ed. Porto Alegre, RS: Bookman, 2007. v.2.&lt;/p&gt;</content><category term="Ensino"></category></entry><entry><title>Yang, H. M., Boldrini, J. L., Fassoni, A. C., de Lima, K. K. B., Freitas, L. F. S., Gomez, M. C., Andrade, V. R., Freitas, A. R. R., Abiotic Effects on Population Dynamics of Mosquitoes and Their Influence on Dengue Transmission. In: Cláudia P. Ferreira; Wesley A.C Godoy. (Org.). Ecological Modelling Applied to Entomology. 1ed.: Springer International Publishing, 2014, v. 1, p. 39-79.</title><link href="http://www.springer.com/us/book/9783319068763" rel="alternate"></link><published>2018-08-08T09:28:40-04:00</published><updated>2018-08-08T09:28:40-04:00</updated><author><name>Karla Lima</name></author><id>tag:www.springer.com,2018-08-08:/us/book/9783319068763</id><content type="html">&lt;p&gt;capítulo de livro&lt;/p&gt;</content><category term="Pesquisa"></category></entry></feed>
+Editora FURB, 1999.&lt;/p&gt;</content><category term="Ensino"></category></entry><entry><title>Yang, H. M., Boldrini, J. L., Fassoni, A. C., de Lima, K. K. B., Freitas, L. F. S., Gomez, M. C., Andrade, V. R., Freitas, A. R. R., Abiotic Effects on Population Dynamics of Mosquitoes and Their Influence on Dengue Transmission. In: Cláudia P. Ferreira; Wesley A.C Godoy. (Org.). Ecological Modelling Applied to Entomology. 1ed.: Springer International Publishing, 2014, v. 1, p. 39-79.</title><link href="http://www.springer.com/us/book/9783319068763" rel="alternate"></link><published>2018-08-08T09:28:40-04:00</published><updated>2018-08-08T09:28:40-04:00</updated><author><name>Karla Lima</name></author><id>tag:www.springer.com,2018-08-08:/us/book/9783319068763</id><content type="html">&lt;p&gt;capítulo de livro&lt;/p&gt;</content><category term="Pesquisa"></category></entry></feed>
