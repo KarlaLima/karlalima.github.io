@@ -3,8 +3,8 @@ shorttitle: Cálculo II
 category: Ensino
 
 ### Notas de aula e Listas
-
-[Lista P1 (ATUALIZA TODA SEGUNDA)]({static}/arquivos/Lista_P1:Calculo_II.pdf)  
+[Lista P1 (Finalizada)]({static}/arquivos/Lista_P1:Calculo_II.pdf)  
+[Lista P2 (ATUALIZA TODA SEMANA)]({static}/arquivos/Lista_P2:Calculo_II.pdf)  
 [Técnicas de Integração: Substituição]({static}/arquivos/Semana_1:Substituicao.pdf)  
 
 
