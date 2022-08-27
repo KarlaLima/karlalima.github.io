@@ -4,12 +4,14 @@ category: Ensino
 
 ### Listas
 
-[Lista P1 (ATUALIZA TODA QUINTA-FEIRA)]({static}/arquivos/Listas_P1:_Fundamentos_II.pdf)  
+[Lista P1 (Finalizada)]({static}/arquivos/Listas_P1:_Fundamentos_II.pdf)  
 [Lista Complementar - Iezzi (Ângulos e Arcos)]({static}/arquivos/Exercicios_Iezzi.pdf)  
 [Lista Complementar - Iezzi (Trigonometria no Triângulo Retângulo)]({static}/arquivos/Exercicios_Iezzi_Trigonometria_no_Triangulo.pdf)  
 [Lista Complementar - Iezzi (Razões Especiais)]({static}/arquivos/Exercicios_Iezzi_Razoes_Especiais.pdf)  
 [Lista Complementar - Iezzi (Ciclo Trigonométrico)]({static}/arquivos/Exercicios_Iezzi_Ciclo.pdf)  
 [Lista Complementar - Iezzi (Seno e Cosseno)]({static}/arquivos/Exercicios_Iezzi_Seno_Cosseno.pdf)  
+[Lista Complementar - Iezzi (Leis do Seno e Cosseno)]({static}/arquivos/Exercicios_Iezzi_Leis_Cosseno_Seno.pdf)  
+
 
 
 
