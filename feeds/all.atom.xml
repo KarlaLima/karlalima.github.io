@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2022-08-27T11:12:41-04:00</updated><entry><title>Modelagem Matemática no Ensino</title><link href="http://karlalima.github.io/ensino/modelagem.html" rel="alternate"></link><published>2022-08-27T11:12:41-04:00</published><updated>2022-08-27T11:12:41-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2022-08-27:/ensino/modelagem.html</id><summary type="html">&lt;h3&gt;Notas de Aula&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2022-09-01T19:59:44-04:00</updated><entry><title>Modelagem Matemática no Ensino</title><link href="http://karlalima.github.io/ensino/modelagem.html" rel="alternate"></link><published>2022-09-01T19:59:44-04:00</published><updated>2022-09-01T19:59:44-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2022-09-01:/ensino/modelagem.html</id><summary type="html">&lt;h3&gt;Notas de Aula&lt;/h3&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Modelagem_Matematica:Aula_01.pdf"&gt;Aula 01: Números Naturais e Inteiros&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Modelagem_Matematica:Aula_02.pdf"&gt;Aula 02: Modelagem Matemática&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Modelagem_Matematica:Aula_03.pdf"&gt;Aula 03: Aritmética Modular&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Artigo_Aula_03.pdf"&gt;Aula 03, Artigo: MODELAGEM MATEMÁTICA: O QUE É? POR QUE? COMO? &lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Artigo_Aula_06.pdf"&gt;Aula 06, Artigo: Uma proposta de ensino do sistema binário na educação básica &lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula_06_Trabalho_1.pdf"&gt;Aula 06: Trabalho 01&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Trabalho_1_Relatorio.pdf"&gt;Trabalho 01: Relatório&lt;/a&gt;  &lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Avisos&lt;/h3&gt;
-&lt;p&gt;T1 …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Notas de Aula&lt;/h3&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Trabalho_1_Relatorio.pdf"&gt;Trabalho 01: Relatório&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Atividades_Codificacao.pdf"&gt;Atividade de …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Notas de Aula&lt;/h3&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Modelagem_Matematica:Aula_01.pdf"&gt;Aula 01: Números Naturais e Inteiros&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Modelagem_Matematica:Aula_02.pdf"&gt;Aula 02: Modelagem Matemática&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Modelagem_Matematica:Aula_03.pdf"&gt;Aula 03: Aritmética Modular&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Artigo_Aula_03.pdf"&gt;Aula 03, Artigo: MODELAGEM MATEMÁTICA: O QUE É? POR QUE? COMO? &lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Artigo_Aula_06.pdf"&gt;Aula 06, Artigo: Uma proposta de ensino do sistema binário na educação básica &lt;/a&gt;&lt;br&gt;
 &lt;a href="http://karlalima.github.io/arquivos/Aula_06_Trabalho_1.pdf"&gt;Aula 06: Trabalho 01&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Trabalho_1_Relatorio.pdf"&gt;Trabalho 01: Relatório&lt;/a&gt;  &lt;/p&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Trabalho_1_Relatorio.pdf"&gt;Trabalho 01: Relatório&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://karlalima.github.io/arquivos/Atividades_Codificacao.pdf"&gt;Atividade de Codificação&lt;/a&gt;  &lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Avisos&lt;/h3&gt;
 &lt;p&gt;T1 – 05/08/2022&lt;br&gt;
