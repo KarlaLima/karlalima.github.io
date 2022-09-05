@@ -7,8 +7,9 @@ category: Ensino
 [Lista P2 (ATUALIZA TODA SEMANA)]({static}/arquivos/Lista_P2:Calculo_II.pdf)  
 [Técnicas de Integração: Substituição]({static}/arquivos/Semana_1:Substituicao.pdf)  
 
-
-
+---
+### Avaliações e Gabaritos
+[P1: 29/08/22]({static}/arquivos/Gabarito_P1_CII.pdf)  
 ---
 
 ### Avisos
