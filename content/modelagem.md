@@ -11,7 +11,7 @@ category: Ensino
 [Aula 06, Artigo: Uma proposta de ensino do sistema binário na educação básica ]({static}/arquivos/Artigo_Aula_06.pdf)  
 [Aula 06: Trabalho 01]({static}/arquivos/Aula_06_Trabalho_1.pdf)  
 [Trabalho 01: Relatório]({static}/arquivos/Trabalho_1_Relatorio.pdf)  
-[Atividade de Codificação]({static}/arquivos/Atividades_Codificacao.pdf)  
+[Atividade de Codificação - Atualizada em 06/09]({static}/arquivos/Atividades_Codificacao.pdf)  
 
 
 
