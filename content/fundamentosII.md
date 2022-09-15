@@ -11,6 +11,8 @@ category: Ensino
 [Lista Complementar - Iezzi (Ciclo Trigonométrico)]({static}/arquivos/Exercicios_Iezzi_Ciclo.pdf)  
 [Lista Complementar - Iezzi (Seno e Cosseno)]({static}/arquivos/Exercicios_Iezzi_Seno_Cosseno.pdf)  
 [Lista Complementar - Iezzi (Leis do Seno e Cosseno)]({static}/arquivos/Exercicios_Iezzi_Leis_Cosseno_Seno.pdf)  
+[Lista P2 (Atualiza toda semana)]({static}/arquivos/Listas_P2:_Fundamentos_II.pdf)  
+[Lista Complementar - Iezzi (Função Seno)]({static}/arquivos/Exercicios_Iezzi_Funcao_Seno.pdf)  
 
 
 
