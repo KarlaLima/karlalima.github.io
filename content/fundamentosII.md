@@ -19,6 +19,7 @@ category: Ensino
 
 ### Complemento Bibliográfico
 [Aula 02: Trigonometria Básica]({static}/arquivos/Fundamentos_II:Aula_02.pdf)  
+[Aula 15/09: Funções]({static}/arquivos/Funcoes.pdf)  
 
 
 
