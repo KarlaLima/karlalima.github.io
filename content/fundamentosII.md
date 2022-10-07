@@ -14,6 +14,7 @@ category: Ensino
 [Lista P2 (Atualiza toda semana)]({static}/arquivos/Listas_P2:_Fundamentos_II.pdf)  
 [Lista Complementar - Iezzi (Função Seno)]({static}/arquivos/Exercicios_Iezzi_Funcao_Seno.pdf)  
 [Funções]({static}/arquivos/Lista_Funcoes.pdf)  
+[Lista Complementar - Iezzi (Equações)]({static}/arquivos/Exercicios_Iezzi_Equacoes.pdf)  
 
 
 
