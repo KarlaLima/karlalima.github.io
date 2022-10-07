@@ -13,6 +13,7 @@ category: Ensino
 [Lista Complementar - Iezzi (Leis do Seno e Cosseno)]({static}/arquivos/Exercicios_Iezzi_Leis_Cosseno_Seno.pdf)  
 [Lista P2 (Atualiza toda semana)]({static}/arquivos/Listas_P2:_Fundamentos_II.pdf)  
 [Lista Complementar - Iezzi (Função Seno)]({static}/arquivos/Exercicios_Iezzi_Funcao_Seno.pdf)  
+[Funções]({static}/arquivos/Lista_Funcoes.pdf)  
 
 
 
