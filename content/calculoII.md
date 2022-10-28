@@ -10,6 +10,7 @@ category: Ensino
 ---
 ### Avaliações e Gabaritos
 [P1: 29/08/22]({static}/arquivos/Gabarito_P1_CII.pdf)  
+[P2: 24/10/22]({static}/arquivos/Gabarito_P2_CII.pdf)  
 ---
 
 ### Avisos
