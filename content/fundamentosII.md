@@ -18,7 +18,9 @@ category: Ensino
 [Lista Inequações]({static}/arquivos/Inequacoes.pdf)  
 
 
-
+### Avaliações e Gabaritos
+[P1: 02/09/22]({static}/arquivos/Gabarito_P1_FII.pdf)  
+[P2: 27/10/22]({static}/arquivos/Gabarito_P2_FII.pdf)  
 
 ### Complemento Bibliográfico
 [Aula 02: Trigonometria Básica]({static}/arquivos/Fundamentos_II:Aula_02.pdf)  
