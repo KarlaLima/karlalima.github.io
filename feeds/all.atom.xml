@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2022-11-22T15:26:00-04:00</updated><entry><title>Introdução ao Cálculo</title><link href="http://karlalima.github.io/ensino/intro_calculo.html" rel="alternate"></link><published>2022-11-22T15:26:00-04:00</published><updated>2022-11-22T15:26:00-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2022-11-22:/ensino/intro_calculo.html</id><summary type="html">&lt;h3&gt;Roteiros de Aula&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2022-11-22T15:42:24-04:00</updated><entry><title>Introdução ao Cálculo</title><link href="http://karlalima.github.io/ensino/intro_calculo.html" rel="alternate"></link><published>2022-11-22T15:42:24-04:00</published><updated>2022-11-22T15:42:24-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2022-11-22:/ensino/intro_calculo.html</id><summary type="html">&lt;h3&gt;Roteiros de Aula&lt;/h3&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/IC:Aula_01.pdf"&gt;Aula 01: Conjuntos Numéricos e Operações.&lt;/a&gt;  &lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;Listas de Exercícios&lt;/h3&gt;
-&lt;!--[Lista P1 (Atualiza toda semana)]({static}/arquivos/Listas_P1:_IC.pdf)  --&gt;
-
+&lt;h3&gt;Exercícios&lt;/h3&gt;
+&lt;p&gt;Resolva os exercícios ao final de cada capítulo do livro texto.  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Aula 01: Capítulo 1&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
 &lt;h3&gt;Avaliações e Gabaritos&lt;/h3&gt;
 &lt;p&gt;P1 – 15/02/2023&lt;br&gt;
@@ -13,15 +15,14 @@ PS – 26/04/2023&lt;br&gt;
 EF – 03/05/2023&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Bibliografia:&lt;/h3&gt;
-&lt;p&gt;Livro texto:Pré-Cálculo, F. Demana.&lt;br&gt;
- Outros livros:
-    Pré-Cálculo, S. Axler.&lt;br&gt;
-    Fundamentos da Matemática Elementar: 1, 2, 3 e …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Roteiros de Aula&lt;/h3&gt;
+&lt;p&gt;Livro texto:Pré-Cálculo, F. Demana …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Roteiros de Aula&lt;/h3&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/IC:Aula_01.pdf"&gt;Aula 01: Conjuntos Numéricos e Operações.&lt;/a&gt;  &lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;Listas de Exercícios&lt;/h3&gt;
-&lt;!--[Lista P1 (Atualiza toda semana)]({static}/arquivos/Listas_P1:_IC.pdf)  --&gt;
-
+&lt;h3&gt;Exercícios&lt;/h3&gt;
+&lt;p&gt;Resolva os exercícios ao final de cada capítulo do livro texto.  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Aula 01: Capítulo 1&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
 &lt;h3&gt;Avaliações e Gabaritos&lt;/h3&gt;
 &lt;p&gt;P1 – 15/02/2023&lt;br&gt;
