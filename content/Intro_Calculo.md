@@ -6,10 +6,10 @@ category: Ensino
 [Aula 01: Conjuntos Numéricos e Operações.]({static}/arquivos/IC:Aula_01.pdf)  
 
 ---
-### Listas de Exercícios
+### Exercícios
+Resolva os exercícios ao final de cada capítulo do livro texto.  
 
-<!--[Lista P1 (Atualiza toda semana)]({static}/arquivos/Listas_P1:_IC.pdf)  -->
-
+ - Aula 01: Capítulo 1
 
 ---
 ### Avaliações e Gabaritos
