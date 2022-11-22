@@ -7,7 +7,7 @@ SITENAME = u'Prof\xaa. Karla Lima'
 SITEURL = ''
 INSTITUTION = 'FACET - UFGD'
 EMAIL = 'karlalima@ufgd.edu.br'
-SEMESTRE = '2021.2'
+SEMESTRE = '2022.2'
 
 PATH = 'content'
 
