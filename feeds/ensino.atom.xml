@@ -1,115 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2022-10-30T07:02:28-04:00</updated><entry><title>Fundamentos da Matemática II</title><link href="http://karlalima.github.io/ensino/fundamentosii.html" rel="alternate"></link><published>2022-10-30T07:02:28-04:00</published><updated>2022-10-30T07:02:28-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2022-10-30:/ensino/fundamentosii.html</id><summary type="html">&lt;h3&gt;Listas&lt;/h3&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Listas_P1:_Fundamentos_II.pdf"&gt;Lista P1 (Finalizada)&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Exercicios_Iezzi.pdf"&gt;Lista Complementar - Iezzi (Ângulos e Arcos)&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Exercicios_Iezzi_Trigonometria_no_Triangulo.pdf"&gt;Lista Complementar - Iezzi (Trigonometria no Triângulo Retângulo)&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Exercicios_Iezzi_Razoes_Especiais.pdf"&gt;Lista Complementar - Iezzi (Razões Especiais)&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Exercicios_Iezzi_Ciclo.pdf"&gt;Lista Complementar - Iezzi (Ciclo Trigonométrico)&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Exercicios_Iezzi_Seno_Cosseno.pdf"&gt;Lista Complementar - Iezzi (Seno e Cosseno)&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Exercicios_Iezzi_Leis_Cosseno_Seno.pdf"&gt;Lista Complementar - Iezzi (Leis do Seno e Cosseno)&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Listas_P2:_Fundamentos_II.pdf"&gt;Lista P2 (Atualiza toda semana)&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Exercicios_Iezzi_Funcao_Seno.pdf"&gt;Lista Complementar - Iezzi (Função …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Listas&lt;/h3&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Listas_P1:_Fundamentos_II.pdf"&gt;Lista P1 (Finalizada)&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Exercicios_Iezzi.pdf"&gt;Lista Complementar - Iezzi (Ângulos e Arcos)&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Exercicios_Iezzi_Trigonometria_no_Triangulo.pdf"&gt;Lista Complementar - Iezzi (Trigonometria no Triângulo Retângulo)&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Exercicios_Iezzi_Razoes_Especiais.pdf"&gt;Lista Complementar - Iezzi (Razões Especiais)&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Exercicios_Iezzi_Ciclo.pdf"&gt;Lista Complementar - Iezzi (Ciclo Trigonométrico)&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Exercicios_Iezzi_Seno_Cosseno.pdf"&gt;Lista Complementar - Iezzi (Seno e Cosseno)&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Exercicios_Iezzi_Leis_Cosseno_Seno.pdf"&gt;Lista Complementar - Iezzi (Leis do Seno e Cosseno)&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Listas_P2:_Fundamentos_II.pdf"&gt;Lista P2 (Atualiza toda semana)&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Exercicios_Iezzi_Funcao_Seno.pdf"&gt;Lista Complementar - Iezzi (Função Seno)&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Lista_Funcoes.pdf"&gt;Funções&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Exercicios_Iezzi_Equacoes.pdf"&gt;Lista Equações&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Inequacoes.pdf"&gt;Lista Inequações&lt;/a&gt;  &lt;/p&gt;
-&lt;h3&gt;Avaliações e Gabaritos&lt;/h3&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Gabarito_P1_FII.pdf"&gt;P1: 02/09/22&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Gabarito_P2_FII.pdf"&gt;P2: 27/10/22&lt;/a&gt;  &lt;/p&gt;
-&lt;h3&gt;Complemento Bibliográfico&lt;/h3&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Fundamentos_II:Aula_02.pdf"&gt;Aula 02: Trigonometria Básica&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Funcoes.pdf"&gt;Aula 15/09: Funções&lt;/a&gt;  &lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2022-11-22T15:26:00-04:00</updated><entry><title>Introdução ao Cálculo</title><link href="http://karlalima.github.io/ensino/intro_calculo.html" rel="alternate"></link><published>2022-11-22T15:26:00-04:00</published><updated>2022-11-22T15:26:00-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2022-11-22:/ensino/intro_calculo.html</id><summary type="html">&lt;h3&gt;Roteiros de Aula&lt;/h3&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/IC:Aula_01.pdf"&gt;Aula 01: Conjuntos Numéricos e Operações.&lt;/a&gt;  &lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;Avisos&lt;/h3&gt;
-&lt;p&gt;P1 – 01/09/2022&lt;br&gt;
-P2 – 27/10/2022&lt;br&gt;
-PS – 03/11/2022&lt;br&gt;
-EF – 10/11/2022&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Ementa&lt;/h3&gt;
-&lt;p&gt;Trigonometria no círculo, equações e inequações trigonométricas, funções trigonométricas e funções
-trigonométricas inversas.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Bibliografia:&lt;/h3&gt;
-&lt;p&gt;1 - Molter, A. and Nachtigall, C. and Zahn, M., Trigonometria e Números Complexos: com aplicações, Editora Blucher, 2020.&lt;br&gt;
-2 - Iezzi, G., Fundamentos de matemática elementar, 3: trigonometria, Atual, 2004.&lt;/p&gt;</content><category term="Ensino"></category></entry><entry><title>Cálculo II</title><link href="http://karlalima.github.io/ensino/calculoii.html" rel="alternate"></link><published>2022-10-28T15:03:18-04:00</published><updated>2022-10-28T15:03:18-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2022-10-28:/ensino/calculoii.html</id><summary type="html">&lt;h3&gt;Notas de aula e Listas&lt;/h3&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Lista_P1:Calculo_II.pdf"&gt;Lista P1 (Finalizada)&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Lista_P2:Calculo_II.pdf"&gt;Lista P2 (ATUALIZA TODA SEMANA)&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Semana_1:Substituicao.pdf"&gt;Técnicas de Integração: Substituição&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;Listas de Exercícios&lt;/h3&gt;
+&lt;!--[Lista P1 (Atualiza toda semana)]({static}/arquivos/Listas_P1:_IC.pdf)  --&gt;
+
 &lt;hr&gt;
 &lt;h3&gt;Avaliações e Gabaritos&lt;/h3&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Gabarito_P1_CII.pdf"&gt;P1: 29/08/22&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Gabarito_P2_CII.pdf"&gt;P2: 24/10/22&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;P1 – 15/02/2023&lt;br&gt;
+P2 – 19/04/2023&lt;br&gt;
+PS – 26/04/2023&lt;br&gt;
+EF – 03/05/2023&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;Avisos&lt;/h3&gt;
-&lt;p&gt;P1 – 29/08/2022&lt;br&gt;
-P2 – 24/10/2022&lt;br&gt;
-PS – 31/10/2022&lt;br&gt;
-EF – 07/11/2022&lt;/p&gt;
+&lt;h3&gt;Bibliografia:&lt;/h3&gt;
+&lt;p&gt;Livro texto:Pré-Cálculo, F. Demana.&lt;br&gt;
+ Outros livros:
+    Pré-Cálculo, S. Axler.&lt;br&gt;
+    Fundamentos da Matemática Elementar: 1, 2, 3 e …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Roteiros de Aula&lt;/h3&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/IC:Aula_01.pdf"&gt;Aula 01: Conjuntos Numéricos e Operações.&lt;/a&gt;  &lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;Ementa&lt;/h3&gt;
-&lt;p&gt;Técnicas de integração. Integrais …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Notas de aula e Listas&lt;/h3&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Lista_P1:Calculo_II.pdf"&gt;Lista P1 (Finalizada)&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Lista_P2:Calculo_II.pdf"&gt;Lista P2 (ATUALIZA TODA SEMANA)&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Semana_1:Substituicao.pdf"&gt;Técnicas de Integração: Substituição&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;Listas de Exercícios&lt;/h3&gt;
+&lt;!--[Lista P1 (Atualiza toda semana)]({static}/arquivos/Listas_P1:_IC.pdf)  --&gt;
+
 &lt;hr&gt;
 &lt;h3&gt;Avaliações e Gabaritos&lt;/h3&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Gabarito_P1_CII.pdf"&gt;P1: 29/08/22&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Gabarito_P2_CII.pdf"&gt;P2: 24/10/22&lt;/a&gt;  &lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Avisos&lt;/h3&gt;
-&lt;p&gt;P1 – 29/08/2022&lt;br&gt;
-P2 – 24/10/2022&lt;br&gt;
-PS – 31/10/2022&lt;br&gt;
-EF – 07/11/2022&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Ementa&lt;/h3&gt;
-&lt;p&gt;Técnicas de integração. Integrais impróprias. Seqüências e séries infinitas. Fórmula
-de Taylor. Série de potências. Equações diferenciais de 1ª ordem e aplicações. Equações
-diferenciais lineares. Equações diferenciais lineares de 2ª ordem e aplicações.&lt;/p&gt;
+&lt;p&gt;P1 – 15/02/2023&lt;br&gt;
+P2 – 19/04/2023&lt;br&gt;
+PS – 26/04/2023&lt;br&gt;
+EF – 03/05/2023&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Bibliografia:&lt;/h3&gt;
-&lt;p&gt;1 - STEWART. James. Cálculo – Vol. 1 – 6 Ed. Editora: Cengage Learning&lt;br&gt;
-2 - STEWART. James. Cálculo – Vol. 2 – 6 Ed. Editora: Cengage Learning&lt;br&gt;
-3 - ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo . 8. ed. Porto Alegre, RS: Bookman, 2007. v.1.&lt;br&gt;
-4 - ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo . 8. ed. Porto Alegre, RS: Bookman, 2007. v.2.&lt;/p&gt;</content><category term="Ensino"></category></entry><entry><title>Modelagem Matemática no Ensino</title><link href="http://karlalima.github.io/ensino/modelagem.html" rel="alternate"></link><published>2022-09-06T14:35:26-04:00</published><updated>2022-09-06T14:35:26-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2022-09-06:/ensino/modelagem.html</id><summary type="html">&lt;h3&gt;Notas de Aula&lt;/h3&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Modelagem_Matematica:Aula_01.pdf"&gt;Aula 01: Números Naturais e Inteiros&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Modelagem_Matematica:Aula_02.pdf"&gt;Aula 02: Modelagem Matemática&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Modelagem_Matematica:Aula_03.pdf"&gt;Aula 03: Aritmética Modular&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Artigo_Aula_03.pdf"&gt;Aula 03, Artigo: MODELAGEM MATEMÁTICA: O QUE É? POR QUE? COMO? &lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Artigo_Aula_06.pdf"&gt;Aula 06, Artigo: Uma proposta de ensino do sistema binário na educação básica &lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Aula_06_Trabalho_1.pdf"&gt;Aula 06: Trabalho 01&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Trabalho_1_Relatorio.pdf"&gt;Trabalho 01: Relatório&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Atividades_Codificacao.pdf"&gt;Atividade de …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Notas de Aula&lt;/h3&gt;
-&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/Modelagem_Matematica:Aula_01.pdf"&gt;Aula 01: Números Naturais e Inteiros&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Modelagem_Matematica:Aula_02.pdf"&gt;Aula 02: Modelagem Matemática&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Modelagem_Matematica:Aula_03.pdf"&gt;Aula 03: Aritmética Modular&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Artigo_Aula_03.pdf"&gt;Aula 03, Artigo: MODELAGEM MATEMÁTICA: O QUE É? POR QUE? COMO? &lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Artigo_Aula_06.pdf"&gt;Aula 06, Artigo: Uma proposta de ensino do sistema binário na educação básica &lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Aula_06_Trabalho_1.pdf"&gt;Aula 06: Trabalho 01&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Trabalho_1_Relatorio.pdf"&gt;Trabalho 01: Relatório&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://karlalima.github.io/arquivos/Atividades_Codificacao.pdf"&gt;Atividade de Codificação - Atualizada em 06/09&lt;/a&gt;  &lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Avisos&lt;/h3&gt;
-&lt;p&gt;T1 – 05/08/2022&lt;br&gt;
-P1 – 09/09/2022&lt;br&gt;
-P2 – 07/10/2022&lt;br&gt;
-T2 – 21/10/2022&lt;br&gt;
-PS – 04/11/2022&lt;br&gt;
-EF – 11/11/2022&lt;/p&gt;
+&lt;p&gt;Livro texto:Pré-Cálculo, F. Demana.&lt;br&gt;
+ Outros livros:
+    Pré-Cálculo, S. Axler.&lt;br&gt;
+    Fundamentos da Matemática Elementar: 1, 2, 3 e 8; G. Iezzi, C. Murakami e O. Dolce.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Ementa&lt;/h3&gt;
-&lt;h2&gt;Modelagem matemática. Técnicas de modelagem. Modelagem e modelação matemática.&lt;/h2&gt;
-&lt;h3&gt;Bibliografia:&lt;/h3&gt;
-&lt;p&gt;1 - Bassanezi, R. C. Ensino-Aprendizagem com Modelagem Matemática. Editora Contexto, 2004.&lt;br&gt;
-2- MALHEIROS, Ana Paula dos S.; MEYER, João Frederico da Costa de A.; CALDEIRA, Ademir D. Modelagem em Educação Matemática. Grupo Autêntica, 2011. 9788551301357. Disponível em: https://app.minhabiblioteca.com.br/#/books/9788551301357/.&lt;br&gt;
-3 - Biembegut, M. S. Modelagem Matemática &amp;amp; Implicações no Ensino-Aprendizagem de Matemática.
-Editora FURB, 1999.&lt;/p&gt;</content><category term="Ensino"></category></entry></feed>
+&lt;p&gt;Números reais, notação científica e cálculos. Desigualdades. Intervalos. Valor Absoluto. Usos dos
+expoentes fracionários e real. Funções. Funções lineares e principais usos nas ciências. Funções
+quadráticas e polinomiais. Funções exponenciais e aplicações nas ciências. Funções inversas e
+compostas. Logaritmos e suas aplicações nas ciências. Funções trigonométricas e suas aplicações.
+Conceitos de limites, derivadas e integrais definidas, cálculos e aplicações nas ciências.&lt;/p&gt;
+&lt;hr&gt;</content><category term="Ensino"></category></entry></feed>
