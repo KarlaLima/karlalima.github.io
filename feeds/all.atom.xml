@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2022-11-22T15:42:24-04:00</updated><entry><title>Introdução ao Cálculo</title><link href="http://karlalima.github.io/ensino/intro_calculo.html" rel="alternate"></link><published>2022-11-22T15:42:24-04:00</published><updated>2022-11-22T15:42:24-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2022-11-22:/ensino/intro_calculo.html</id><summary type="html">&lt;h3&gt;Roteiros de Aula&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="http://karlalima.github.io/" rel="alternate"></link><link href="http://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>http://karlalima.github.io/</id><updated>2022-11-24T17:08:16-04:00</updated><entry><title>Geometria Plana</title><link href="http://karlalima.github.io/ensino/geometria_plana.html" rel="alternate"></link><published>2022-11-24T17:08:16-04:00</published><updated>2022-11-24T17:08:16-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2022-11-24:/ensino/geometria_plana.html</id><summary type="html">&lt;h3&gt;Complemento das aulas&lt;/h3&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/GP:Aula_01.pdf"&gt;Aula 01: Noções Primitivas.&lt;/a&gt;  &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Exercícios&lt;/h3&gt;
+&lt;p&gt;Resolva os exercícios ao final de cada capítulo do livro texto.  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Aula 01: Capítulos 1 e 2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Lista de Aprofundamento&lt;/h3&gt;
+&lt;p&gt;Em breve  &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Avaliações e Gabaritos&lt;/h3&gt;
+&lt;p&gt;P1 – 24/02/2023&lt;br&gt;
+P2 – 14/04/2023&lt;br&gt;
+PS – 28/04/2023&lt;br&gt;
+EF – 05/05/2023&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Bibliografia …&lt;/h3&gt;</summary><content type="html">&lt;h3&gt;Complemento das aulas&lt;/h3&gt;
+&lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/GP:Aula_01.pdf"&gt;Aula 01: Noções Primitivas.&lt;/a&gt;  &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Exercícios&lt;/h3&gt;
+&lt;p&gt;Resolva os exercícios ao final de cada capítulo do livro texto.  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Aula 01: Capítulos 1 e 2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Lista de Aprofundamento&lt;/h3&gt;
+&lt;p&gt;Em breve  &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Avaliações e Gabaritos&lt;/h3&gt;
+&lt;p&gt;P1 – 24/02/2023&lt;br&gt;
+P2 – 14/04/2023&lt;br&gt;
+PS – 28/04/2023&lt;br&gt;
+EF – 05/05/2023&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Bibliografia:&lt;/h3&gt;
+&lt;p&gt;Livro texto: DOLCE, Osvaldo; POMPEU, José Nicolau. Fundamentos de Matemática Elementar, Vol. 9,
+Geometria Plana - 9ª Ed. Editora Atual. &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Ementa&lt;/h3&gt;
+&lt;p&gt;Tratamento axiomático da geometria euclidiana plana: retas, segmentos de retas e ângulos.
+Congruência de triângulos. Paralelismo e perpendicularidade. Quadriláteros notáveis. Pontos notáveis
+do triângulo. Circunferência e seus elementos: ângulos e arcos. Proporcionalidade e semelhança.
+Relações métricas no triângulo. Áreas de figuras planas. Utilização de recursos computacionais para
+Geometria Plana.&lt;/p&gt;
+&lt;hr&gt;</content><category term="Ensino"></category></entry><entry><title>Introdução ao Cálculo</title><link href="http://karlalima.github.io/ensino/intro_calculo.html" rel="alternate"></link><published>2022-11-22T15:44:09-04:00</published><updated>2022-11-22T15:44:09-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2022-11-22:/ensino/intro_calculo.html</id><summary type="html">&lt;h3&gt;Roteiros de Aula&lt;/h3&gt;
 &lt;p&gt;&lt;a href="http://karlalima.github.io/arquivos/IC:Aula_01.pdf"&gt;Aula 01: Conjuntos Numéricos e Operações.&lt;/a&gt;  &lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Exercícios&lt;/h3&gt;
@@ -32,7 +76,7 @@ EF – 03/05/2023&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Bibliografia:&lt;/h3&gt;
 &lt;p&gt;Livro texto:Pré-Cálculo, F. Demana.&lt;br&gt;
- Outros livros:
+ Outros livros:&lt;br&gt;
     Pré-Cálculo, S. Axler.&lt;br&gt;
     Fundamentos da Matemática Elementar: 1, 2, 3 e 8; G. Iezzi, C. Murakami e O. Dolce.&lt;/p&gt;
 &lt;hr&gt;
