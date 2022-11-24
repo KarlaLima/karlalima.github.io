@@ -20,7 +20,7 @@ EF – 03/05/2023
 ---
 ### Bibliografia:
 Livro texto:Pré-Cálculo, F. Demana.  
- Outros livros:
+ Outros livros:  
     Pré-Cálculo, S. Axler.  
     Fundamentos da Matemática Elementar: 1, 2, 3 e 8; G. Iezzi, C. Murakami e O. Dolce.
 ---
