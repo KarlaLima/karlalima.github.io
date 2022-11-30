@@ -11,7 +11,7 @@ category: Ensino
 Resolva os exercícios ao final de cada capítulo do livro texto.  
 
  - Aula 01: Capítulo 1 (Pré-Cálculo, F. Demana)  
- - Aula 02: Capítulos IV e VI (Fundamentos da Matemática Elementar: 1) 
+ - Aula 02: Capítulos IV e V (Fundamentos da Matemática Elementar: 1) 
 
 ---
 ### Avaliações e Gabaritos
