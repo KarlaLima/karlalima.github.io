@@ -13,7 +13,7 @@ category: Ensino
 Resolva os exercícios ao final de cada capítulo do livro texto.  
 
  - Aula 01: Capítulos 1 e 2  
- - Aula 01: Capítulo 3
+ - Aula 02: Capítulo 3
 ### Lista de Aprofundamento
 Em breve  
 
