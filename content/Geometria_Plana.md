@@ -5,13 +5,15 @@ category: Ensino
 
 ### Complemento das aulas
 [Aula 01: Noções Primitivas.]({static}/arquivos/GP:Aula_01.pdf)  
+[Aula 02: Ângulos.]({static}/arquivos/GP:Aula_02.pdf)  
 
 ---
 ### Exercícios
 
 Resolva os exercícios ao final de cada capítulo do livro texto.  
 
- - Aula 01: Capítulos 1 e 2
+ - Aula 01: Capítulos 1 e 2  
+ - Aula 01: Capítulo 3
 ### Lista de Aprofundamento
 Em breve  
 
