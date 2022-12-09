@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="https://karlalima.github.io/" rel="alternate"></link><link href="https://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>https://karlalima.github.io/</id><updated>2022-12-09T09:23:52-04:00</updated><entry><title>Introdução ao Cálculo</title><link href="https://karlalima.github.io/ensino/intro_calculo.html" rel="alternate"></link><published>2022-12-09T09:23:52-04:00</published><updated>2022-12-09T09:23:52-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2022-12-09:/ensino/intro_calculo.html</id><summary type="html">&lt;h3&gt;Roteiros de Aula&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="https://karlalima.github.io/" rel="alternate"></link><link href="https://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>https://karlalima.github.io/</id><updated>2022-12-09T09:43:50-04:00</updated><entry><title>Introdução ao Cálculo</title><link href="https://karlalima.github.io/ensino/intro_calculo.html" rel="alternate"></link><published>2022-12-09T09:43:50-04:00</published><updated>2022-12-09T09:43:50-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2022-12-09:/ensino/intro_calculo.html</id><summary type="html">&lt;h3&gt;Roteiros de Aula&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/IC:Aula_01.pdf"&gt;Aula 01: Conjuntos Numéricos e Operações.&lt;/a&gt;&lt;br&gt;
 &lt;a href="https://karlalima.github.io/arquivos/IC:Aula_02.pdf"&gt;Aula 02: Relações. Funções.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC:Aula_03.pdf"&gt;Aula 0: Função Afim.&lt;/a&gt;  &lt;/p&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC:Aula_03.pdf"&gt;Aula 03: Função Afim.&lt;/a&gt;  &lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Exercícios&lt;/h3&gt;
 &lt;p&gt;Resolva os exercícios ao final de cada capítulo do livro texto.  &lt;/p&gt;
@@ -12,7 +12,7 @@
 &lt;li&gt;Aula 03: Capítulo …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h3&gt;Roteiros de Aula&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/IC:Aula_01.pdf"&gt;Aula 01: Conjuntos Numéricos e Operações.&lt;/a&gt;&lt;br&gt;
 &lt;a href="https://karlalima.github.io/arquivos/IC:Aula_02.pdf"&gt;Aula 02: Relações. Funções.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC:Aula_03.pdf"&gt;Aula 0: Função Afim.&lt;/a&gt;  &lt;/p&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC:Aula_03.pdf"&gt;Aula 03: Função Afim.&lt;/a&gt;  &lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Exercícios&lt;/h3&gt;
 &lt;p&gt;Resolva os exercícios ao final de cada capítulo do livro texto.  &lt;/p&gt;
