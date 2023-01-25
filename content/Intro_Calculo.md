@@ -5,7 +5,8 @@ category: Ensino
 ### Roteiros de Aula
 [Aula 01: Conjuntos Numéricos e Operações.]({static}/arquivos/IC:Aula_01.pdf)  
 [Aula 02: Relações. Funções.]({static}/arquivos/IC:Aula_02.pdf)  
-[Aula 0: Função Afim.]({static}/arquivos/IC:Aula_03.pdf)  
+[Aula 03: Função Afim.]({static}/arquivos/IC:Aula_03.pdf)  
+[Aula 04: Equações e Inequações Lineares.]({static}/arquivos/IC:Aula_03.pdf)  
 
 ---
 ### Exercícios
@@ -24,8 +25,8 @@ PS – 26/04/2023
 EF – 03/05/2023
 ---
 ### Bibliografia:
-Livro texto 1:Pré-Cálculo, F. Demana.  
-Livro texto 2:Fundamentos da Matemática Elementar: 1, G. Iezzi, C. Murakami e O. Dolce..  
+Livro texto 1: Pré-Cálculo, F. Demana.  
+Livro texto 2: Fundamentos da Matemática Elementar: 1, G. Iezzi, C. Murakami e O. Dolce..  
  Outros livros:  
     Pré-Cálculo, S. Axler.  
     Fundamentos da Matemática Elementar: 2, 3 e 8; G. Iezzi, C. Murakami e O. Dolce.
