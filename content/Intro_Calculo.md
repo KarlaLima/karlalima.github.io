@@ -3,10 +3,11 @@ shorttitle: Introdução
 category: Ensino
 
 ### Roteiros de Aula
-[Aula 01: Conjuntos Numéricos e Operações.]({static}/arquivos/IC:Aula_01.pdf)  
-[Aula 02: Relações. Funções.]({static}/arquivos/IC:Aula_02.pdf)  
-[Aula 03: Função Afim.]({static}/arquivos/IC:Aula_03.pdf)  
-[Aula 04: Equações e Inequações Lineares.]({static}/arquivos/IC:Aula_03.pdf)  
+[Aula 01: Conjuntos Numéricos e Operações.]({static}/arquivos/IC_Aula_01.pdf)  
+[Aula 02: Relações. Funções.]({static}/arquivos/IC_Aula_02.pdf)  
+[Aula 03: Função Afim.]({static}/arquivos/IC_Aula_03.pdf)   
+[Aula 04:Equações e Inequações.]({static}/arquivos/IC_Aula_04.pdf)  
+[Aula 05:Função Quadrática.]({static}/arquivos/IC_Aula_05.pdf) 
 
 ---
 ### Exercícios
@@ -15,7 +16,8 @@ Resolva os exercícios ao final de cada capítulo do livro texto.
  - Aula 01: Capítulo 1 (Pré-Cálculo, F. Demana)  
  - Aula 02: Capítulos IV e V (Fundamentos da Matemática Elementar: 1)  
  - Aula 03: Capítulo VI (Fundamentos da Matemática Elementar: 1) 
- - Aula 04: Capítulo VI (Fundamentos da Matemática Elementar: 1) 
+ - Aula 04: Capítulo VI (Fundamentos da Matemática Elementar: 1)  
+ - Aula 05: Capítulo VII (Fundamentos da Matemática Elementar: 1) 
 
 ---
 ### Avaliações e Gabaritos

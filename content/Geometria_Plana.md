@@ -4,8 +4,8 @@ category: Ensino
 
 
 ### Complemento das aulas
-[Aula 01: Noções Primitivas.]({static}/arquivos/GP:Aula_01.pdf)  
-[Aula 02: Ângulos.]({static}/arquivos/GP:Aula_02.pdf)  
+[Aula 01: Noções Primitivas.]({static}/arquivos/GP_Aula_01.pdf)  
+[Aula 02: Ângulos.]({static}/arquivos/GP_Aula_02.pdf)  
 
 ---
 ### Exercícios
