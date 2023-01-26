@@ -6,16 +6,20 @@ category: Ensino
 ### Complemento das aulas
 [Aula 01: Noções Primitivas.]({static}/arquivos/GP_Aula_01.pdf)  
 [Aula 02: Ângulos.]({static}/arquivos/GP_Aula_02.pdf)  
+[Aula 03: Triângulos - Parte I.]({static}/arquivos/GP_Aula_03.pdf)  
+[Aula 04: Triângulos - Parte II.]({static}/arquivos/GP_Aula_04.pdf)  
 
 ---
 ### Exercícios
 
 Resolva os exercícios ao final de cada capítulo do livro texto.  
 
- - Aula 01: Capítulos 1 e 2  
- - Aula 02: Capítulo 3
+ - Aula 01: Capítulos I e II  
+ - Aula 02: Capítulo III    
+ - Aula 03: Capítulo IV 
+ - Aula 04: Capítulo IV
 ### Lista de Aprofundamento
-Em breve  
+ [Triângulos]({static}/arquivos/Lista_Triangulos.pdf)  
 
 
 ---
