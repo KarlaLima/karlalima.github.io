@@ -1,5 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="https://karlalima.github.io/" rel="alternate"></link><link href="https://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>https://karlalima.github.io/</id><updated>2023-03-02T21:09:53-04:00</updated><entry><title>Geometria Plana</title><link href="https://karlalima.github.io/ensino/geometria_plana.html" rel="alternate"></link><published>2023-03-02T21:09:53-04:00</published><updated>2023-03-02T21:09:53-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2023-03-02:/ensino/geometria_plana.html</id><summary type="html">&lt;h3&gt;Complemento das aulas&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="https://karlalima.github.io/" rel="alternate"></link><link href="https://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>https://karlalima.github.io/</id><updated>2023-03-07T15:39:11-04:00</updated><entry><title>Introdução ao Cálculo</title><link href="https://karlalima.github.io/ensino/intro_calculo.html" rel="alternate"></link><published>2023-03-07T15:39:11-04:00</published><updated>2023-03-07T15:39:11-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2023-03-07:/ensino/intro_calculo.html</id><summary type="html">&lt;h3&gt;Roteiros de Aula&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_01.pdf"&gt;Aula 01: Conjuntos Numéricos e Operações.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_02.pdf"&gt;Aula 02: Relações. Funções.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_03.pdf"&gt;Aula 03: Função Afim.&lt;/a&gt; &lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_04.pdf"&gt;Aula 04: Equações e Inequações.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_05.pdf"&gt;Aula 05: Função Quadrática.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_06.pdf"&gt;Aula 06: Equações e Inequações Quadráticas.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_07.pdf"&gt;Aula 07: Módulo. Equações e Inequações.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_08.pdf"&gt;Aula 08: Funções Exponenciais.&lt;/a&gt; &lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_09.pdf"&gt;Aula 09: Equações e Inequações Exponenciais.&lt;/a&gt;  &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Exercícios&lt;/h3&gt;
+&lt;p&gt;Resolva …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Roteiros de Aula&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_01.pdf"&gt;Aula 01: Conjuntos Numéricos e Operações.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_02.pdf"&gt;Aula 02: Relações. Funções.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_03.pdf"&gt;Aula 03: Função Afim.&lt;/a&gt; &lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_04.pdf"&gt;Aula 04: Equações e Inequações.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_05.pdf"&gt;Aula 05: Função Quadrática.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_06.pdf"&gt;Aula 06: Equações e Inequações Quadráticas.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_07.pdf"&gt;Aula 07: Módulo. Equações e Inequações.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_08.pdf"&gt;Aula 08: Funções Exponenciais.&lt;/a&gt; &lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_09.pdf"&gt;Aula 09: Equações e Inequações Exponenciais.&lt;/a&gt;  &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Exercícios&lt;/h3&gt;
+&lt;p&gt;Resolva os exercícios de cada capítulo do livro texto.  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Aula 01: Capítulo 1 (Pré-Cálculo, F. Demana)  &lt;/li&gt;
+&lt;li&gt;Aula 02: Capítulos IV e V (Fundamentos da Matemática Elementar: 1)  &lt;/li&gt;
+&lt;li&gt;Aula 03: Capítulo VI (Fundamentos da Matemática Elementar: 1) &lt;/li&gt;
+&lt;li&gt;Aula 04: Capítulo VI (Fundamentos da Matemática Elementar: 1)  &lt;/li&gt;
+&lt;li&gt;Aula 05: Capítulo VII (Fundamentos da Matemática Elementar: 1) &lt;/li&gt;
+&lt;li&gt;Aula 06: Capítulo VII (Fundamentos da Matemática Elementar: 1)&lt;/li&gt;
+&lt;li&gt;Aula 07: Capítulo VIII (Fundamentos da Matemática Elementar: 1)  &lt;/li&gt;
+&lt;li&gt;Aula 08: Capítulo II (Fundamentos da Matemática Elementar: 2)&lt;/li&gt;
+&lt;li&gt;Aula 09: Capítulo II (Fundamentos da Matemática Elementar: 2)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;Avaliações e Gabaritos&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/P1_Gabarito.pdf"&gt;P1 – 15/02/2023&lt;/a&gt;&lt;br&gt;
+P2 – 19/04/2023&lt;br&gt;
+PS – 26/04/2023&lt;br&gt;
+EF – 03/05/2023&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Bibliografia:&lt;/h3&gt;
+&lt;p&gt;Livro texto 1: Fundamentos da Matemática Elementar: 1, G. Iezzi, C. Murakami e O. Dolce..&lt;br&gt;
+Livro texto 2: Pré-Cálculo, F. Demana.&lt;br&gt;
+ Outros livros:&lt;br&gt;
+    Pré-Cálculo, S. Axler.&lt;br&gt;
+    Fundamentos da Matemática Elementar: 2, 3 e 8; G. Iezzi, C. Murakami e O. Dolce.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Ementa&lt;/h3&gt;
+&lt;p&gt;Números reais, notação científica e cálculos. Desigualdades. Intervalos. Valor Absoluto. Usos dos
+expoentes fracionários e real. Funções. Funções lineares e principais usos nas ciências. Funções
+quadráticas e polinomiais. Funções exponenciais e aplicações nas ciências. Funções inversas e
+compostas. Logaritmos e suas aplicações nas ciências. Funções trigonométricas e suas aplicações.
+Conceitos de limites, derivadas e integrais definidas, cálculos e aplicações nas ciências.&lt;/p&gt;
+&lt;hr&gt;</content><category term="Ensino"></category></entry><entry><title>Geometria Plana</title><link href="https://karlalima.github.io/ensino/geometria_plana.html" rel="alternate"></link><published>2023-03-02T21:09:53-04:00</published><updated>2023-03-02T21:09:53-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2023-03-02:/ensino/geometria_plana.html</id><summary type="html">&lt;h3&gt;Complemento das aulas&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_01.pdf"&gt;Aula 01: Noções Primitivas.&lt;/a&gt;&lt;br&gt;
 &lt;a href="https://karlalima.github.io/arquivos/GP_Aula_02.pdf"&gt;Aula 02: Ângulos.&lt;/a&gt;&lt;br&gt;
 &lt;a href="https://karlalima.github.io/arquivos/GP_Aula_03.pdf"&gt;Aula 03: Triângulos - Parte I.&lt;/a&gt;&lt;br&gt;
@@ -58,57 +114,4 @@ Congruência de triângulos. Paralelismo e perpendicularidade. Quadriláteros no
 do triângulo. Circunferência e seus elementos: ângulos e arcos. Proporcionalidade e semelhança.
 Relações métricas no triângulo. Áreas de figuras planas. Utilização de recursos computacionais para
 Geometria Plana.&lt;/p&gt;
-&lt;hr&gt;</content><category term="Ensino"></category></entry><entry><title>Introdução ao Cálculo</title><link href="https://karlalima.github.io/ensino/intro_calculo.html" rel="alternate"></link><published>2023-02-28T16:04:51-04:00</published><updated>2023-02-28T16:04:51-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2023-02-28:/ensino/intro_calculo.html</id><summary type="html">&lt;h3&gt;Roteiros de Aula&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_01.pdf"&gt;Aula 01: Conjuntos Numéricos e Operações.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_02.pdf"&gt;Aula 02: Relações. Funções.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_03.pdf"&gt;Aula 03: Função Afim.&lt;/a&gt; &lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_04.pdf"&gt;Aula 04: Equações e Inequações.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_05.pdf"&gt;Aula 05: Função Quadrática.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_06.pdf"&gt;Aula 06: Equações e Inequações Quadráticas.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_07.pdf"&gt;Aula 07: Módulo. Equações e Inequações.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_08.pdf"&gt;Aula 08: Funções Exponenciais.&lt;/a&gt;   &lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Exercícios&lt;/h3&gt;
-&lt;p&gt;Resolva os exercícios de cada capítulo do …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Roteiros de Aula&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_01.pdf"&gt;Aula 01: Conjuntos Numéricos e Operações.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_02.pdf"&gt;Aula 02: Relações. Funções.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_03.pdf"&gt;Aula 03: Função Afim.&lt;/a&gt; &lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_04.pdf"&gt;Aula 04: Equações e Inequações.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_05.pdf"&gt;Aula 05: Função Quadrática.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_06.pdf"&gt;Aula 06: Equações e Inequações Quadráticas.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_07.pdf"&gt;Aula 07: Módulo. Equações e Inequações.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_08.pdf"&gt;Aula 08: Funções Exponenciais.&lt;/a&gt;   &lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Exercícios&lt;/h3&gt;
-&lt;p&gt;Resolva os exercícios de cada capítulo do livro texto.  &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Aula 01: Capítulo 1 (Pré-Cálculo, F. Demana)  &lt;/li&gt;
-&lt;li&gt;Aula 02: Capítulos IV e V (Fundamentos da Matemática Elementar: 1)  &lt;/li&gt;
-&lt;li&gt;Aula 03: Capítulo VI (Fundamentos da Matemática Elementar: 1) &lt;/li&gt;
-&lt;li&gt;Aula 04: Capítulo VI (Fundamentos da Matemática Elementar: 1)  &lt;/li&gt;
-&lt;li&gt;Aula 05: Capítulo VII (Fundamentos da Matemática Elementar: 1) &lt;/li&gt;
-&lt;li&gt;Aula 06: Capítulo VII (Fundamentos da Matemática Elementar: 1)&lt;/li&gt;
-&lt;li&gt;Aula 07: Capítulo VIII (Fundamentos da Matemática Elementar: 1)  &lt;/li&gt;
-&lt;li&gt;Aula 08: Capítulo II (Fundamentos da Matemática Elementar: 2)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h3&gt;Avaliações e Gabaritos&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/P1_Gabarito.pdf"&gt;P1 – 15/02/2023&lt;/a&gt;&lt;br&gt;
-P2 – 19/04/2023&lt;br&gt;
-PS – 26/04/2023&lt;br&gt;
-EF – 03/05/2023&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Bibliografia:&lt;/h3&gt;
-&lt;p&gt;Livro texto 1: Fundamentos da Matemática Elementar: 1, G. Iezzi, C. Murakami e O. Dolce..&lt;br&gt;
-Livro texto 2: Pré-Cálculo, F. Demana.&lt;br&gt;
- Outros livros:&lt;br&gt;
-    Pré-Cálculo, S. Axler.&lt;br&gt;
-    Fundamentos da Matemática Elementar: 2, 3 e 8; G. Iezzi, C. Murakami e O. Dolce.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Ementa&lt;/h3&gt;
-&lt;p&gt;Números reais, notação científica e cálculos. Desigualdades. Intervalos. Valor Absoluto. Usos dos
-expoentes fracionários e real. Funções. Funções lineares e principais usos nas ciências. Funções
-quadráticas e polinomiais. Funções exponenciais e aplicações nas ciências. Funções inversas e
-compostas. Logaritmos e suas aplicações nas ciências. Funções trigonométricas e suas aplicações.
-Conceitos de limites, derivadas e integrais definidas, cálculos e aplicações nas ciências.&lt;/p&gt;
 &lt;hr&gt;</content><category term="Ensino"></category></entry><entry><title>Yang, H. M., Boldrini, J. L., Fassoni, A. C., de Lima, K. K. B., Freitas, L. F. S., Gomez, M. C., Andrade, V. R., Freitas, A. R. R., Abiotic Effects on Population Dynamics of Mosquitoes and Their Influence on Dengue Transmission. In: Cláudia P. Ferreira; Wesley A.C Godoy. (Org.). Ecological Modelling Applied to Entomology. 1ed.: Springer International Publishing, 2014, v. 1, p. 39-79.</title><link href="http://www.springer.com/us/book/9783319068763" rel="alternate"></link><published>2023-01-25T06:35:49-04:00</published><updated>2023-01-25T06:35:49-04:00</updated><author><name>Karla Lima</name></author><id>tag:www.springer.com,2023-01-25:/us/book/9783319068763</id><content type="html">&lt;p&gt;capítulo de livro&lt;/p&gt;</content><category term="Pesquisa"></category></entry></feed>
