@@ -1,5 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="https://karlalima.github.io/" rel="alternate"></link><link href="https://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>https://karlalima.github.io/</id><updated>2023-03-07T15:39:11-04:00</updated><entry><title>Introdução ao Cálculo</title><link href="https://karlalima.github.io/ensino/intro_calculo.html" rel="alternate"></link><published>2023-03-07T15:39:11-04:00</published><updated>2023-03-07T15:39:11-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2023-03-07:/ensino/intro_calculo.html</id><summary type="html">&lt;h3&gt;Roteiros de Aula&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="https://karlalima.github.io/" rel="alternate"></link><link href="https://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>https://karlalima.github.io/</id><updated>2023-03-09T20:17:30-04:00</updated><entry><title>Geometria Plana</title><link href="https://karlalima.github.io/ensino/geometria_plana.html" rel="alternate"></link><published>2023-03-09T20:17:30-04:00</published><updated>2023-03-09T20:17:30-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2023-03-09:/ensino/geometria_plana.html</id><summary type="html">&lt;h3&gt;Complemento das aulas&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_01.pdf"&gt;Aula 01: Noções Primitivas.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_02.pdf"&gt;Aula 02: Ângulos.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_03.pdf"&gt;Aula 03: Triângulos - Parte I.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_04.pdf"&gt;Aula 04: Triângulos - Parte II.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_05.pdf"&gt;Aula 05: Triângulos - Parte III.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_06_1.pdf"&gt;Aula 06: Paralelismo.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_06_2.pdf"&gt;Aula 06: Perpendicularidade.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_07.pdf"&gt;Aula 07: Polígonos.&lt;/a&gt; &lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_08.pdf"&gt;Aula 08: Quadriláteros.&lt;/a&gt;
+&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_09.pdf"&gt;Aula 09: Áreas: Triângulos e Quadriláteros.&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Exercícios&lt;/h3&gt;
+&lt;p&gt;Resolva os exercícios ao final de …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Complemento das aulas&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_01.pdf"&gt;Aula 01: Noções Primitivas.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_02.pdf"&gt;Aula 02: Ângulos.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_03.pdf"&gt;Aula 03: Triângulos - Parte I.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_04.pdf"&gt;Aula 04: Triângulos - Parte II.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_05.pdf"&gt;Aula 05: Triângulos - Parte III.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_06_1.pdf"&gt;Aula 06: Paralelismo.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_06_2.pdf"&gt;Aula 06: Perpendicularidade.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_07.pdf"&gt;Aula 07: Polígonos.&lt;/a&gt; &lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_08.pdf"&gt;Aula 08: Quadriláteros.&lt;/a&gt;
+&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_09.pdf"&gt;Aula 09: Áreas: Triângulos e Quadriláteros.&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Exercícios&lt;/h3&gt;
+&lt;p&gt;Resolva os exercícios ao final de cada capítulo do livro texto.  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Aula 01: Capítulos I e II  &lt;/li&gt;
+&lt;li&gt;Aula 02: Capítulo III    &lt;/li&gt;
+&lt;li&gt;Aula 03: Capítulo IV &lt;/li&gt;
+&lt;li&gt;Aula 04: Capítulo IV  &lt;/li&gt;
+&lt;li&gt;Aula 05: Capítulo IV  &lt;/li&gt;
+&lt;li&gt;Aula 06: Capítulos V e VI  &lt;/li&gt;
+&lt;li&gt;Aula 07: Capítulo IX  &lt;/li&gt;
+&lt;li&gt;Aula 08: Capítulo VII  &lt;/li&gt;
+&lt;li&gt;Aula 09: Capítulo XIX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Lista de Aprofundamento&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Lista_Triangulos.pdf"&gt;Triângulos&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/Lista_Paralelas.pdf"&gt;Paralelismo&lt;/a&gt; (Gabarito Corrigido)&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/Ex_Revisao.pdf"&gt;Exercícios de Revisão&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/Ex_Revisao_Solucao.pdf"&gt;Solução: Exercícios de Revisão&lt;/a&gt; &lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/Ex_Aula_09.pdf"&gt;Exercícios: Polígonos, Quadriláteros e Áreas&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Avaliações e Gabaritos&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/P1_GP_2023.pdf"&gt;P1 – 24/02/2023&lt;/a&gt; - &lt;a href="https://karlalima.github.io/arquivos/Gabarito_GP.pdf"&gt;Gabarito&lt;/a&gt;
+P2 – 14/04/2023&lt;br&gt;
+PS – 28/04/2023&lt;br&gt;
+EF – 05/05/2023&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Bibliografia:&lt;/h3&gt;
+&lt;p&gt;Livro texto: DOLCE, Osvaldo; POMPEU, José Nicolau. Fundamentos de Matemática Elementar, Vol. 9,
+Geometria Plana - 9ª Ed. Editora Atual. &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Ementa&lt;/h3&gt;
+&lt;p&gt;Tratamento axiomático da geometria euclidiana plana: retas, segmentos de retas e ângulos.
+Congruência de triângulos. Paralelismo e perpendicularidade. Quadriláteros notáveis. Pontos notáveis
+do triângulo. Circunferência e seus elementos: ângulos e arcos. Proporcionalidade e semelhança.
+Relações métricas no triângulo. Áreas de figuras planas. Utilização de recursos computacionais para
+Geometria Plana.&lt;/p&gt;
+&lt;hr&gt;</content><category term="Ensino"></category></entry><entry><title>Introdução ao Cálculo</title><link href="https://karlalima.github.io/ensino/intro_calculo.html" rel="alternate"></link><published>2023-03-07T15:39:11-04:00</published><updated>2023-03-07T15:39:11-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2023-03-07:/ensino/intro_calculo.html</id><summary type="html">&lt;h3&gt;Roteiros de Aula&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_01.pdf"&gt;Aula 01: Conjuntos Numéricos e Operações.&lt;/a&gt;&lt;br&gt;
 &lt;a href="https://karlalima.github.io/arquivos/IC_Aula_02.pdf"&gt;Aula 02: Relações. Funções.&lt;/a&gt;&lt;br&gt;
 &lt;a href="https://karlalima.github.io/arquivos/IC_Aula_03.pdf"&gt;Aula 03: Função Afim.&lt;/a&gt; &lt;br&gt;
@@ -55,63 +116,4 @@ expoentes fracionários e real. Funções. Funções lineares e principais usos 
 quadráticas e polinomiais. Funções exponenciais e aplicações nas ciências. Funções inversas e
 compostas. Logaritmos e suas aplicações nas ciências. Funções trigonométricas e suas aplicações.
 Conceitos de limites, derivadas e integrais definidas, cálculos e aplicações nas ciências.&lt;/p&gt;
-&lt;hr&gt;</content><category term="Ensino"></category></entry><entry><title>Geometria Plana</title><link href="https://karlalima.github.io/ensino/geometria_plana.html" rel="alternate"></link><published>2023-03-02T21:09:53-04:00</published><updated>2023-03-02T21:09:53-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2023-03-02:/ensino/geometria_plana.html</id><summary type="html">&lt;h3&gt;Complemento das aulas&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_01.pdf"&gt;Aula 01: Noções Primitivas.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_02.pdf"&gt;Aula 02: Ângulos.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_03.pdf"&gt;Aula 03: Triângulos - Parte I.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_04.pdf"&gt;Aula 04: Triângulos - Parte II.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_05.pdf"&gt;Aula 05: Triângulos - Parte III.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_06_1.pdf"&gt;Aula 06: Paralelismo.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_06_2.pdf"&gt;Aula 06: Perpendicularidade.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_07.pdf"&gt;Aula 07: Polígonos.&lt;/a&gt; &lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_08.pdf"&gt;Aula 08: Quadriláteros.&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Exercícios&lt;/h3&gt;
-&lt;p&gt;Resolva os exercícios ao final de cada capítulo do livro texto.  &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Aula …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h3&gt;Complemento das aulas&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_01.pdf"&gt;Aula 01: Noções Primitivas.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_02.pdf"&gt;Aula 02: Ângulos.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_03.pdf"&gt;Aula 03: Triângulos - Parte I.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_04.pdf"&gt;Aula 04: Triângulos - Parte II.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_05.pdf"&gt;Aula 05: Triângulos - Parte III.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_06_1.pdf"&gt;Aula 06: Paralelismo.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_06_2.pdf"&gt;Aula 06: Perpendicularidade.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_07.pdf"&gt;Aula 07: Polígonos.&lt;/a&gt; &lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_08.pdf"&gt;Aula 08: Quadriláteros.&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Exercícios&lt;/h3&gt;
-&lt;p&gt;Resolva os exercícios ao final de cada capítulo do livro texto.  &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Aula 01: Capítulos I e II  &lt;/li&gt;
-&lt;li&gt;Aula 02: Capítulo III    &lt;/li&gt;
-&lt;li&gt;Aula 03: Capítulo IV &lt;/li&gt;
-&lt;li&gt;Aula 04: Capítulo IV  &lt;/li&gt;
-&lt;li&gt;Aula 05: Capítulo IV  &lt;/li&gt;
-&lt;li&gt;Aula 06: Capítulos V e VI  &lt;/li&gt;
-&lt;li&gt;Aula 07: Capítulo IX  &lt;/li&gt;
-&lt;li&gt;Aula 08: Capítulo VII&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Lista de Aprofundamento&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Lista_Triangulos.pdf"&gt;Triângulos&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/Lista_Paralelas.pdf"&gt;Paralelismo&lt;/a&gt; (Gabarito Corrigido)&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/Ex_Revisao.pdf"&gt;Exercícios de Revisão&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/Ex_Revisao_Solucao.pdf"&gt;Solução: Exercícios de Revisão&lt;/a&gt; &lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Avaliações e Gabaritos&lt;/h3&gt;
-&lt;p&gt;P1 – 24/02/2023&lt;br&gt;
-P2 – 14/04/2023&lt;br&gt;
-PS – 28/04/2023&lt;br&gt;
-EF – 05/05/2023&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Bibliografia:&lt;/h3&gt;
-&lt;p&gt;Livro texto: DOLCE, Osvaldo; POMPEU, José Nicolau. Fundamentos de Matemática Elementar, Vol. 9,
-Geometria Plana - 9ª Ed. Editora Atual. &lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Ementa&lt;/h3&gt;
-&lt;p&gt;Tratamento axiomático da geometria euclidiana plana: retas, segmentos de retas e ângulos.
-Congruência de triângulos. Paralelismo e perpendicularidade. Quadriláteros notáveis. Pontos notáveis
-do triângulo. Circunferência e seus elementos: ângulos e arcos. Proporcionalidade e semelhança.
-Relações métricas no triângulo. Áreas de figuras planas. Utilização de recursos computacionais para
-Geometria Plana.&lt;/p&gt;
 &lt;hr&gt;</content><category term="Ensino"></category></entry></feed>
