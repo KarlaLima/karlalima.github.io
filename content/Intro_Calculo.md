@@ -13,7 +13,7 @@ category: Ensino
 [Aula 08: Funções Exponenciais.]({static}/arquivos/IC_Aula_08.pdf)   
 [Aula 09: Equações e Inequações Exponenciais.]({static}/arquivos/IC_Aula_09.pdf)  
 [Aula 10: Funções Logarítmicas.]({static}/arquivos/IC_Aula_10.pdf)  
-[Aula 11: Função Composta e Inversa. Equações e Inequações Exponenciais e  Logarítmicas]({static}/arquivos/IC_Aula_11.pdf)
+[Aula 11: Função Composta e Inversa. Equações e Inequações Exponenciais e  Logarítmicas.]({static}/arquivos/IC_Aula_11.pdf)
 
 ---
 ### Exercícios

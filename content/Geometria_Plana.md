@@ -38,7 +38,8 @@ Resolva os exercícios ao final de cada capítulo do livro texto.
  [Paralelismo]({static}/arquivos/Lista_Paralelas.pdf) (Gabarito Corrigido)  
  [Exercícios de Revisão]({static}/arquivos/Ex_Revisao.pdf)  
  [Solução: Exercícios de Revisão]({static}/arquivos/Ex_Revisao_Solucao.pdf)   
- [Exercícios: Polígonos, Quadriláteros e Áreas]({static}/arquivos/Ex_Aula_09.pdf)
+ [Exercícios: Polígonos, Quadriláteros e Áreas]({static}/arquivos/Ex_Aula_09.pdf)  
+ [Demonstração da divisão do hexágono regular em 6 triângulos equiláteros]({static}/arquivos/Hexagono.pdf)  
  
 
 
