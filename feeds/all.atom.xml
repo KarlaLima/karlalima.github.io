@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="https://karlalima.github.io/" rel="alternate"></link><link href="https://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>https://karlalima.github.io/</id><updated>2023-04-07T10:35:39-04:00</updated><entry><title>Introdução ao Cálculo</title><link href="https://karlalima.github.io/ensino/intro_calculo.html" rel="alternate"></link><published>2023-04-07T10:35:39-04:00</published><updated>2023-04-07T10:35:39-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2023-04-07:/ensino/intro_calculo.html</id><summary type="html">&lt;h3&gt;Roteiros de Aula&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="https://karlalima.github.io/" rel="alternate"></link><link href="https://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>https://karlalima.github.io/</id><updated>2023-04-12T06:13:26-04:00</updated><entry><title>Introdução ao Cálculo</title><link href="https://karlalima.github.io/ensino/intro_calculo.html" rel="alternate"></link><published>2023-04-12T06:13:26-04:00</published><updated>2023-04-12T06:13:26-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2023-04-12:/ensino/intro_calculo.html</id><summary type="html">&lt;h3&gt;Roteiros de Aula&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_01.pdf"&gt;Aula 01: Conjuntos Numéricos e Operações.&lt;/a&gt;&lt;br&gt;
 &lt;a href="https://karlalima.github.io/arquivos/IC_Aula_02.pdf"&gt;Aula 02: Relações. Funções.&lt;/a&gt;&lt;br&gt;
 &lt;a href="https://karlalima.github.io/arquivos/IC_Aula_03.pdf"&gt;Aula 03: Função Afim.&lt;/a&gt; &lt;br&gt;
@@ -22,7 +22,8 @@
 &lt;a href="https://karlalima.github.io/arquivos/IC_Aula_10.pdf"&gt;Aula 10: Funções Logarítmicas.&lt;/a&gt;&lt;br&gt;
 &lt;a href="https://karlalima.github.io/arquivos/IC_Aula_11.pdf"&gt;Aula 11: Função Composta e Inversa. Equações e Inequações Exponenciais e  Logarítmicas.&lt;/a&gt;&lt;br&gt;
 &lt;a href="https://karlalima.github.io/arquivos/IC_Aula_12.pdf"&gt;Aula 12: Funções Trigonométricas&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_13.pdf"&gt;Aula 13: Definição Informal de Limite&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_13.pdf"&gt;Aula 13: Definição Informal de Limite&lt;/a&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_14.pdf"&gt;Aula 14: Definição Precisa de Limite. Continuidade.&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Exercícios&lt;/h3&gt;
 &lt;p&gt;Resolva os exercícios de cada capítulo do livro texto.  &lt;/p&gt;
