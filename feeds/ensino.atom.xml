@@ -1,5 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="https://karlalima.github.io/" rel="alternate"></link><link href="https://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>https://karlalima.github.io/</id><updated>2023-05-22T15:22:31-04:00</updated><entry><title>Geometria Plana</title><link href="https://karlalima.github.io/ensino/geometria_plana.html" rel="alternate"></link><published>2023-05-22T15:22:31-04:00</published><updated>2023-05-22T15:22:31-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2023-05-22:/ensino/geometria_plana.html</id><summary type="html">&lt;h3&gt;Notas de aulas&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="https://karlalima.github.io/" rel="alternate"></link><link href="https://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>https://karlalima.github.io/</id><updated>2023-05-26T08:54:29-04:00</updated><entry><title>Construções Geométricas</title><link href="https://karlalima.github.io/ensino/contrucoes.html" rel="alternate"></link><published>2023-05-26T08:54:29-04:00</published><updated>2023-05-26T08:54:29-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2023-05-26:/ensino/contrucoes.html</id><summary type="html">&lt;h3&gt;Notas de aulas&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/CG_Sobre_Geo_Plana.pdf"&gt;Sobre Geometria Plana&lt;/a&gt;   &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Trabalhos&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/CG_Trabalhos_P1.pdf"&gt;Trabalhos: P1&lt;/a&gt;   &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Avaliações e Gabaritos&lt;/h3&gt;
+&lt;p&gt;P1 – 06/07/2023&lt;br&gt;
+ P2 – 24/08/2023&lt;br&gt;
+ PS – 31/08/2023&lt;br&gt;
+ EF – 14/09/2023&lt;br&gt;
+Média de Aproveitamento: 0.3&lt;em&gt;P1 + 0.3&lt;/em&gt;P2 + 0.4*T &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Bibliografia:&lt;/h3&gt;
+&lt;p&gt;[1] REZENDE, E. Q. F., Geometria euclidiana plana e …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Notas de aulas&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/CG_Sobre_Geo_Plana.pdf"&gt;Sobre Geometria Plana&lt;/a&gt;   &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Trabalhos&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/CG_Trabalhos_P1.pdf"&gt;Trabalhos: P1&lt;/a&gt;   &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Avaliações e Gabaritos&lt;/h3&gt;
+&lt;p&gt;P1 – 06/07/2023&lt;br&gt;
+ P2 – 24/08/2023&lt;br&gt;
+ PS – 31/08/2023&lt;br&gt;
+ EF – 14/09/2023&lt;br&gt;
+Média de Aproveitamento: 0.3&lt;em&gt;P1 + 0.3&lt;/em&gt;P2 + 0.4*T &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Bibliografia:&lt;/h3&gt;
+&lt;p&gt;[1] REZENDE, E. Q. F., Geometria euclidiana plana e construções geométricas, Ed. Unicamp, 2016.
+[2] WAGNER, E., Construções geométricas, Rio de Janeiro, SBM, 2007.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Ementa&lt;/h3&gt;
+&lt;p&gt;Conceitos primitivos. Construções geométricas com régua e compasso envolvendo: retas, ângulos, triângulos, círculos, polígonos e segmentos construtíveis – expressões algébricas. Utilização de recursos computacionais para construções geométricas.&lt;/p&gt;
+&lt;hr&gt;</content><category term="Ensino"></category></entry><entry><title>Geometria Plana</title><link href="https://karlalima.github.io/ensino/construcoes.html" rel="alternate"></link><published>2023-05-22T15:22:31-04:00</published><updated>2023-05-22T15:22:31-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2023-05-22:/ensino/construcoes.html</id><summary type="html">&lt;h3&gt;Notas de aulas&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_01.pdf"&gt;Aula 01: Noções Primitivas.&lt;/a&gt;  &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Exercícios&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/P1_Listas_GP.pdf"&gt;Listas da P1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/P2_Listas_GP.pdf"&gt;Listas da P2&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Avaliações e Gabaritos&lt;/h3&gt;
+&lt;p&gt;P1 – 18/07/2023&lt;br&gt;
+ P2 – 29/08/2023&lt;br&gt;
+ PS – 05/08/2023&lt;br&gt;
+ EF – 12/09/2023&lt;br&gt;
+Média de Aproveitamento: 0.4&lt;em&gt;P1 + 0.4&lt;/em&gt;P2 + 0.2*T &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Bibliografia:&lt;/h3&gt;
+&lt;h2&gt;REZENDE, Eliane Quelho Frota …&lt;/h2&gt;</summary><content type="html">&lt;h3&gt;Notas de aulas&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_01.pdf"&gt;Aula 01: Noções Primitivas.&lt;/a&gt;  &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Exercícios&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/P1_Listas_GP.pdf"&gt;Listas da P1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/P2_Listas_GP.pdf"&gt;Listas da P2&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Avaliações e Gabaritos&lt;/h3&gt;
+&lt;p&gt;P1 – 18/07/2023&lt;br&gt;
+ P2 – 29/08/2023&lt;br&gt;
+ PS – 05/08/2023&lt;br&gt;
+ EF – 12/09/2023&lt;br&gt;
+Média de Aproveitamento: 0.4&lt;em&gt;P1 + 0.4&lt;/em&gt;P2 + 0.2*T &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Bibliografia:&lt;/h3&gt;
+&lt;h2&gt;REZENDE, Eliane Quelho Frota. Geometria euclidiana plana e construções geométricas. 2. ed., 6. reimpr Campinas, SP: Ed. Unicamp, 2016. 260p, il, 28cm. Inclui bibliografia e índice. ISBN 9788526807549 (broch.).&lt;/h2&gt;
+&lt;h3&gt;Ementa&lt;/h3&gt;
+&lt;p&gt;Tratamento axiomático da geometria euclidiana plana: retas, segmentos de retas e ângulos.
+Congruência de triângulos. Paralelismo e perpendicularidade. Quadriláteros notáveis. Pontos notáveis
+do triângulo. Circunferência e seus elementos: ângulos e arcos. Proporcionalidade e semelhança.
+Relações métricas no triângulo. Áreas de figuras planas. Utilização de recursos computacionais para
+Geometria Plana.&lt;/p&gt;
+&lt;hr&gt;</content><category term="Ensino"></category></entry><entry><title>Geometria Plana</title><link href="https://karlalima.github.io/ensino/geometria_plana.html" rel="alternate"></link><published>2023-05-22T15:22:31-04:00</published><updated>2023-05-22T15:22:31-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2023-05-22:/ensino/geometria_plana.html</id><summary type="html">&lt;h3&gt;Notas de aulas&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_01.pdf"&gt;Aula 01: Noções Primitivas.&lt;/a&gt;  &lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Exercícios&lt;/h3&gt;
