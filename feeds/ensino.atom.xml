@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="https://karlalima.github.io/" rel="alternate"></link><link href="https://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>https://karlalima.github.io/</id><updated>2023-05-29T09:58:12-04:00</updated><entry><title>Geometria Plana</title><link href="https://karlalima.github.io/ensino/geometria_plana.html" rel="alternate"></link><published>2023-05-29T09:58:12-04:00</published><updated>2023-05-29T09:58:12-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2023-05-29:/ensino/geometria_plana.html</id><summary type="html">&lt;h3&gt;Notas de aulas&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="https://karlalima.github.io/" rel="alternate"></link><link href="https://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>https://karlalima.github.io/</id><updated>2023-05-31T06:09:33-04:00</updated><entry><title>Introdução ao Cálculo</title><link href="https://karlalima.github.io/ensino/intro_calculo.html" rel="alternate"></link><published>2023-05-31T06:09:33-04:00</published><updated>2023-05-31T06:09:33-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2023-05-31:/ensino/intro_calculo.html</id><summary type="html">&lt;h3&gt;Roteiros de Aula&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_01.pdf"&gt;Aula 01: Conjuntos Numéricos e Operações.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_02.pdf"&gt;Aula 02: Plano Cartesiano. Relações. Função.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_03.pdf"&gt;Aula 03: Funções. Função Afim.&lt;/a&gt;  &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Exercícios&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Numeros.pdf"&gt;Semana 1&lt;/a&gt;   &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Avaliações e Gabaritos&lt;/h3&gt;
+&lt;p&gt;P1 - 10/07/2023&lt;br&gt;
+P2 - 30/08/2023&lt;br&gt;
+PS - 06/09/2023&lt;br&gt;
+EF - 13/09/2023 &lt;/p&gt;
+&lt;p&gt;Serão realizadas duas avaliações escritas (P1 e P2 …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Roteiros de Aula&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_01.pdf"&gt;Aula 01: Conjuntos Numéricos e Operações.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_02.pdf"&gt;Aula 02: Plano Cartesiano. Relações. Função.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_03.pdf"&gt;Aula 03: Funções. Função Afim.&lt;/a&gt;  &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Exercícios&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Numeros.pdf"&gt;Semana 1&lt;/a&gt;   &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Avaliações e Gabaritos&lt;/h3&gt;
+&lt;p&gt;P1 - 10/07/2023&lt;br&gt;
+P2 - 30/08/2023&lt;br&gt;
+PS - 06/09/2023&lt;br&gt;
+EF - 13/09/2023 &lt;/p&gt;
+&lt;p&gt;Serão realizadas duas avaliações escritas (P1 e P2), que poderão ser complementadas com avaliações orais, cuja média de aproveitamento (MA) será obtida da seguinte maneira: MA = 0,5&lt;em&gt;P1 + 0,5&lt;/em&gt;P2.&lt;br&gt;
+Haverá uma avaliação substitutiva (PS), a qual substituirá a menor nota, caso a nota da PS seja maior, entre todas as avaliações escritas realizadas. A prova substitutiva versará sobre o conteúdo de menor nota do discente. No caso em que P1=P2, o discente poderá escolher qual a prova a ser feita.&lt;br&gt;
+Após as avaliações P1, P2 e PS, o acadêmico que obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará aprovado.&lt;br&gt;
+Será ofertado o exame final ao acadêmico que obtiver MA maior ou igual a 4,0 (quatro) e inferior a 6,0 (seis) e frequência de, no mínimo, 75%. Será considerado aprovado o acadêmico que obtiver nota do exame maior ou igual a 6,0 (seis). &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Bibliografia:&lt;/h3&gt;
+&lt;p&gt;BOULOS, Paulo. Introdução ao cálculo, v. 1: cálculo diferencial. 2. ed. São Paulo: Blucher, 2019. E-book. (1 recurso online). ISBN 9788521217534. Disponível em: https://integrada.minhabiblioteca.com.br/books/9788521217534.&lt;/p&gt;
+&lt;p&gt;Geraldo Ávila, Introdução ao Cálculo. Ltc Editora&lt;/p&gt;
+&lt;p&gt;MALTA, Iaci Pereira. Cálculo a uma variável: uma introdução ao cálculo. 5.ed São Paulo: Lopes, 2010. v.1.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Ementa&lt;/h3&gt;
+&lt;p&gt;Números reais, notação científica e cálculos. Desigualdades. Intervalos. Valor Absoluto. Usos dos
+expoentes fracionários e real. Funções. Funções lineares e principais usos nas ciências. Funções
+quadráticas e polinomiais. Funções exponenciais e aplicações nas ciências. Funções inversas e
+compostas. Logaritmos e suas aplicações nas ciências. Funções trigonométricas e suas aplicações.
+Conceitos de limites, derivadas e integrais definidas, cálculos e aplicações nas ciências.&lt;/p&gt;
+&lt;hr&gt;</content><category term="Ensino"></category></entry><entry><title>Geometria Plana</title><link href="https://karlalima.github.io/ensino/geometria_plana.html" rel="alternate"></link><published>2023-05-29T09:58:12-04:00</published><updated>2023-05-29T09:58:12-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2023-05-29:/ensino/geometria_plana.html</id><summary type="html">&lt;h3&gt;Notas de aulas&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_01.pdf"&gt;Aula 01: Noções Primitivas.&lt;/a&gt;&lt;br&gt;
 &lt;a href="https://karlalima.github.io/arquivos/GP_Aula_02.pdf"&gt;Aula 02: Ângulos.&lt;/a&gt;  &lt;/p&gt;
 &lt;hr&gt;
@@ -38,46 +80,6 @@ Congruência de triângulos. Paralelismo e perpendicularidade. Quadriláteros no
 do triângulo. Circunferência e seus elementos: ângulos e arcos. Proporcionalidade e semelhança.
 Relações métricas no triângulo. Áreas de figuras planas. Utilização de recursos computacionais para
 Geometria Plana.&lt;/p&gt;
-&lt;hr&gt;</content><category term="Ensino"></category></entry><entry><title>Introdução ao Cálculo</title><link href="https://karlalima.github.io/ensino/intro_calculo.html" rel="alternate"></link><published>2023-05-28T17:20:28-04:00</published><updated>2023-05-28T17:20:28-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2023-05-28:/ensino/intro_calculo.html</id><summary type="html">&lt;h3&gt;Roteiros de Aula&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_01.pdf"&gt;Aula 01: Conjuntos Numéricos e Operações.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_02.pdf"&gt;Aula 02: Plano Cartesiano. Relações. Função.&lt;/a&gt; &lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Exercícios&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Numeros.pdf"&gt;Semana 1&lt;/a&gt;   &lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Avaliações e Gabaritos&lt;/h3&gt;
-&lt;p&gt;P1 - 10/07/2023&lt;br&gt;
-P2 - 30/08/2023&lt;br&gt;
-PS - 06/09/2023&lt;br&gt;
-EF - 13/09/2023 &lt;/p&gt;
-&lt;p&gt;Serão realizadas duas avaliações escritas (P1 e P2), que poderão ser complementadas com …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Roteiros de Aula&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_01.pdf"&gt;Aula 01: Conjuntos Numéricos e Operações.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_02.pdf"&gt;Aula 02: Plano Cartesiano. Relações. Função.&lt;/a&gt; &lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Exercícios&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Numeros.pdf"&gt;Semana 1&lt;/a&gt;   &lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Avaliações e Gabaritos&lt;/h3&gt;
-&lt;p&gt;P1 - 10/07/2023&lt;br&gt;
-P2 - 30/08/2023&lt;br&gt;
-PS - 06/09/2023&lt;br&gt;
-EF - 13/09/2023 &lt;/p&gt;
-&lt;p&gt;Serão realizadas duas avaliações escritas (P1 e P2), que poderão ser complementadas com avaliações orais, cuja média de aproveitamento (MA) será obtida da seguinte maneira: MA = 0,5&lt;em&gt;P1 + 0,5&lt;/em&gt;P2.&lt;br&gt;
-Haverá uma avaliação substitutiva (PS), a qual substituirá a menor nota, caso a nota da PS seja maior, entre todas as avaliações escritas realizadas. A prova substitutiva versará sobre o conteúdo de menor nota do discente. No caso em que P1=P2, o discente poderá escolher qual a prova a ser feita.&lt;br&gt;
-Após as avaliações P1, P2 e PS, o acadêmico que obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará aprovado.&lt;br&gt;
-Será ofertado o exame final ao acadêmico que obtiver MA maior ou igual a 4,0 (quatro) e inferior a 6,0 (seis) e frequência de, no mínimo, 75%. Será considerado aprovado o acadêmico que obtiver nota do exame maior ou igual a 6,0 (seis). &lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Bibliografia:&lt;/h3&gt;
-&lt;p&gt;BOULOS, Paulo. Introdução ao cálculo, v. 1: cálculo diferencial. 2. ed. São Paulo: Blucher, 2019. E-book. (1 recurso online). ISBN 9788521217534. Disponível em: https://integrada.minhabiblioteca.com.br/books/9788521217534.&lt;/p&gt;
-&lt;p&gt;Geraldo Ávila, Introdução ao Cálculo. Ltc Editora&lt;/p&gt;
-&lt;p&gt;MALTA, Iaci Pereira. Cálculo a uma variável: uma introdução ao cálculo. 5.ed São Paulo: Lopes, 2010. v.1.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Ementa&lt;/h3&gt;
-&lt;p&gt;Números reais, notação científica e cálculos. Desigualdades. Intervalos. Valor Absoluto. Usos dos
-expoentes fracionários e real. Funções. Funções lineares e principais usos nas ciências. Funções
-quadráticas e polinomiais. Funções exponenciais e aplicações nas ciências. Funções inversas e
-compostas. Logaritmos e suas aplicações nas ciências. Funções trigonométricas e suas aplicações.
-Conceitos de limites, derivadas e integrais definidas, cálculos e aplicações nas ciências.&lt;/p&gt;
 &lt;hr&gt;</content><category term="Ensino"></category></entry><entry><title>Construções Geométricas</title><link href="https://karlalima.github.io/ensino/contrucoes.html" rel="alternate"></link><published>2023-05-26T08:54:29-04:00</published><updated>2023-05-26T08:54:29-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2023-05-26:/ensino/contrucoes.html</id><summary type="html">&lt;h3&gt;Notas de aulas&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/CG_Sobre_Geo_Plana.pdf"&gt;Sobre Geometria Plana&lt;/a&gt;   &lt;/p&gt;
 &lt;hr&gt;
