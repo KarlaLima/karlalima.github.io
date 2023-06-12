@@ -4,47 +4,36 @@ category: Ensino
 
 ### Roteiros de Aula
 [Aula 01: Conjuntos Numéricos e Operações.]({static}/arquivos/IC_Aula_01.pdf)  
-[Aula 02: Relações. Funções.]({static}/arquivos/IC_Aula_02.pdf)  
-[Aula 03: Função Afim.]({static}/arquivos/IC_Aula_03.pdf)   
-[Aula 04: Equações e Inequações.]({static}/arquivos/IC_Aula_04.pdf)  
-[Aula 05: Função Quadrática.]({static}/arquivos/IC_Aula_05.pdf)  
-[Aula 06: Equações e Inequações Quadráticas.]({static}/arquivos/IC_Aula_06.pdf)  
-[Aula 07: Módulo. Equações e Inequações.]({static}/arquivos/IC_Aula_07.pdf)  
-[Aula 08: Funções Exponenciais.]({static}/arquivos/IC_Aula_08.pdf)   
-[Aula 09: Equações e Inequações Exponenciais.]({static}/arquivos/IC_Aula_09.pdf)  
-[Aula 10: Funções Logarítmicas.]({static}/arquivos/IC_Aula_10.pdf)  
-[Aula 11: Função Composta e Inversa. Equações e Inequações Exponenciais e  Logarítmicas.]({static}/arquivos/IC_Aula_11.pdf)
+[Aula 02: Plano Cartesiano. Relações. Função.]({static}/arquivos/IC_Aula_02.pdf)  
+[Aula 03: Funções. Função Afim.]({static}/arquivos/IC_Aula_03.pdf)  
+[Aula 04: O Sinal da Função Afim.]({static}/arquivos/IC_Aula_04.pdf)   
 
 ---
 ### Exercícios
-Resolva os exercícios de cada capítulo do livro texto.  
+[Semana 1]({static}/arquivos/Numeros.pdf)   
 
- - Aula 01: Capítulo 1 (Pré-Cálculo, F. Demana)  
- - Aula 02: Capítulos IV e V (Fundamentos da Matemática Elementar: 1)  
- - Aula 03: Capítulo VI (Fundamentos da Matemática Elementar: 1) 
- - Aula 04: Capítulo VI (Fundamentos da Matemática Elementar: 1)  
- - Aula 05: Capítulo VII (Fundamentos da Matemática Elementar: 1) 
- - Aula 06: Capítulo VII (Fundamentos da Matemática Elementar: 1)
- - Aula 07: Capítulo VIII (Fundamentos da Matemática Elementar: 1)  
- - Aula 08: Capítulo II (Fundamentos da Matemática Elementar: 2)
- - Aula 09: Capítulo II (Fundamentos da Matemática Elementar: 2)  
- - Aula 10: Capítulos III e IV (Fundamentos da Matemática Elementar: 2)  
- - Aula 11: Capítulos V e VI (Fundamentos da Matemática Elementar: 2) e Capítulo X (Fundamentos da Matemática Elementar: 1)
 
 ---
 ### Avaliações e Gabaritos
-[P1 – 15/02/2023]({static}/arquivos/P1_Gabarito.pdf)  
-P2 – 19/04/2023  
-PS – 26/04/2023  
-EF – 03/05/2023
+P1 - 10/07/2023  
+P2 - 30/08/2023  
+PS - 06/09/2023  
+EF - 13/09/2023 
+
+Serão realizadas duas avaliações escritas (P1 e P2), que poderão ser complementadas com avaliações orais, cuja média de aproveitamento (MA) será obtida da seguinte maneira: MA = 0,5*P1 + 0,5*P2.  
+Haverá uma avaliação substitutiva (PS), a qual substituirá a menor nota, caso a nota da PS seja maior, entre todas as avaliações escritas realizadas. A prova substitutiva versará sobre o conteúdo de menor nota do discente. No caso em que P1=P2, o discente poderá escolher qual a prova a ser feita.  
+Após as avaliações P1, P2 e PS, o acadêmico que obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará aprovado.  
+Será ofertado o exame final ao acadêmico que obtiver MA maior ou igual a 4,0 (quatro) e inferior a 6,0 (seis) e frequência de, no mínimo, 75%. Será considerado aprovado o acadêmico que obtiver nota do exame maior ou igual a 6,0 (seis). 
 ---
 ### Bibliografia:
  
-Livro texto 1: Fundamentos da Matemática Elementar: 1, G. Iezzi, C. Murakami e O. Dolce..  
-Livro texto 2: Pré-Cálculo, F. Demana.  
- Outros livros:  
-    Pré-Cálculo, S. Axler.  
-    Fundamentos da Matemática Elementar: 2, 3 e 8; G. Iezzi, C. Murakami e O. Dolce.
+BOULOS, Paulo. Introdução ao cálculo, v. 1: cálculo diferencial. 2. ed. São Paulo: Blucher, 2019. E-book. (1 recurso online). ISBN 9788521217534. Disponível em: https://integrada.minhabiblioteca.com.br/books/9788521217534.
+
+Geraldo Ávila, Introdução ao Cálculo. Ltc Editora
+
+MALTA, Iaci Pereira. Cálculo a uma variável: uma introdução ao cálculo. 5.ed São Paulo: Lopes, 2010. v.1.
+
+
 ---
 ### Ementa
 
