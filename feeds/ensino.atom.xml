@@ -1,5 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="https://karlalima.github.io/" rel="alternate"></link><link href="https://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>https://karlalima.github.io/</id><updated>2023-08-30T10:16:52-04:00</updated><entry><title>Geometria Plana</title><link href="https://karlalima.github.io/ensino/geometria_plana.html" rel="alternate"></link><published>2023-08-30T10:16:52-04:00</published><updated>2023-08-30T10:16:52-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2023-08-30:/ensino/geometria_plana.html</id><summary type="html">&lt;h3&gt;Notas de aulas&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="https://karlalima.github.io/" rel="alternate"></link><link href="https://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>https://karlalima.github.io/</id><updated>2023-08-31T10:16:40-04:00</updated><entry><title>Introdução ao Cálculo</title><link href="https://karlalima.github.io/ensino/intro_calculo.html" rel="alternate"></link><published>2023-08-31T10:16:40-04:00</published><updated>2023-08-31T10:16:40-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2023-08-31:/ensino/intro_calculo.html</id><summary type="html">&lt;h3&gt;Roteiros de Aula&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_01.pdf"&gt;Aula 01: Conjuntos Numéricos e Operações.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_02.pdf"&gt;Aula 02: Plano Cartesiano. Relações. Função.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_03.pdf"&gt;Aula 03: Funções. Função Afim.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_04.pdf"&gt;Aula 04: O Sinal da Função Afim.&lt;/a&gt; &lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_05.pdf"&gt;Aula 05: A Função Quadrática.&lt;/a&gt; &lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_06.pdf"&gt;Aula 06: O Sinal da Função Quadrática.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_07.pdf"&gt;Aula 07: Funções de Várias Sentenças .&lt;/a&gt;  &lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_08_Ex.pdf"&gt;Aula 08: Exercícios: Funções de …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Roteiros de Aula&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_01.pdf"&gt;Aula 01: Conjuntos Numéricos e Operações.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_02.pdf"&gt;Aula 02: Plano Cartesiano. Relações. Função.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_03.pdf"&gt;Aula 03: Funções. Função Afim.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_04.pdf"&gt;Aula 04: O Sinal da Função Afim.&lt;/a&gt; &lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_05.pdf"&gt;Aula 05: A Função Quadrática.&lt;/a&gt; &lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_06.pdf"&gt;Aula 06: O Sinal da Função Quadrática.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_07.pdf"&gt;Aula 07: Funções de Várias Sentenças .&lt;/a&gt;  &lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_08_Ex.pdf"&gt;Aula 08: Exercícios: Funções de Várias Sentenças e Função Afim.&lt;/a&gt; &lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_09_Ex.pdf"&gt;Aula 09: Exercícios: Funções de Quadráticas e Inequações.&lt;/a&gt;  &lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_10.pdf"&gt;Aula 10: Funções Exponenciais.&lt;/a&gt;  &lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_12.pdf"&gt;Aula 12: Funções Logarítmicas.&lt;/a&gt;  &lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_13_14.pdf"&gt;Aulas 13 e 14: Funções Compostas.&lt;/a&gt;  &lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_15.pdf"&gt;Aula 15: Funções Trigonométricas.&lt;/a&gt;  &lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_16.pdf"&gt;Aula 16: O Limite de Funções.&lt;/a&gt;  &lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_17_18.pdf"&gt;Aulas 17 e 18: O Cálculo de Limites. Continuidade.&lt;/a&gt;    &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Exercícios&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Numeros.pdf"&gt;Semana 1&lt;/a&gt; &lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/P2_Listas_IC.pdf"&gt;Lista P2 - Atualizada em 21/08&lt;/a&gt;   &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Avaliações e Gabaritos&lt;/h3&gt;
+&lt;p&gt;P1 - 10/07/2023  &lt;a href="https://karlalima.github.io/arquivos/P1_Agricola.pdf"&gt;P1&lt;/a&gt; &lt;a href="https://karlalima.github.io/arquivos/Gabarito_P1_Agricola.pdf"&gt;Gabarito&lt;/a&gt;&lt;br&gt;
+P2 - 30/08/2023  &lt;a href="https://karlalima.github.io/arquivos/P2_Agricola.pdf"&gt;P2&lt;/a&gt; &lt;a href="https://karlalima.github.io/arquivos/Gabarito_P2_Agricola.pdf"&gt;Gabarito&lt;/a&gt;&lt;br&gt;
+PS - 06/09/2023&lt;br&gt;
+EF - 13/09/2023 &lt;/p&gt;
+&lt;p&gt;Serão realizadas duas avaliações escritas (P1 e P2), que poderão ser complementadas com avaliações orais, cuja média de aproveitamento (MA) será obtida da seguinte maneira: MA = 0,5&lt;em&gt;P1 + 0,5&lt;/em&gt;P2.&lt;br&gt;
+Haverá uma avaliação substitutiva (PS), a qual substituirá a menor nota, caso a nota da PS seja maior, entre todas as avaliações escritas realizadas. A prova substitutiva versará sobre o conteúdo de menor nota do discente. No caso em que P1=P2, o discente poderá escolher qual a prova a ser feita.&lt;br&gt;
+Após as avaliações P1, P2 e PS, o acadêmico que obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará aprovado.&lt;br&gt;
+Será ofertado o exame final ao acadêmico que obtiver MA maior ou igual a 4,0 (quatro) e inferior a 6,0 (seis) e frequência de, no mínimo, 75%. Será considerado aprovado o acadêmico que obtiver nota do exame maior ou igual a 6,0 (seis). &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Bibliografia:&lt;/h3&gt;
+&lt;p&gt;BOULOS, Paulo. Introdução ao cálculo, v. 1: cálculo diferencial. 2. ed. São Paulo: Blucher, 2019. E-book. (1 recurso online). ISBN 9788521217534. Disponível em: https://integrada.minhabiblioteca.com.br/books/9788521217534.&lt;/p&gt;
+&lt;p&gt;Geraldo Ávila, Introdução ao Cálculo. Ltc Editora&lt;/p&gt;
+&lt;p&gt;MALTA, Iaci Pereira. Cálculo a uma variável: uma introdução ao cálculo. 5.ed São Paulo: Lopes, 2010. v.1.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Ementa&lt;/h3&gt;
+&lt;p&gt;Números reais, notação científica e cálculos. Desigualdades. Intervalos. Valor Absoluto. Usos dos
+expoentes fracionários e real. Funções. Funções lineares e principais usos nas ciências. Funções
+quadráticas e polinomiais. Funções exponenciais e aplicações nas ciências. Funções inversas e
+compostas. Logaritmos e suas aplicações nas ciências. Funções trigonométricas e suas aplicações.
+Conceitos de limites, derivadas e integrais definidas, cálculos e aplicações nas ciências.&lt;/p&gt;
+&lt;hr&gt;</content><category term="Ensino"></category></entry><entry><title>Geometria Plana</title><link href="https://karlalima.github.io/ensino/geometria_plana.html" rel="alternate"></link><published>2023-08-30T10:16:52-04:00</published><updated>2023-08-30T10:16:52-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2023-08-30:/ensino/geometria_plana.html</id><summary type="html">&lt;h3&gt;Notas de aulas&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/GP_Aula_01.pdf"&gt;Aula 01: Noções Primitivas.&lt;/a&gt;&lt;br&gt;
 &lt;a href="https://karlalima.github.io/arquivos/GP_Aula_02.pdf"&gt;Aula 02: Ângulos.&lt;/a&gt;&lt;br&gt;
 &lt;a href="https://karlalima.github.io/arquivos/GP_Aula_03.pdf"&gt;Aula 03: Triângulos.&lt;/a&gt; &lt;br&gt;
@@ -46,56 +96,6 @@ Congruência de triângulos. Paralelismo e perpendicularidade. Quadriláteros no
 do triângulo. Circunferência e seus elementos: ângulos e arcos. Proporcionalidade e semelhança.
 Relações métricas no triângulo. Áreas de figuras planas. Utilização de recursos computacionais para
 Geometria Plana.&lt;/p&gt;
-&lt;hr&gt;</content><category term="Ensino"></category></entry><entry><title>Introdução ao Cálculo</title><link href="https://karlalima.github.io/ensino/intro_calculo.html" rel="alternate"></link><published>2023-08-21T08:56:32-04:00</published><updated>2023-08-21T08:56:32-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2023-08-21:/ensino/intro_calculo.html</id><summary type="html">&lt;h3&gt;Roteiros de Aula&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_01.pdf"&gt;Aula 01: Conjuntos Numéricos e Operações.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_02.pdf"&gt;Aula 02: Plano Cartesiano. Relações. Função.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_03.pdf"&gt;Aula 03: Funções. Função Afim.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_04.pdf"&gt;Aula 04: O Sinal da Função Afim.&lt;/a&gt; &lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_05.pdf"&gt;Aula 05: A Função Quadrática.&lt;/a&gt; &lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_06.pdf"&gt;Aula 06: O Sinal da Função Quadrática.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_07.pdf"&gt;Aula 07: Funções de Várias Sentenças .&lt;/a&gt;  &lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_08_Ex.pdf"&gt;Aula 08: Exercícios: Funções de …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Roteiros de Aula&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_01.pdf"&gt;Aula 01: Conjuntos Numéricos e Operações.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_02.pdf"&gt;Aula 02: Plano Cartesiano. Relações. Função.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_03.pdf"&gt;Aula 03: Funções. Função Afim.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_04.pdf"&gt;Aula 04: O Sinal da Função Afim.&lt;/a&gt; &lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_05.pdf"&gt;Aula 05: A Função Quadrática.&lt;/a&gt; &lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_06.pdf"&gt;Aula 06: O Sinal da Função Quadrática.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_07.pdf"&gt;Aula 07: Funções de Várias Sentenças .&lt;/a&gt;  &lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_08_Ex.pdf"&gt;Aula 08: Exercícios: Funções de Várias Sentenças e Função Afim.&lt;/a&gt; &lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_09_Ex.pdf"&gt;Aula 09: Exercícios: Funções de Quadráticas e Inequações.&lt;/a&gt;  &lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_10.pdf"&gt;Aula 10: Funções Exponenciais.&lt;/a&gt;  &lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_12.pdf"&gt;Aula 12: Funções Logarítmicas.&lt;/a&gt;  &lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_13_14.pdf"&gt;Aulas 13 e 14: Funções Compostas.&lt;/a&gt;  &lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_15.pdf"&gt;Aula 15: Funções Trigonométricas.&lt;/a&gt;  &lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_16.pdf"&gt;Aula 16: O Limite de Funções.&lt;/a&gt;  &lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/IC_Aula_17_18.pdf"&gt;Aulas 17 e 18: O Cálculo de Limites. Continuidade.&lt;/a&gt;    &lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Exercícios&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Numeros.pdf"&gt;Semana 1&lt;/a&gt; &lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/P2_Listas_IC.pdf"&gt;Lista P2 - Atualizada em 21/08&lt;/a&gt;   &lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Avaliações e Gabaritos&lt;/h3&gt;
-&lt;p&gt;P1 - 10/07/2023  &lt;a href="https://karlalima.github.io/arquivos/P1_Agricola.pdf"&gt;P1&lt;/a&gt; &lt;a href="https://karlalima.github.io/arquivos/Gabarito_P1_Agricola.pdf"&gt;Gabarito&lt;/a&gt;&lt;br&gt;
-P2 - 30/08/2023&lt;br&gt;
-PS - 06/09/2023&lt;br&gt;
-EF - 13/09/2023 &lt;/p&gt;
-&lt;p&gt;Serão realizadas duas avaliações escritas (P1 e P2), que poderão ser complementadas com avaliações orais, cuja média de aproveitamento (MA) será obtida da seguinte maneira: MA = 0,5&lt;em&gt;P1 + 0,5&lt;/em&gt;P2.&lt;br&gt;
-Haverá uma avaliação substitutiva (PS), a qual substituirá a menor nota, caso a nota da PS seja maior, entre todas as avaliações escritas realizadas. A prova substitutiva versará sobre o conteúdo de menor nota do discente. No caso em que P1=P2, o discente poderá escolher qual a prova a ser feita.&lt;br&gt;
-Após as avaliações P1, P2 e PS, o acadêmico que obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará aprovado.&lt;br&gt;
-Será ofertado o exame final ao acadêmico que obtiver MA maior ou igual a 4,0 (quatro) e inferior a 6,0 (seis) e frequência de, no mínimo, 75%. Será considerado aprovado o acadêmico que obtiver nota do exame maior ou igual a 6,0 (seis). &lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Bibliografia:&lt;/h3&gt;
-&lt;p&gt;BOULOS, Paulo. Introdução ao cálculo, v. 1: cálculo diferencial. 2. ed. São Paulo: Blucher, 2019. E-book. (1 recurso online). ISBN 9788521217534. Disponível em: https://integrada.minhabiblioteca.com.br/books/9788521217534.&lt;/p&gt;
-&lt;p&gt;Geraldo Ávila, Introdução ao Cálculo. Ltc Editora&lt;/p&gt;
-&lt;p&gt;MALTA, Iaci Pereira. Cálculo a uma variável: uma introdução ao cálculo. 5.ed São Paulo: Lopes, 2010. v.1.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Ementa&lt;/h3&gt;
-&lt;p&gt;Números reais, notação científica e cálculos. Desigualdades. Intervalos. Valor Absoluto. Usos dos
-expoentes fracionários e real. Funções. Funções lineares e principais usos nas ciências. Funções
-quadráticas e polinomiais. Funções exponenciais e aplicações nas ciências. Funções inversas e
-compostas. Logaritmos e suas aplicações nas ciências. Funções trigonométricas e suas aplicações.
-Conceitos de limites, derivadas e integrais definidas, cálculos e aplicações nas ciências.&lt;/p&gt;
 &lt;hr&gt;</content><category term="Ensino"></category></entry><entry><title>Construções Geométricas</title><link href="https://karlalima.github.io/ensino/contrucoes.html" rel="alternate"></link><published>2023-08-09T19:21:35-04:00</published><updated>2023-08-09T19:21:35-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2023-08-09:/ensino/contrucoes.html</id><summary type="html">&lt;h3&gt;Notas de aulas&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/CG_Sobre_Geo_Plana.pdf"&gt;Sobre Geometria Plana&lt;/a&gt; &lt;br&gt;
 &lt;a href="https://karlalima.github.io/arquivos/Aula_Numeros_Construtiveis.pdf"&gt;Números Construtíveis&lt;/a&gt;   &lt;/p&gt;
