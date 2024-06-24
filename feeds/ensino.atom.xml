@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="https://karlalima.github.io/" rel="alternate"></link><link href="https://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>https://karlalima.github.io/</id><updated>2024-06-24T14:55:58-04:00</updated><entry><title>Geometria Plana e Construções Geométricas I</title><link href="https://karlalima.github.io/ensino/geometria_plana.html" rel="alternate"></link><published>2024-06-24T14:55:58-04:00</published><updated>2024-06-24T14:55:58-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2024-06-24:/ensino/geometria_plana.html</id><summary type="html">&lt;h2&gt;Plano de Ensino&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="https://karlalima.github.io/" rel="alternate"></link><link href="https://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>https://karlalima.github.io/</id><updated>2024-06-24T15:17:44-04:00</updated><entry><title>Geometria Plana e Construções Geométricas I</title><link href="https://karlalima.github.io/ensino/geometria_plana.html" rel="alternate"></link><published>2024-06-24T15:17:44-04:00</published><updated>2024-06-24T15:17:44-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2024-06-24:/ensino/geometria_plana.html</id><summary type="html">&lt;h2&gt;Plano de Ensino&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Geometria_Plana_ Karla_Lima.pdf"&gt;Plano de ensino&lt;/a&gt;   &lt;/p&gt;
 &lt;h3&gt;Roteiros de Aula&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/guia_estudar.pdf"&gt;Aula 00: Um pequeno guia de como estudar&lt;/a&gt;&lt;br&gt;
@@ -31,7 +31,7 @@
 &lt;hr&gt;
 &lt;h3&gt;Exercícios&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Listas_GP_P1.pdf"&gt;Lista P1: Finalizada em 17/05/24&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/Listas_GP_P2.pdf"&gt;Lista P2: Atualizada em 10/06/24&lt;/a&gt;  &lt;/p&gt;
+&lt;a href="https://karlalima.github.io/arquivos/Listas_GP_P2.pdf"&gt;Lista P2: Finalizada em 24/06/24&lt;/a&gt;  &lt;/p&gt;
 &lt;h3&gt;Trabalhos&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Exercicios_1_GP.pdf"&gt;Trabalho 1: Noções Primitivas e Ângulos&lt;/a&gt;  &lt;/p&gt;
 &lt;hr&gt;
@@ -50,7 +50,7 @@ EF - 19/07/2024, das 7:20 às 10:30.   &lt;/p&gt;
 &lt;p&gt;DOLCE, Osvaldo; POMPEU, José Nicolau. Fundamentos de Matemática Elementar, Vol. 9, Geometria Plana. 9a Ed. Editora Atual. 2013.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;</content><category term="Ensino"></category></entry><entry><title>Elementos de Aritmética</title><link href="https://karlalima.github.io/ensino/elementos_aritmetica.html" rel="alternate"></link><published>2024-06-23T18:51:02-04:00</published><updated>2024-06-23T18:51:02-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2024-06-23:/ensino/elementos_aritmetica.html</id><summary type="html">&lt;h2&gt;Plano de Ensino&lt;/h2&gt;
+&lt;hr&gt;</content><category term="Ensino"></category></entry><entry><title>Elementos de Aritmética</title><link href="https://karlalima.github.io/ensino/elementos_aritmetica.html" rel="alternate"></link><published>2024-06-24T15:17:20-04:00</published><updated>2024-06-24T15:17:20-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2024-06-24:/ensino/elementos_aritmetica.html</id><summary type="html">&lt;h2&gt;Plano de Ensino&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Elementos_Aritmetica_Karla_Lima.pdf"&gt;Plano de ensino&lt;/a&gt;   &lt;/p&gt;
 &lt;h3&gt;Notas de aulas&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/guia_estudar.pdf"&gt;Aula 00: Um pequeno guia de como estudar&lt;/a&gt; &lt;br&gt;
@@ -74,7 +74,9 @@ EF - 19/07/2024, das 7:20 às 10:30.   &lt;/p&gt;
 &lt;a href="https://karlalima.github.io/arquivos/Aula_08_Racionais.pdf"&gt;Aula 08: Números Racionais&lt;/a&gt;&lt;br&gt;
 &lt;a href="https://karlalima.github.io/arquivos/Pre_Aula_EA.pdf"&gt;Aula 09: Pré-Aula Números Irracionais&lt;/a&gt;&lt;br&gt;
 &lt;a href="https://karlalima.github.io/arquivos/Aula_09_Irracionais.pdf"&gt;Aula 09: Números Irracionais. Números Reais.&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/Aula_10_Numeros_Reais.pdf"&gt;Aula 10: Números Reais.&lt;/a&gt;  &lt;/p&gt;
+&lt;a href="https://karlalima.github.io/arquivos/Aula_10_Numeros_Reais.pdf"&gt;Aula 10: Números Reais.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/Eq_Grau_1.pdf"&gt;Aula 11: Material OBMEP: Equações do 1º Grau.&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/Eq_Grau_2.pdf"&gt;Aula 11: Material OBMEP: Equações do 2º Grau.&lt;/a&gt;  &lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Exercícios&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Listas_EA_P1.pdf"&gt;Lista P1 - Atualizada em 06/05&lt;/a&gt; &lt;br&gt;
