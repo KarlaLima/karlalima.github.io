@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="https://karlalima.github.io/" rel="alternate"></link><link href="https://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>https://karlalima.github.io/</id><updated>2024-08-04T11:33:18-04:00</updated><entry><title>Equações Diferenciais</title><link href="https://karlalima.github.io/ensino/equacoes_diferenciais.html" rel="alternate"></link><published>2024-08-04T11:33:18-04:00</published><updated>2024-08-04T11:33:18-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2024-08-04:/ensino/equacoes_diferenciais.html</id><summary type="html">&lt;h2&gt;Plano de Ensino&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="https://karlalima.github.io/" rel="alternate"></link><link href="https://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>https://karlalima.github.io/</id><updated>2024-08-04T15:18:49-04:00</updated><entry><title>Equações Diferenciais</title><link href="https://karlalima.github.io/ensino/equacoes_diferenciais.html" rel="alternate"></link><published>2024-08-04T15:18:49-04:00</published><updated>2024-08-04T15:18:49-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2024-08-04:/ensino/equacoes_diferenciais.html</id><summary type="html">&lt;h2&gt;Plano de Ensino&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Equacoes Diferenciais_Karla Lima.pdf"&gt;Equações Diferenciais&lt;/a&gt;  &lt;/p&gt;
 &lt;h3&gt;Complementos de Aula&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Notas_de_Aula_ED_P1.pdf"&gt;Complementos de Aula: P1&lt;/a&gt;   &lt;/p&gt;
 &lt;hr&gt;
@@ -8,9 +9,10 @@
 &lt;a href="https://karlalima.github.io/arquivos/Modelo_de_Relatorio.docx"&gt;Arquivo DOCX (Entrega em PDF)&lt;/a&gt;  &lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Avaliações e Gabaritos&lt;/h3&gt;
-&lt;p&gt;P1 – 13/05/2024, das 7:20 às 10:30;    &lt;br&gt;
- P2 – 01/07/2024, das 7:20 às 10:30;&lt;br&gt;
- PS – 08/07/2024 …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Plano de Ensino&lt;/h2&gt;
+&lt;p&gt;Seminário 1: 02/09/2024 e 09/09/2024.&lt;br&gt;
+ P1 – 23/09/2024, das 7:20 às 10:30.&lt;br&gt;
+ Seminário 2: 14 …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Plano de Ensino&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Equacoes Diferenciais_Karla Lima.pdf"&gt;Equações Diferenciais&lt;/a&gt;  &lt;/p&gt;
 &lt;h3&gt;Complementos de Aula&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Notas_de_Aula_ED_P1.pdf"&gt;Complementos de Aula: P1&lt;/a&gt;   &lt;/p&gt;
 &lt;hr&gt;
@@ -19,14 +21,21 @@
 &lt;a href="https://karlalima.github.io/arquivos/Modelo_de_Relatorio.docx"&gt;Arquivo DOCX (Entrega em PDF)&lt;/a&gt;  &lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Avaliações e Gabaritos&lt;/h3&gt;
-&lt;p&gt;P1 – 13/05/2024, das 7:20 às 10:30;    &lt;br&gt;
- P2 – 01/07/2024, das 7:20 às 10:30;&lt;br&gt;
- PS – 08/07/2024, das 7:20 às 10:30;  &lt;br&gt;
- EF – 15/07/2024, das 7:20 às 10:30. &lt;/p&gt;
+&lt;p&gt;Seminário 1: 02/09/2024 e 09/09/2024.&lt;br&gt;
+ P1 – 23/09/2024, das 7:20 às 10:30.&lt;br&gt;
+ Seminário 2: 14/10/2024.&lt;br&gt;
+ Seminário 3: 18/11/2024. 
+ P2 – 25/11/2024, das 7:20 às 10:30.&lt;br&gt;
+ PS – 02/12/2024, das 7:20 às 10:30.   [Referente à menor nota entre P1 e P2.] 
+ EF – 09/12/2024, das 7:20 às 10:30. &lt;/p&gt;
+&lt;p&gt;Fórmula da Média: (P1 + P2 + S)/3, sendo S a média das notas dos seminários.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Bibliografia:&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Hefez, A., Iniciação à Aritmética. IMPA, 2015.&lt;/li&gt;
-&lt;li&gt;Paiva, M., Matemática 1, Moderna Plus, 2011.&lt;/li&gt;
+&lt;li&gt;ZILL, Dennis G. Equações diferenciais com aplicações em modelagem. 3. ed. São Paulo:
+Cengage Learning, 2016.  &lt;/li&gt;
+&lt;li&gt;FIGUEIREDO, Djairo G.. Equações diferenciais aplicadas. Rio de Janeiro: IMPA,&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;BOYCE, William E.; DIPRIMA, Richard C. Equações diferenciais elementares e problemas de valores de contorno. 9. ed. Rio de Janeiro: LTC, 2010.  &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;</content><category term="Ensino"></category></entry></feed>
