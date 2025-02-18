@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="https://karlalima.github.io/" rel="alternate"></link><link href="https://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>https://karlalima.github.io/</id><updated>2024-10-07T13:28:58-04:00</updated><entry><title>Equações Diferenciais</title><link href="https://karlalima.github.io/ensino/equacoes_diferenciais.html" rel="alternate"></link><published>2024-10-07T13:28:58-04:00</published><updated>2024-10-07T13:28:58-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2024-10-07:/ensino/equacoes_diferenciais.html</id><summary type="html">&lt;h2&gt;Plano de Ensino&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="https://karlalima.github.io/" rel="alternate"></link><link href="https://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>https://karlalima.github.io/</id><updated>2025-02-17T20:46:00-04:00</updated><entry><title>Equações Diferenciais</title><link href="https://karlalima.github.io/ensino/equacoes_diferenciais.html" rel="alternate"></link><published>2025-02-17T20:46:00-04:00</published><updated>2025-02-17T20:46:00-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2025-02-17:/ensino/equacoes_diferenciais.html</id><summary type="html">&lt;h2&gt;Plano de Ensino&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Equacoes Diferenciais_Karla Lima.pdf"&gt;Equações Diferenciais&lt;/a&gt;  &lt;/p&gt;
 &lt;h3&gt;Complementos de Aula&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Notas_de_Aula_ED_P1.pdf"&gt;Complementos de Aula: P1&lt;/a&gt; &lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/Notas_de_Aula_07_10.pdf"&gt;Aula 07/10&lt;/a&gt;   &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Aula_02_Matrizes.pdf"&gt;Aula 02&lt;/a&gt; &lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/Trabalho_1_17_02.pdf"&gt;Trabalho 1&lt;/a&gt;   &lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Modelo de Relatório&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Modelo de Relatorio.zip"&gt;Arquivo Latex (Entrega em PDF)&lt;/a&gt; &lt;br&gt;
@@ -12,11 +12,11 @@ Obs: No Menu, compilar com XeLatex ou LuaLatex.&lt;br&gt;
 &lt;hr&gt;
 &lt;h3&gt;Avaliações e Gabaritos&lt;/h3&gt;
 &lt;p&gt;Seminário 1: 02/09/2024 e 09/09/2024.&lt;br&gt;
- P1 – 23 …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Plano de Ensino&lt;/h2&gt;
+ P1 – 23/09/2024, das …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Plano de Ensino&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Equacoes Diferenciais_Karla Lima.pdf"&gt;Equações Diferenciais&lt;/a&gt;  &lt;/p&gt;
 &lt;h3&gt;Complementos de Aula&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Notas_de_Aula_ED_P1.pdf"&gt;Complementos de Aula: P1&lt;/a&gt; &lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/Notas_de_Aula_07_10.pdf"&gt;Aula 07/10&lt;/a&gt;   &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Aula_02_Matrizes.pdf"&gt;Aula 02&lt;/a&gt; &lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/Trabalho_1_17_02.pdf"&gt;Trabalho 1&lt;/a&gt;   &lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Modelo de Relatório&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Modelo de Relatorio.zip"&gt;Arquivo Latex (Entrega em PDF)&lt;/a&gt; &lt;br&gt;
