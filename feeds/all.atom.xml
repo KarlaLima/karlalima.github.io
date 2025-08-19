@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="https://karlalima.github.io/" rel="alternate"></link><link href="https://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>https://karlalima.github.io/</id><updated>2025-08-18T09:54:40-04:00</updated><entry><title>Álgebra Linear</title><link href="https://karlalima.github.io/ensino/algebra-linear.html" rel="alternate"></link><published>2025-08-18T09:54:40-04:00</published><updated>2025-08-18T09:54:40-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2025-08-18:/ensino/algebra-linear.html</id><summary type="html">&lt;h2&gt;Plano de Ensino&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="https://karlalima.github.io/" rel="alternate"></link><link href="https://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>https://karlalima.github.io/</id><updated>2025-08-19T07:26:05-04:00</updated><entry><title>Álgebra Linear</title><link href="https://karlalima.github.io/ensino/algebra-linear.html" rel="alternate"></link><published>2025-08-19T07:26:05-04:00</published><updated>2025-08-19T07:26:05-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2025-08-19:/ensino/algebra-linear.html</id><summary type="html">&lt;h2&gt;Plano de Ensino&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Plano de Ensino Algebra Linear.pdf"&gt;Plano de Ensino da Disciplina&lt;/a&gt;  &lt;/p&gt;
 &lt;h3&gt;Notas de Aula&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Aula_01__Revisao_Sistemas_Lineares.pdf"&gt;Aula 01 - Apresentação. Revisão Sistemas Lineares.&lt;/a&gt; &lt;br&gt;
 &lt;a href="https://karlalima.github.io/arquivos/Aula_02_Espacos_Vetorias_Euclidianos.pdf"&gt;Aula 02 - Espaços Vetoriais Euclidianos.&lt;/a&gt;   &lt;br&gt;
-Aula 03 - Subespaços Vetoriais. Combinação Linear.]({static}/arquivos/Aula_03_Subespacos_Combinacao_Linear.pdf)     &lt;/p&gt;
+&lt;a href="https://karlalima.github.io/arquivos/Aula_03_Subespacos_Combinacao_Linear.pdf"&gt;Aula 03 - Subespaços Vetoriais. Combinação Linear.&lt;/a&gt;     &lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Trabalhos e Listas de Exercícios&lt;/h3&gt;
 &lt;hr&gt;
 &lt;h3&gt;Avaliações e Gabaritos&lt;/h3&gt;
 &lt;p&gt;P1: 16/09/2025&lt;br&gt;
 P2: 25/11/2025&lt;br&gt;
-PS: 02 …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Plano de Ensino&lt;/h2&gt;
+PS: 02/12/2025&lt;br&gt;
+Exame Final …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Plano de Ensino&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Plano de Ensino Algebra Linear.pdf"&gt;Plano de Ensino da Disciplina&lt;/a&gt;  &lt;/p&gt;
 &lt;h3&gt;Notas de Aula&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Aula_01__Revisao_Sistemas_Lineares.pdf"&gt;Aula 01 - Apresentação. Revisão Sistemas Lineares.&lt;/a&gt; &lt;br&gt;
 &lt;a href="https://karlalima.github.io/arquivos/Aula_02_Espacos_Vetorias_Euclidianos.pdf"&gt;Aula 02 - Espaços Vetoriais Euclidianos.&lt;/a&gt;   &lt;br&gt;
-Aula 03 - Subespaços Vetoriais. Combinação Linear.]({static}/arquivos/Aula_03_Subespacos_Combinacao_Linear.pdf)     &lt;/p&gt;
+&lt;a href="https://karlalima.github.io/arquivos/Aula_03_Subespacos_Combinacao_Linear.pdf"&gt;Aula 03 - Subespaços Vetoriais. Combinação Linear.&lt;/a&gt;     &lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Trabalhos e Listas de Exercícios&lt;/h3&gt;
 &lt;hr&gt;
