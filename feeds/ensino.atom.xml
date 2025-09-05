@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="https://karlalima.github.io/" rel="alternate"></link><link href="https://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>https://karlalima.github.io/</id><updated>2025-09-02T07:32:41-04:00</updated><entry><title>Álgebra Linear</title><link href="https://karlalima.github.io/ensino/algebra-linear.html" rel="alternate"></link><published>2025-09-02T07:32:41-04:00</published><updated>2025-09-02T07:32:41-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2025-09-02:/ensino/algebra-linear.html</id><summary type="html">&lt;h2&gt;Plano de Ensino&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="https://karlalima.github.io/" rel="alternate"></link><link href="https://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>https://karlalima.github.io/</id><updated>2025-09-05T10:16:49-04:00</updated><entry><title>Álgebra Linear</title><link href="https://karlalima.github.io/ensino/algebra-linear.html" rel="alternate"></link><published>2025-09-05T10:16:49-04:00</published><updated>2025-09-05T10:16:49-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2025-09-05:/ensino/algebra-linear.html</id><summary type="html">&lt;h2&gt;Plano de Ensino&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Plano de Ensino Algebra Linear.pdf"&gt;Plano de Ensino da Disciplina&lt;/a&gt;  &lt;/p&gt;
 &lt;h3&gt;Notas de Aula&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Aula_01__Revisao_Sistemas_Lineares.pdf"&gt;Aula 01 - Apresentação. Revisão Sistemas Lineares.&lt;/a&gt; &lt;br&gt;
@@ -9,10 +9,7 @@
 &lt;a href="https://karlalima.github.io/arquivos/Aula_05_Base_e_Dimensao.pdf"&gt;Aula 05 - Base e Dimensão.&lt;/a&gt;  &lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Trabalhos e Listas de Exercícios&lt;/h3&gt;
-&lt;hr&gt;
-&lt;h3&gt;Avaliações e Gabaritos&lt;/h3&gt;
-&lt;p&gt;P1: 16/09/2025&lt;br&gt;
-P2: 25/11 …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Plano de Ensino&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://karlalima.github.io/arquivos/Aula_de_Exercicios_01.pdf"&gt;Aula de Exercícios 01 - Espaços e Subespaços Vetoriais, Combinação Linear …&lt;/a&gt;&lt;/h2&gt;</summary><content type="html">&lt;h2&gt;Plano de Ensino&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Plano de Ensino Algebra Linear.pdf"&gt;Plano de Ensino da Disciplina&lt;/a&gt;  &lt;/p&gt;
 &lt;h3&gt;Notas de Aula&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Aula_01__Revisao_Sistemas_Lineares.pdf"&gt;Aula 01 - Apresentação. Revisão Sistemas Lineares.&lt;/a&gt; &lt;br&gt;
@@ -22,9 +19,9 @@ P2: 25/11 …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Plano de Ensino&
 &lt;a href="https://karlalima.github.io/arquivos/Aula_05_Base_e_Dimensao.pdf"&gt;Aula 05 - Base e Dimensão.&lt;/a&gt;  &lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Trabalhos e Listas de Exercícios&lt;/h3&gt;
-&lt;hr&gt;
+&lt;h2&gt;&lt;a href="https://karlalima.github.io/arquivos/Aula_de_Exercicios_01.pdf"&gt;Aula de Exercícios 01 - Espaços e Subespaços Vetoriais, Combinação Linear e Independência Linear.&lt;/a&gt;&lt;/h2&gt;
 &lt;h3&gt;Avaliações e Gabaritos&lt;/h3&gt;
-&lt;p&gt;P1: 16/09/2025&lt;br&gt;
+&lt;p&gt;P1: 23/09/2025 
 P2: 25/11/2025&lt;br&gt;
 PS: 02/12/2025&lt;br&gt;
 Exame Final (EF): 09/12/2025  &lt;/p&gt;
