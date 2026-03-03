@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="https://karlalima.github.io/" rel="alternate"></link><link href="https://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>https://karlalima.github.io/</id><updated>2026-03-03T16:09:41-04:00</updated><entry><title>Monitoria AlGA</title><link href="https://karlalima.github.io/ensino/monitoria.html" rel="alternate"></link><published>2026-03-03T16:09:41-04:00</published><updated>2026-03-03T16:09:41-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2026-03-03:/ensino/monitoria.html</id><content type="html">&lt;h2&gt;Edital de Seleção&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Aula 01_Equacoes.pdf"&gt;Aula 01 - Equações.&lt;/a&gt;  &lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="https://karlalima.github.io/" rel="alternate"></link><link href="https://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>https://karlalima.github.io/</id><updated>2026-03-03T16:22:44-04:00</updated><entry><title>Monitoria ALGA</title><link href="https://karlalima.github.io/ensino/monitoria.html" rel="alternate"></link><published>2026-03-03T16:22:44-04:00</published><updated>2026-03-03T16:22:44-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2026-03-03:/ensino/monitoria.html</id><content type="html">&lt;h2&gt;Edital de Seleção&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Edital_de_Selecao_assinado.pdf"&gt;Edital 03/03/26&lt;/a&gt;  &lt;/p&gt;
 &lt;h3&gt;Resultados&lt;/h3&gt;
 &lt;hr&gt;
 &lt;h3&gt;Horários&lt;/h3&gt;
-&lt;p&gt;P1:   27/04/26&lt;br&gt;
-P2:   17/06/26&lt;br&gt;
-PS:   24/06/26&lt;br&gt;
-Exame Final (EF): 01/07/26&lt;/p&gt;
 &lt;hr&gt;</content><category term="Ensino"></category></entry><entry><title>Álgebra Linear e Geometria Analítica</title><link href="https://karlalima.github.io/ensino/algebra-linear.html" rel="alternate"></link><published>2026-03-02T13:24:07-04:00</published><updated>2026-03-02T13:24:07-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2026-03-02:/ensino/algebra-linear.html</id><summary type="html">&lt;h2&gt;Plano de Ensino&lt;/h2&gt;
 &lt;h3&gt;Notas de Aula&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Aula 01_Equacoes.pdf"&gt;Aula 01 - Equações.&lt;/a&gt;&lt;br&gt;
