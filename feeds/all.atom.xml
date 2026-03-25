@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="https://karlalima.github.io/" rel="alternate"></link><link href="https://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>https://karlalima.github.io/</id><updated>2026-03-23T13:07:46-04:00</updated><entry><title>Álgebra Linear e Geometria Analítica</title><link href="https://karlalima.github.io/ensino/algebra-linear.html" rel="alternate"></link><published>2026-03-23T13:07:46-04:00</published><updated>2026-03-23T13:07:46-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2026-03-23:/ensino/algebra-linear.html</id><summary type="html">&lt;h2&gt;Plano de Ensino&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima</title><link href="https://karlalima.github.io/" rel="alternate"></link><link href="https://karlalima.github.io/feeds/all.atom.xml" rel="self"></link><id>https://karlalima.github.io/</id><updated>2026-03-25T07:02:55-04:00</updated><entry><title>Álgebra Linear e Geometria Analítica</title><link href="https://karlalima.github.io/ensino/algebra-linear.html" rel="alternate"></link><published>2026-03-25T07:02:55-04:00</published><updated>2026-03-25T07:02:55-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2026-03-25:/ensino/algebra-linear.html</id><summary type="html">&lt;h2&gt;Plano de Ensino&lt;/h2&gt;
 &lt;h3&gt;Notas de Aula&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Aula 01_Equacoes.pdf"&gt;Aula 01 - Equações.&lt;/a&gt;&lt;br&gt;
 &lt;a href="https://karlalima.github.io/arquivos/Aula_02_Sistemas_Lineares.pdf"&gt;Aula 02 - Sistemas Lineares 2x2.&lt;/a&gt; &lt;br&gt;
@@ -8,13 +8,12 @@
 &lt;a href="https://karlalima.github.io/arquivos/Aula_05_Matrizes Quadradas.pdf"&gt;Aula 05 - Matrizes Quadradas.&lt;/a&gt; &lt;br&gt;
 &lt;a href="https://karlalima.github.io/arquivos/Aula_06_Matrizes_Especiais.pdf"&gt;Aula 06 - Matrizes Especiais.&lt;/a&gt; &lt;br&gt;
 &lt;a href="https://karlalima.github.io/arquivos/Aula_07_Escalonamento.pdf"&gt;Aula 07 - Escalonamento.&lt;/a&gt; &lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/Aula_08_Eliminacao.pdf"&gt;Aula 08 - Eliminações Gaussiana e Gaus-Jordan.&lt;/a&gt;   &lt;/p&gt;
+&lt;a href="https://karlalima.github.io/arquivos/Aula_08_Eliminacao.pdf"&gt;Aula 08 - Eliminações Gaussiana e Gaus-Jordan.&lt;/a&gt; &lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/Aula_09_Vetores.pdf"&gt;Aula 09 - Vetores em Espaços Euclidianos.&lt;/a&gt;   &lt;/p&gt;
 &lt;hr&gt;
 &lt;hr&gt;
 &lt;h3&gt;Listas&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Lista P1_ALGA.pdf"&gt;Lista P1 (Atualizada em 18/03)&lt;/a&gt;  &lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Avaliações …&lt;/h3&gt;</summary><content type="html">&lt;h2&gt;Plano de Ensino&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Lista P1_ALGA.pdf"&gt;Lista …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Plano de Ensino&lt;/h2&gt;
 &lt;h3&gt;Notas de Aula&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Aula 01_Equacoes.pdf"&gt;Aula 01 - Equações.&lt;/a&gt;&lt;br&gt;
 &lt;a href="https://karlalima.github.io/arquivos/Aula_02_Sistemas_Lineares.pdf"&gt;Aula 02 - Sistemas Lineares 2x2.&lt;/a&gt; &lt;br&gt;
@@ -23,7 +22,8 @@
 &lt;a href="https://karlalima.github.io/arquivos/Aula_05_Matrizes Quadradas.pdf"&gt;Aula 05 - Matrizes Quadradas.&lt;/a&gt; &lt;br&gt;
 &lt;a href="https://karlalima.github.io/arquivos/Aula_06_Matrizes_Especiais.pdf"&gt;Aula 06 - Matrizes Especiais.&lt;/a&gt; &lt;br&gt;
 &lt;a href="https://karlalima.github.io/arquivos/Aula_07_Escalonamento.pdf"&gt;Aula 07 - Escalonamento.&lt;/a&gt; &lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/Aula_08_Eliminacao.pdf"&gt;Aula 08 - Eliminações Gaussiana e Gaus-Jordan.&lt;/a&gt;   &lt;/p&gt;
+&lt;a href="https://karlalima.github.io/arquivos/Aula_08_Eliminacao.pdf"&gt;Aula 08 - Eliminações Gaussiana e Gaus-Jordan.&lt;/a&gt; &lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/Aula_09_Vetores.pdf"&gt;Aula 09 - Vetores em Espaços Euclidianos.&lt;/a&gt;   &lt;/p&gt;
 &lt;hr&gt;
 &lt;hr&gt;
 &lt;h3&gt;Listas&lt;/h3&gt;
