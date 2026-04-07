@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="https://karlalima.github.io/" rel="alternate"></link><link href="https://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>https://karlalima.github.io/</id><updated>2026-04-01T12:40:30-04:00</updated><entry><title>Álgebra Linear e Geometria Analítica</title><link href="https://karlalima.github.io/ensino/algebra-linear.html" rel="alternate"></link><published>2026-04-01T12:40:30-04:00</published><updated>2026-04-01T12:40:30-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2026-04-01:/ensino/algebra-linear.html</id><summary type="html">&lt;h2&gt;Plano de Ensino&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Profª. Karla Lima - Ensino</title><link href="https://karlalima.github.io/" rel="alternate"></link><link href="https://karlalima.github.io/feeds/ensino.atom.xml" rel="self"></link><id>https://karlalima.github.io/</id><updated>2026-04-07T13:19:51-04:00</updated><entry><title>Álgebra Linear e Geometria Analítica</title><link href="https://karlalima.github.io/ensino/algebra-linear.html" rel="alternate"></link><published>2026-04-07T13:19:51-04:00</published><updated>2026-04-07T13:19:51-04:00</updated><author><name>Karla Lima</name></author><id>tag:karlalima.github.io,2026-04-07:/ensino/algebra-linear.html</id><summary type="html">&lt;h2&gt;Plano de Ensino&lt;/h2&gt;
 &lt;h3&gt;Notas de Aula&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://karlalima.github.io/arquivos/Aula 01_Equacoes.pdf"&gt;Aula 01 - Equações.&lt;/a&gt;&lt;br&gt;
 &lt;a href="https://karlalima.github.io/arquivos/Aula_02_Sistemas_Lineares.pdf"&gt;Aula 02 - Sistemas Lineares 2x2.&lt;/a&gt; &lt;br&gt;
@@ -23,7 +23,8 @@
 &lt;a href="https://karlalima.github.io/arquivos/Aula_09_Vetores.pdf"&gt;Aula 09 - Vetores em Espaços Euclidianos.&lt;/a&gt; &lt;br&gt;
 &lt;a href="https://karlalima.github.io/arquivos/Aula_10_Vetores_no_Rn.pdf"&gt;Aula 10 - Vetores em Espaços Euclidianos.&lt;/a&gt; &lt;br&gt;
 &lt;a href="https://karlalima.github.io/arquivos/Aula_11_Norma.pdf"&gt;Aula 11 - Norma. Distância.&lt;/a&gt; &lt;br&gt;
-&lt;a href="https://karlalima.github.io/arquivos/Aula_11_Vetores_Canonicos.pdf"&gt;Aula 11 - Vetores Canônicos.&lt;/a&gt;   &lt;/p&gt;
+&lt;a href="https://karlalima.github.io/arquivos/Aula_11_Vetores_Canonicos.pdf"&gt;Aula 11 - Vetores Canônicos.&lt;/a&gt; &lt;br&gt;
+&lt;a href="https://karlalima.github.io/arquivos/Aula_12_Equacao_da_reta.pdf"&gt;Aula 12 - Equações da Reta.&lt;/a&gt;   &lt;/p&gt;
 &lt;hr&gt;
 &lt;hr&gt;
 &lt;h3&gt;Listas&lt;/h3&gt;
